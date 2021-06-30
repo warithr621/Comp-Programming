@@ -1,3 +1,5 @@
+//Problem: https://codeforces.com/contest/1533/problem/A
+
 fun main() = repeat(readLine()!!.toInt()) {
   val (n, k) = readLine()!!.split(" ").map { it.toInt() }
   var ans = 0
