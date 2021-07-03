@@ -9,10 +9,10 @@ public class waiting {
     public static void main(String args[]) throws IOException{
     // 	T = Integer.parseInt(next());
         for (int t = 1; t <= T; t++) {
-            int n = Integer.parseInt(next()), m = Integer.parseInt(next()), l = Integer.parseInt(next());
+            int N = Integer.parseInt(next()), M = Integer.parseInt(next()), L = Integer.parseInt(next());
             int lim = 0, ans = 0;
             Queue<Integer> q = new PriorityQueue<Integer>();
-            while(n-->0) {
+            while(N-->0) {
                 int inp = Integer.parseInt(next());
                 int end = -1;
                 while(q.size() > 0 && q.peek() < inp) {
@@ -22,12 +22,12 @@ public class waiting {
                 if (end != -1 && lim == 0) {
                     ans += inp - end - 1;
                 }
-                if (lim == l) {
-                    q.offer(q.peek() + m);
+                if (lim == L) {
+                    q.offer(q.peek() + M);
                     q.poll();
                 }
-                if (lim < l) {
-                    q.offer(inp + m - 1);
+                if (lim < L) {
+                    q.offer(inp + M - 1);
                     ++lim;
                 }
             }
