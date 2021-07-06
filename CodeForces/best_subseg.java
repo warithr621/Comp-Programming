@@ -11,16 +11,22 @@ public class best_subseg {
     public static void main(String args[]) throws IOException{
     // 	T = Integer.parseInt(next());
         for (int t = 1; t <= T; t++) {
-            int n = Integer.parseInt(next()), mx = -1;
-            String s = "";
-            for (int i = 0; i < n; i++) {
-                String temp = next();
-                s += temp + " ";
-                mx = Math.max(mx, Integer.parseInt(temp));
+            int n = Integer.parseInt(next());
+            int mx = -1, ans = 0, cur = -1, len = 0;
+            while(n-->0) {
+                int temp = Integer.parseInt(next());
+                if (cur != temp) {
+                    cur = temp; len = 0;
+                }
+                ++len;
+                if (mx < cur) {
+                    mx = cur; ans = 0;
+                }
+                if (mx == cur) {
+                    ans = Math.max(ans, len);
+                }
             }
-            String find = Integer.toString(mx);
-            while(s.contains(find)) find += " " + Integer.toString(mx);
-            out.println(find.split(" ").length - 1);
+            out.println(ans);
         }
         br.close(); out.close();
     }
