@@ -14,12 +14,12 @@ for i in range(N):
             q.pop(0)
         else:
             b = False
-    if end != -1 and lim==0:
+    if end != -1 and lim == 0:
         ans += inp - end - 1
     if lim == L:
         q.append(q[0] + M)
         q.pop(0)
     if lim < L:
-        q.append(inp + M -1)
+        q.append(inp + M - 1)
         lim += 1
 print(ans)
