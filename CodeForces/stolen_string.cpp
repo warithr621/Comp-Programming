@@ -1,4 +1,7 @@
-//Problem: https://codeforces.com/contest/1546/problem/B#include <bits/stdc++.h>
+//Problem: https://codeforces.com/contest/1546/problem/B
+//Note: In-Contest Submission
+
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 typedef long double ld;
