@@ -11,9 +11,11 @@ public class cifera {
     public static void main(String args[]) throws IOException{
     // 	T = Integer.parseInt(next());
         for (int t = 1; t <= T; t++) {
-            long N = Long.parseLong(next()), L = Long.parseLong(next());
-            double D = Math.log(L) * 1.0 / Math.log(N);
-            out.println(Math.pow(N, Math.floor(D) * 1L) == L ? "YES\n" + (int) --D : "NO");
+            long N = Long.parseLong(next()), L = Long.parseLong(next()), ans = 1, A = N;
+            while(N < L) {
+                N *= A; ++ans;
+            }
+            out.println(N == L ? "YES\n" + --ans : "NO");
         }
         br.close(); out.close();
     }
