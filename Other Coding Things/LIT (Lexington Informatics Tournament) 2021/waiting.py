@@ -1,3 +1,5 @@
+#Source: 2020 Lexington Informatics Tournament Standard Round A (Waiting)
+
 N, M, L = map(int, input().split())
 lim = 0
 ans = 0
