@@ -1,3 +1,5 @@
+//Source: 2020 Lexington Informatics Tournament Standard Round A (Waiting)
+
 import java.io.*;
 import java.util.*;
 
