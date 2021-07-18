@@ -1,3 +1,5 @@
+//Source: 2020 Lexington Informatics Tournament Standard Round A (Waiting)
+
 #include <bits/stdc++.h>
 using namespace std;
 #define poll(v) v.erase(v.begin(), v.begin() + 1);
