@@ -11,7 +11,7 @@ public class dice_tower {
     public static void main(String args[]) throws IOException{
     	T = next(1);
         for (int ttt = 1; ttt <= T; ttt++) {
-            int n = next(1);
+            long n = Long.parseLong(next());
             out.println(n / 14 >= 1 && 1 <= n%14 && n%14 <= 6 ? "YES" : "NO");
         }
         br.close(); out.close();
