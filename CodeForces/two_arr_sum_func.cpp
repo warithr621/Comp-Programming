@@ -1,6 +1,8 @@
 //Problem: https://codeforces.com/contest/1165/problem/E
 //Note: Virtual Submission
 
+//By the way, this took five tries solely because of overflow and modulo errors, in both C++ and Java
+
 #include <bits/stdc++.h>
 using namespace std;
 #define foru(i, n, k, x) for (int i = n; i < k; i += x)
