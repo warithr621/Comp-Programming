@@ -15,6 +15,7 @@ public class chess {
             int one = 0, two = 0;
             int[] a = new int[n/2];
             for (int i = 0; i < n/2; i++) a[i] = nexti();
+            Arrays.sort(a);
             for (int i = 0; i < n/2; i++) {
                 one += Math.abs(a[i] - i * 2 - 1);
                 two += Math.abs(a[i] - i*2 - 2);
