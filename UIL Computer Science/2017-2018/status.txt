@@ -1,0 +1,67 @@
+This is a text file to mark what problems are done and not done for each programming test
+
+Inv A:
+    1  - Done
+    2  - Done
+    3  - Done
+    4  - NOT Done
+    5  - NOT Done
+    6  - Done
+    7  - NOT Done
+    8  - NOT Done
+    9  - NOT DONE
+    10 - NOT DONE
+    11 - NOT DONE
+    12 - NOT DONE
+Inv B:
+    1  - NOT Done
+    2  - NOT Done
+    3  - NOT Done
+    4  - NOT Done
+    5  - NOT Done
+    6  - NOT Done
+    7  - NOT Done
+    8  - NOT Done
+    9  - NOT DONE
+    10 - NOT DONE
+    11 - NOT DONE
+    12 - NOT DONE
+District:
+    1  - NOT Done
+    2  - NOT Done
+    3  - NOT Done
+    4  - NOT Done
+    5  - NOT Done
+    6  - NOT Done
+    7  - NOT Done
+    8  - NOT Done
+    9  - NOT DONE
+    10 - NOT DONE
+    11 - NOT DONE
+    12 - NOT DONE
+Regionals:
+    1  - NOT Done
+    2  - NOT Done
+    3  - NOT Done
+    4  - NOT Done
+    5  - NOT Done
+    6  - NOT Done
+    7  - NOT Done
+    8  - NOT Done
+    9  - NOT DONE
+    10 - NOT DONE
+    11 - NOT DONE
+    12 - NOT DONE
+State:
+    1  - NOT Done
+    2  - NOT Done
+    3  - NOT Done
+    4  - NOT Done
+    5  - NOT Done
+    6  - NOT Done
+    7  - NOT Done
+    8  - NOT Done
+    9  - NOT DONE
+    10 - NOT DONE
+    11 - NOT DONE
+    12 - NOT DONE
