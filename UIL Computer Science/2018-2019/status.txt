@@ -9,8 +9,8 @@ Inv A:
     6  - Done
     7  - NOT Done
     8  - NOT Done
-    9  - NOT Done
-    10 - NOT Done
+    9  - Done
+    10 - Done
     11 - NOT Done
     12 - NOT Done
 Inv B:
