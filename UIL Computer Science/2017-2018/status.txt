@@ -9,10 +9,10 @@ Inv A:
     6  - Done
     7  - NOT Done
     8  - NOT Done
-    9  - NOT DONE
-    10 - NOT DONE
-    11 - NOT DONE
-    12 - NOT DONE
+    9  - NOT Done
+    10 - NOT Done
+    11 - NOT Done
+    12 - NOT Done
 Inv B:
     1  - Done
     2  - Done
@@ -21,11 +21,11 @@ Inv B:
     5  - Done
     6  - NOT Done
     7  - Done
-    8  - NOT Done
-    9  - NOT DONE
-    10 - NOT DONE
-    11 - NOT DONE
-    12 - NOT DONE
+    8  - Done
+    9  - NOT Done
+    10 - NOT Done
+    11 - NOT Done
+    12 - Done
 District:
     1  - NOT Done
     2  - NOT Done
@@ -35,10 +35,10 @@ District:
     6  - NOT Done
     7  - NOT Done
     8  - NOT Done
-    9  - NOT DONE
-    10 - NOT DONE
-    11 - NOT DONE
-    12 - NOT DONE
+    9  - NOT Done
+    10 - NOT Done
+    11 - NOT Done
+    12 - NOT Done
 Regionals:
     1  - NOT Done
     2  - NOT Done
@@ -48,10 +48,10 @@ Regionals:
     6  - NOT Done
     7  - NOT Done
     8  - NOT Done
-    9  - NOT DONE
-    10 - NOT DONE
-    11 - NOT DONE
-    12 - NOT DONE
+    9  - NOT Done
+    10 - NOT Done
+    11 - NOT Done
+    12 - NOT Done
 State:
     1  - NOT Done
     2  - NOT Done
@@ -61,7 +61,7 @@ State:
     6  - NOT Done
     7  - NOT Done
     8  - NOT Done
-    9  - NOT DONE
-    10 - NOT DONE
-    11 - NOT DONE
-    12 - NOT DONE
+    9  - NOT Done
+    10 - NOT Done
+    11 - NOT Done
+    12 - NOT Done
