@@ -1,11 +1,11 @@
 This is a text file to mark what problems are done and not done for each programming test
 
 Inv A:
-    1  - NOT Done
-    2  - NOT Done
+    1  - Done
+    2  - Done
     3  - NOT Done
     4  - NOT Done
-    5  - NOT Done
+    5  - Done
     6  - NOT Done
     7  - NOT Done
     8  - NOT Done
