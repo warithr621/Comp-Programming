@@ -5,8 +5,8 @@ Inv A:
     2  - Done
     3  - NOT Done
     4  - NOT Done
-    5  - Done
-    6  - NOT Done
+    5  - NOT Done
+    6  - Done
     7  - NOT Done
     8  - NOT Done
     9  - NOT Done
