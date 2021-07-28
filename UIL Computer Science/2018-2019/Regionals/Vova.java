@@ -1,4 +1,4 @@
-//Problem 12, also this may or may not be wrong
+//Problem 12
 
 import java.io.*;
 import java.util.*;
