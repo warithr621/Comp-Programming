@@ -23,9 +23,9 @@ Inv B:
     7  - Done
     8  - NOT Done
     9  - NOT Done
-    10 - NOT Done
+    10 - Done
     11 - NOT Done
-    12 - NOT Done
+    12 - Done
 District:
     1  - NOT Done
     2  - NOT Done
