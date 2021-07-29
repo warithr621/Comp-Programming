@@ -42,14 +42,14 @@ District:
 Regionals:
     1  - Done
     2  - Done
-    3  - NOT Done
-    4  - NOT Done
+    3  - Done
+    4  - Done
     5  - NOT Done
     6  - NOT Done
     7  - NOT Done
-    8  - NOT Done
+    8  - Done
     9  - NOT Done
-    10 - NOT Done
+    10 - Done
     11 - NOT Done
     12 - NOT Done
 State:
