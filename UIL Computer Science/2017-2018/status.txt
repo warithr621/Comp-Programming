@@ -53,15 +53,15 @@ Regionals:
     11 - NOT Done
     12 - NOT Done
 State:
-    1  - NOT Done
-    2  - NOT Done
-    3  - NOT Done
+    1  - Done
+    2  - Done
+    3  - Done
     4  - NOT Done
     5  - NOT Done
-    6  - NOT Done
-    7  - NOT Done
-    8  - NOT Done
+    6  - Done
+    7  - Done
+    8  - Done
     9  - NOT Done
     10 - NOT Done
-    11 - NOT Done
-    12 - NOT Done
+    11 - Done
+    12 - Done
