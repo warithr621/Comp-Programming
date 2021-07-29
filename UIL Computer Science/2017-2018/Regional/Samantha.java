@@ -10,7 +10,7 @@ public class Samantha {
 	static int T = 1;
 	public static void main(String[] args) throws IOException {
 	   // br = new BufferedReader(new InputStreamReader(System.in));
-	    br = new BufferedReader(new FileReader("samantha.in"));
+	    br = new BufferedReader(new FileReader("samantha.dat"));
 		out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
 // 		T = nexti();
 		for (int tt = 1; tt <= T; tt++) {
