@@ -40,8 +40,8 @@ District:
     11 - Done
     12 - Done
 Regionals:
-    1  - NOT Done
-    2  - NOT Done
+    1  - Done
+    2  - Done
     3  - NOT Done
     4  - NOT Done
     5  - NOT Done
