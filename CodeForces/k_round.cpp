@@ -28,18 +28,18 @@ void setIO(string name) {
 	}
 }
 
-int gcd(int a, int b) {
+int G(int a, int b) {
     if (b == 0) return a;
-    return gcd(b, a%b);
+    return G(b, a%b);
 }
 
-int lcm(int a, int b) {
-    return a * b / gcd(a,b);
+int L(int a, int b) {
+    return a * b / G(a,b);
 }
 
 void solve() {
     int n,k; cin >> n >> k;
-    int ans = lcm(n, pow(10,k));
+    int ans = L(n, pow(10,k));
     cout << ans << '\n';
 }
  
