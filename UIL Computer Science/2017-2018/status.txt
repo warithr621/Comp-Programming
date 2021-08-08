@@ -46,7 +46,7 @@ Regionals:
     4  - Done
     5  - NOT Done
     6  - NOT Done
-    7  - NOT Done
+    7  - Done
     8  - Done
     9  - NOT Done
     10 - Done
