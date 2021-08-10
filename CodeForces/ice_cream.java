@@ -14,10 +14,10 @@ public class ice_cream {
 		out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
 // 		T = nexti();
 		for (int tt = 1; tt <= T; tt++) {
-		    int n = nexti(), sum = nexti(), ans = 0;
+		    long n = nextl(), sum = nextl(), ans = 0;
 		    while(n-->0) {
 		        String s = next();
-		        int t = nexti();
+		        long t = nextl();
 		        if (s.equals("+")) sum += t;
 		        else {
 		            if (t > sum) ++ans;
