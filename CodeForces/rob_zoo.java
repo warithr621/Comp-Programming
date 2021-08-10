@@ -17,7 +17,7 @@ public class rob_zoo {
 		    int n = nexti();
 		    int[] a = new int[n];
 		    for (int i = 0; i < n; i++) a[i] = nexti();
-		    for (int i = 1; i < n; i++) {
+		    for (int i = n-1; i > 0; i--) {
 		        for (int j = 0; j < i; j++) {
 		            if (a[j] > a[j+1]) {
 		                swap(a, j, j+1);
