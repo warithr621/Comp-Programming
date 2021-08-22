@@ -4,15 +4,15 @@ Inv A:
     1  - Done
     2  - Done
     3  - Done
-    4  - NOT Done
+    4  - Done
     5  - NOT Done
     6  - Done
     7  - NOT Done
     8  - NOT Done
-    9  - NOT Done
+    9  - Done
     10 - NOT Done
-    11 - NOT Done
-    12 - NOT Done
+    11 - Done
+    12 - Done
 Inv B:
     1  - Done
     2  - Done
