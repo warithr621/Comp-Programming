@@ -20,7 +20,7 @@ Inv B:
     4  - Done
     5  - Done
     6  - NOT Done
-    7  - NOT Done
+    7  - Done
     8  - Done
     9  - Done
     10 - Done
