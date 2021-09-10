@@ -19,9 +19,10 @@ public class Vlad {
 		    while((s = br.readLine()) != null) {
 		        st = new StringTokenizer(s);
 		        nexti();
-		        String L = next(), F = next(), M = next();
+		        String L = next(), F = next(), M = "";
+		        if (st.hasMoreTokens()) M = next();
 		        L = L.substring(0, L.length()-1);
-		        M = M.substring(0,1);
+		        if (!M.equals("")) M = M.substring(0,1);
 		        Student thonk = new Student(F, M, L);
 		        al.add(thonk);
 		    }
@@ -49,11 +50,11 @@ class Student implements Comparable<Student> {
     String f, m, l;
     Student(String first, String middle, String last) {
         this.f = first;
-        this.m = middle;
+        this.m = middle.equals("") ? "-----" : middle;
         this.l = last;
     }
     public String toString() {
-        return f + " " + m + " " + l;
+        return f + " " + (m.equals("-----") ? "" : m + " ") + l;
     }
     public int compareTo(Student s) {
         if (this.l.compareTo(s.l) < 0) return -1;
