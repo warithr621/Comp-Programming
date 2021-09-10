@@ -14,14 +14,18 @@ public class Bojing {
 		out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
 // 		T = nexti();
 		for (int tt = 1; tt <= T; tt++) {
-		    ArrayList<Word> al = new ArrayList<Word>();
+		    HashSet<String> hs = new HashSet<String>();
 		    String s;
 		    while ((s = br.readLine()) != null) {
 		        st = new StringTokenizer(s);
 		        while(st.hasMoreTokens()) {
-		            Word w = new Word(next());
-		            al.add(w);
+		            hs.add(next());
 		        }
+		    }
+		    List<Word> al = new ArrayList<Word>();
+		    for (String str : hs) {
+		        Word w = new Word(str);
+		        al.add(w);
 		    }
 		    Collections.sort(al);
 		    out.print(al.get(0) + " ");
