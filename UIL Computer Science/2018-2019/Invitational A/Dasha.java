@@ -14,17 +14,16 @@ public class Dasha {
 		out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
 		T = nexti();
 		for (int tt = 1; tt <= T; tt++) {
-		    int a = nexti(), b = nexti(), m = nexti();
-		    ArrayList<Integer> al = new ArrayList<Integer>();
-		    al.add(nexti());
-		    int i = 0;
-		    while (true) {
-		        int x_0 = (a * al.get(i) + b) % m;
-		        if (al.contains(x_0)) break;
-		        al.add(x_0);
-		        ++i;
+		    long a = nextl(), b = nextl(), m = nextl(), x = nextl();
+		    boolean[] s = new boolean[(int)m];
+		    a %= m; b %= m;
+		    int cnt = 0;
+		    while(!s[(int)x]) {
+		        ++cnt;
+		        s[(int)x] = true;
+		        x = (int) ((1L * a * x%m + b) % m);
 		    }
-		    out.printf("%d / %d%n", ++i, m);
+		    out.printf("%d / %d%n", cnt, m);
 		}
 		br.close(); out.close();
 	}
