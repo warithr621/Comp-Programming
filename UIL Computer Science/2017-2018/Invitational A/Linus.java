@@ -15,6 +15,10 @@ public class Linus {
             int n = Integer.parseInt(st.nextToken()), d = Integer.parseInt(st.nextToken());
             int g = gcd(n, d);
             n /= g; d /= g;
+            if (n == 0) {
+                out.println(0);
+                continue;
+            }
             if (n >= d) {
                 out.print(n/d + " ");
                 n -= n/d*d;
