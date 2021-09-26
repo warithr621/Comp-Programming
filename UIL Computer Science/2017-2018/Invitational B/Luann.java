@@ -12,13 +12,16 @@ public class Luann {
         T = Integer.parseInt(br.readLine());
         for (int ttt = 1; ttt <= T; ttt++) {
             int x = Integer.parseInt(br.readLine());
-            char[][] mat = new char[x+1][x+1];
+            char[][] mat = new char[x+1][10];
             for (int i = 0; i < x+1; i++) Arrays.fill(mat[i], ' ');
+            int mx = -1;
             for (int i = 0; i < x; i++) {
                 StringTokenizer st = new StringTokenizer(br.readLine());
-                mat[Integer.parseInt(st.nextToken())][Integer.parseInt(st.nextToken())] = 'X';
+                int X = Integer.parseInt(st.nextToken()), Y = Integer.parseInt(st.nextToken());
+                mat[X][Y] = 'X';
+                mx = Math.max(mx, Y);
             }
-            for (int i = x; i >= 1; i--) {
+            for (int i = mx; i >= 1; i--) {
                 out.print(i + "|");
                 for (int j = 1; j <= x; j++) out.print(mat[j][i]);
                 out.println();
