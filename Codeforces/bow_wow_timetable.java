@@ -17,7 +17,9 @@ public class bow_wow_timetable {
 		    String s = next();
 		    int o = 0, l = s.length();
 		    for (int i =0 ; i < l; i++) o = s.charAt(i) == 49 ? ++o : o;
-		    out.println((l + 1 - (o == 1 ? 1 : 0)) / 2);
+		    if (s.equals("0")) out.println(0);
+		    else
+		        out.println((l + 1 - (o == 1 ? 1 : 0)) / 2);
 		}
 		br.close(); out.close();
 	}
