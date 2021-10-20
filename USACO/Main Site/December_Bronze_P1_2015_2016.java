@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Bronze_P1_2015_2016 {
+public class December_Bronze_P1_2015_2016 {
     static BufferedReader br;
     static PrintWriter out;
 	static StringTokenizer st = new StringTokenizer("");
