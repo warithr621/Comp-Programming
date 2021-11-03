@@ -150,8 +150,8 @@
                 
 2020-2021:
         December:
-                Bronze P1: Not Done
-                Bronze P2: Not Done
+                Bronze P1: Done
+                Bronze P2: Done
                 Bronze P3: Not Done
                 Silver P1: Not Done
                 Silver P2: Not Done
