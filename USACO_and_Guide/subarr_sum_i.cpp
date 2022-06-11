@@ -10,7 +10,7 @@ int main() {
     int ans = 0;
     int left = 0, right = 0, sum = a[0];
     while(left < n && right < n) {
-        while(right < n && sum + a[right+1] <= x) sum += a[++right];
+        while(right+1 < n && sum + a[right+1] <= x) sum += a[++right];
         // cout << left << ' ' << right << ' ' << sum <<  '\n';
         if (sum == x) ++ans;
         sum -= a[left++];
