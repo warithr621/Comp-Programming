@@ -11,26 +11,14 @@ int pow(int base, int exp, int m) {
 	if (base == 0) return (exp == 0 ? 1 : 0);
 	if (base == 1) return 1;
 	base %= m;
-
-	vector<int> pws;
-	int cur = base;
-	int i = 1;
-	for (; i <= exp; i *= 2) {
-		pws.pb(cur);
-		cur = cur * cur % m;
-	}
-	i /= 2;
-	int curi = (int) pws.size() - 1;
+ 
 	int ans = 1;
-
-	while(exp != 0) {
-		while (i > exp) {
-			i /= 2;
-			--curi;
-		}
-		ans = ans * pws[curi] % m;
-		exp -= i;
+	while (exp > 0) {
+	    if (exp % 2 == 1) ans = ans * base % m;
+	    base = base * base % m;
+	    exp /= 2;
 	}
+	
 	return ans;
 }
 
