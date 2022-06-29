@@ -16,7 +16,7 @@ int pow(int base, int exp, int m) {
 	while (exp > 0) {
 	    if (exp % 2 == 1) ans = ans * base % m;
 	    base = base * base % m;
-	    exp /= 2;
+	    exp >>= 1;
 	}
 	
 	return ans;
