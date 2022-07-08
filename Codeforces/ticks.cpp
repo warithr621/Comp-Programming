@@ -1,8 +1,6 @@
 // https://codeforces.com/contest/1579/problem/C
 
-#include <bits/stdc++.h>
-#define pii pair<int, int>
-#define mp make_pair
+#include <iostream>
 using namespace std;
 
 void solve() {
