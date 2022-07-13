@@ -1,4 +1,5 @@
 // https://codeforces.com/problemset/problem/1201/C
+
 import java.io.*;
 import java.util.*;
 public class Max_Median {
