@@ -1,3 +1,5 @@
+// 2022 Silver Open P3
+
 #include <iostream>
 using namespace std;
 
