@@ -1,3 +1,5 @@
+//2021 Jan Bronze P3
+
 #include <stdio.h>
 
 void swap(long long int* x, long long int* y) {
@@ -7,6 +9,7 @@ void swap(long long int* x, long long int* y) {
 }
 
 void sort(long long int arr[], int n) {
+    //I later learned qsort exists, but I'm just going to go with it
     int i, j, mn;
     for (int i = 0; i < n-1; i++) {
         mn = i;
