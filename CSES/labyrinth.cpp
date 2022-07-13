@@ -16,14 +16,17 @@ int main() {
 			Bx = i; By = j;
 		}
 	}
+	
 	int dx[] = {0, -1, 0, 1};
 	int dy[] = {1, 0, -1, 0};
 	string move[] = {"R", "U", "L", "D"};
+	
 	queue<pair<int, int>> q;
 	q.push(make_pair(Ax, Ay));
 	vector<vector<bool>> vis(n, vector<bool>(m, false));
 	vis[Ax][Ay] = true;
 	vector<vector<int>> prev(n, vector<int>(m));
+	
 	while(!q.empty()) {
 		pair<int, int> P = q.front(); q.pop();
 		int x = P.first, y = P.second;
