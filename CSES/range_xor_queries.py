@@ -1,4 +1,4 @@
-//CSES Range XOR Queries
+# CSES Range XOR Queries
 
 import sys
 read = sys.stdin.readline
