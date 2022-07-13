@@ -1,3 +1,5 @@
+// https://codeforces.com/problemset/problem/1137/D
+
 import java.util.*;
 
 public class CoopGame {
