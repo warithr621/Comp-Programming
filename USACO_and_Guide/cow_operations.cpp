@@ -1,4 +1,4 @@
-// 2022 Silver Open P3
+// 2022 Open Silver P3
 
 #include <iostream>
 using namespace std;
