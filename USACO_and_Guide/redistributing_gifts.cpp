@@ -12,14 +12,10 @@ int n;
 bool reach[5000][5000];
 
 void dfs(int start, int end) {
-    //use dfs to see if you can reach another point from the end I think?
+    //if you can get from i->j and j->k, then you can get from i->k
     if (reach[start][end]) return;
     reach[start][end] = true;
     for (int target : graph[end]) dfs(start, target);
-}
-
-void init_dfs() {
-    for (int i = 1; i <= n; i++) dfs(i, i);
 }
 
 int32_t main() {
@@ -39,7 +35,7 @@ int32_t main() {
         graph[i].push_back(i);
     }
 
-    init_dfs();
+    for (int i = 1; i <= n; i++) dfs(i, i);
 
     for (int i = 1; i <= n; i++) {
         for (int j : graph[i]) {
