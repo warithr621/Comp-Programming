@@ -1,3 +1,5 @@
+// USACO Trainer's "Arithmetic Progressions"
+
 /*
 ID: REDACTED
 LANG: C++11

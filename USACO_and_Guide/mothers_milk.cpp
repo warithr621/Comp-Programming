@@ -1,3 +1,5 @@
+// USACO Trainer's "Mother's Milk"
+
 /*
 ID: REDACTED
 LANG: C++11

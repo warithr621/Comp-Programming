@@ -1,3 +1,5 @@
+// USACO Trainer's "Number Triangles"
+
 /*
 ID: REDACTED
 LANG: C++11

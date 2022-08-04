@@ -1,3 +1,5 @@
+// USACO Trainer's "Prime Palindromes"
+
 /*
 ID: REDACTED
 LANG: C++11
