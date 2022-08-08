@@ -1,12 +1,19 @@
+// Bingwen
+
 import java.util.*;
-import java.lang.*;
 import java.io.*;
+import static java.lang.System.*;
 
 public class Bingwen {
-    public static void main(String[] args) throws IOException, FileNotFoundException {
-        Scanner sc = new Scanner(new FileReader("bingwen.dat"));
-        while(sc.hasNext()) {
-            System.out.printf("%.2f\n", Math.cbrt(sc.nextDouble()));
-        }
-    }
+	static Scanner sc;
+
+	static void solve() {
+    	out.printf("%.2f\n", Math.cbrt(sc.nextDouble()));
+	}
+
+	public static void main(String[] args) throws FileNotFoundException {
+	   // sc = new Scanner(System.in);
+		sc = new Scanner(new File("bingwen.dat"));
+		while(sc.hasNextDouble()) solve();
+	}
 }
