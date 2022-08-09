@@ -14,12 +14,12 @@ public class Hyun {
 		out.printf("Case #%d: ", tc);
 		boolean[] b = new boolean[4];
 		for (int i = 0; i < s.length(); i++) {
-		    char c = s.charAt(i);
-		    if (c == ' ') continue;
-		    b[0] |= number.indexOf(c) != -1;
-		    b[1] |= top.indexOf(c) != -1;
-		    b[2] |= home.indexOf(c) != -1;
-		    b[3] |= bottom.indexOf(c) != -1;
+			char c = s.charAt(i);
+			if (c == ' ') continue;
+			b[0] |= number.indexOf(c) != -1;
+			b[1] |= top.indexOf(c) != -1;
+			b[2] |= home.indexOf(c) != -1;
+			b[3] |= bottom.indexOf(c) != -1;
 		}
 		if (b[0]) out.print("NUMBER ");
 		if (b[1]) out.print("TOP ");

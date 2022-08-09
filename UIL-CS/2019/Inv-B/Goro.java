@@ -11,11 +11,11 @@ public class Goro {
 		int N = sc.nextInt();
 		double cur = 0;
 		for (int i = 0; i < N; i++) {
-		    double den = 1.0 * (2 * i + 1) * Math.pow(3, i);
-		    if (i % 2 == 0) cur += 1 / den;
-		    else cur -= 1/den;
+			double den = 1.0 * (2 * i + 1) * Math.pow(3, i);
+			if (i % 2 == 0) cur += 1 / den;
+			else cur -= 1/den;
 		    
-		    out.printf("%.5f\n", Math.sqrt(12) * cur);
+			out.printf("%.5f\n", Math.sqrt(12) * cur);
 		}
 	}
 

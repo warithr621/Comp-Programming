@@ -5,37 +5,37 @@ import java.io.*;
 import static java.lang.System.*;
 
 public class Opus {
-	static Scanner sc;
+    static Scanner sc;
 
-	static void solve() {
-    	String[] tmp = sc.nextLine().split(" ");
-    	char[] key = new char[40];
-    	for (int i = 1; i <= 40; i++) key[i-1] = tmp[i].charAt(0);
-    	ArrayList<Student> al = new ArrayList<>();
-    	while(sc.hasNextLine()) {
-    	    al.add(new Student(sc.nextLine(), key));
-    	}
-    	Collections.sort(al);
-    	String cur = al.get(0).cl; int pos = 1;
-    	out.println(cur);
-    	for (int i = 0; i < al.size(); i++) {
-    	    if (i > 0 && al.get(i).equals(al.get(i-1))) out.print((pos-1) + " ");
-    	    else out.print(pos + " ");
-    	    out.println(al.get(i));
-    	    
-    	    if (i < al.size() - 1 && !al.get(i).cl.equals(al.get(i+1).cl)) {
-    	        cur = al.get(i+1).cl;
-    	        out.println(cur);
-    	        pos = 1;
-    	    } else ++pos;
-    	}
-	}
+    static void solve() {
+        String[] tmp = sc.nextLine().split(" ");
+        char[] key = new char[40];
+        for (int i = 1; i <= 40; i++) key[i-1] = tmp[i].charAt(0);
+        ArrayList<Student> al = new ArrayList<>();
+        while(sc.hasNextLine()) {
+            al.add(new Student(sc.nextLine(), key));
+        }
+        Collections.sort(al);
+        String cur = al.get(0).cl; int pos = 1;
+        out.println(cur);
+        for (int i = 0; i < al.size(); i++) {
+            if (i > 0 && al.get(i).equals(al.get(i-1))) out.print((pos-1) + " ");
+            else out.print(pos + " ");
+            out.println(al.get(i));
+            
+            if (i < al.size() - 1 && !al.get(i).cl.equals(al.get(i+1).cl)) {
+                cur = al.get(i+1).cl;
+                out.println(cur);
+                pos = 1;
+            } else ++pos;
+        }
+    }
 
-	public static void main(String[] args) throws FileNotFoundException {
-	   // sc = new Scanner(System.in);
-		sc = new Scanner(new File("opus.dat"));
-		solve();
-	}
+    public static void main(String[] args) throws FileNotFoundException {
+       // sc = new Scanner(System.in);
+        sc = new Scanner(new File("opus.dat"));
+        solve();
+    }
 }
 
 class Student implements Comparable<Student> {

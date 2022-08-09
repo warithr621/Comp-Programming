@@ -8,8 +8,8 @@ public class Nisha {
 	static Scanner sc;
 
 	static void solve(int tc) {
-	    long k = sc.nextLong();
-	    out.printf("Case #%d: %d\n", tc, 1L + (1L << k) / 2 * k);
+		long k = sc.nextLong();
+		out.printf("Case #%d: %d\n", tc, 1L + (1L << k) / 2 * k);
 	}
 
 	public static void main(String[] args) throws FileNotFoundException {

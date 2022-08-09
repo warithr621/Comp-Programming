@@ -8,9 +8,9 @@ public class Joaquin {
 	static Scanner sc;
 	
 	static char[][] square(char[][] mat, int left, int right) {
-	    for (int i = left; i <= right; i++) mat[i][left] = mat[i][right] = 'X';
-	    for (int j = left; j <= right; j++) mat[left][j] = mat[right][j] = 'X';
-	    return mat;
+		for (int i = left; i <= right; i++) mat[i][left] = mat[i][right] = 'X';
+		for (int j = left; j <= right; j++) mat[left][j] = mat[right][j] = 'X';
+		return mat;
 	}
 
 	static void solve() {
@@ -19,13 +19,13 @@ public class Joaquin {
 		for (int i = 0; i < N; i++) for (int j = 0; j < N; j++) mat[i][j] = ' ';
 		int L = 0, R = N-1;
 		while (L <= R) {
-		    mat = square(mat, L, R);
-		    L += 2;
-		    R -= 2;
+			mat = square(mat, L, R);
+			L += 2;
+			R -= 2;
 		}
 		for (int i = 0; i < N; i++) {
-		    for (int j = 0; j < N; j++) out.print(mat[i][j]);
-		    out.println();
+			for (int j = 0; j < N; j++) out.print(mat[i][j]);
+			out.println();
 		}
 		out.println("--------------------");
 	}

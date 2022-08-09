@@ -10,7 +10,7 @@ public class Barb {
 	static void solve() {
 		int N = sc.nextInt();
 		out.println("A   A*A   3*A   A/2");
-		for (int i = 1; i <= N; i++) out.printf("%d     %d     %d     %d\n", i, i*i, 3*i, i/2);
+		for (int i = 1; i <= N; i++) out.printf("%d	 %d	 %d	 %d\n", i, i*i, 3*i, i/2);
 	}
 
 	public static void main(String[] args) throws FileNotFoundException {

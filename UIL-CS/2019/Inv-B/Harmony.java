@@ -13,12 +13,12 @@ public class Harmony {
 		int len = s.length(), check = s.charAt(len-1) - '0';
 		int odd = 0, even = 0;
 		for (int i = 1; i < len; i++) {
-		    if (i % 2 == 1) odd += s.charAt(i-1) - '0';
-		    else even += s.charAt(i-1) - '0';
+			if (i % 2 == 1) odd += s.charAt(i-1) - '0';
+			else even += s.charAt(i-1) - '0';
 		}
 		int high = 0;
 		for (int i = 1; i < len; i+= 2) {
-		    if (s.charAt(i-1) > '4') ++high;
+			if (s.charAt(i-1) > '4') ++high;
 		}
 		int sum = odd * 3 + even + high;
 		int req = (sum % 10 == 0 ? 0 : 10 - sum % 10);
