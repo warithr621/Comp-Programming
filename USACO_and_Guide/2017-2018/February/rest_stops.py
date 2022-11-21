@@ -1,4 +1,4 @@
-#2018 Feb Silver P1
+# 2018 Feb Silver P1
 
 # import sys
 # read = sys.stdin.readline
