@@ -1,26 +1,31 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming)
 
-### Total Files: 490
-[./AdventOfCode/2019/Day1/input.txt](./AdventOfCode/2019/Day1/input.txt)\
+Note that the "Total Files" count below only includes programming files, i.e. those with the following extensions:
+- `.java`
+- `.cpp`
+- `.py`
+- `.php`
+- `.js`
+- `.go`
+- `.c`
+- `.kt`
+
+
+### Total Files: 492
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
 [./AdventOfCode/2019/Day2/ProgramAlarm2.java](./AdventOfCode/2019/Day2/ProgramAlarm2.java)\
-[./AdventOfCode/2019/Day2/input.txt](./AdventOfCode/2019/Day2/input.txt)\
 [./AdventOfCode/2020/Day1/ReportRepair1.cpp](./AdventOfCode/2020/Day1/ReportRepair1.cpp)\
 [./AdventOfCode/2020/Day1/ReportRepair2.cpp](./AdventOfCode/2020/Day1/ReportRepair2.cpp)\
-[./AdventOfCode/2020/Day1/input.txt](./AdventOfCode/2020/Day1/input.txt)\
 [./AdventOfCode/2020/Day2/PwdPhilosophy1.java](./AdventOfCode/2020/Day2/PwdPhilosophy1.java)\
 [./AdventOfCode/2020/Day2/PwdPhilosophy2.java](./AdventOfCode/2020/Day2/PwdPhilosophy2.java)\
-[./AdventOfCode/2020/Day2/input.txt](./AdventOfCode/2020/Day2/input.txt)\
-[./AdventOfCode/2020/Day3/Toboggan1.class](./AdventOfCode/2020/Day3/Toboggan1.class)\
 [./AdventOfCode/2020/Day3/Toboggan1.java](./AdventOfCode/2020/Day3/Toboggan1.java)\
-[./AdventOfCode/2020/Day3/Toboggan2.class](./AdventOfCode/2020/Day3/Toboggan2.class)\
 [./AdventOfCode/2020/Day3/Toboggan2.java](./AdventOfCode/2020/Day3/Toboggan2.java)\
-[./AdventOfCode/2020/Day3/input.txt](./AdventOfCode/2020/Day3/input.txt)\
 [./AdventOfCode/2020/Day4/PassportProcess1.java](./AdventOfCode/2020/Day4/PassportProcess1.java)\
-[./AdventOfCode/2020/Day4/input.txt](./AdventOfCode/2020/Day4/input.txt)\
+[./AdventOfCode/2022/Day1/CalorieCounting1.java](./AdventOfCode/2022/Day1/CalorieCounting1.java)\
+[./AdventOfCode/2022/Day1/CalorieCounting2.java](./AdventOfCode/2022/Day1/CalorieCounting2.java)\
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
 [./CSES/Dynamic-Programming/book_shop.cpp](./CSES/Dynamic-Programming/book_shop.cpp)\
@@ -37,6 +42,7 @@
 [./CSES/Graph-Algos/BuildingRoads.java](./CSES/Graph-Algos/BuildingRoads.java)\
 [./CSES/Graph-Algos/build_team.cpp](./CSES/Graph-Algos/build_team.cpp)\
 [./CSES/Graph-Algos/counting_rooms.cpp](./CSES/Graph-Algos/counting_rooms.cpp)\
+[./CSES/Graph-Algos/flight_routes_check.cpp](./CSES/Graph-Algos/flight_routes_check.cpp)\
 [./CSES/Graph-Algos/labyrinth.cpp](./CSES/Graph-Algos/labyrinth.cpp)\
 [./CSES/Graph-Algos/message_route.cpp](./CSES/Graph-Algos/message_route.cpp)\
 [./CSES/Graph-Algos/round_trip.cpp](./CSES/Graph-Algos/round_trip.cpp)\
@@ -355,7 +361,6 @@
 [./Other_Contests/Lexington_Informatics_Tournament/2020/waiting.cpp](./Other_Contests/Lexington_Informatics_Tournament/2020/waiting.cpp)\
 [./Other_Contests/Lexington_Informatics_Tournament/2021/Dominos.java](./Other_Contests/Lexington_Informatics_Tournament/2021/Dominos.java)\
 [./Other_Contests/Lexington_Informatics_Tournament/2021/forest.cpp](./Other_Contests/Lexington_Informatics_Tournament/2021/forest.cpp)\
-[./Other_Contests/Lexington_Informatics_Tournament/2022/README.md](./Other_Contests/Lexington_Informatics_Tournament/2022/README.md)\
 [./Other_Contests/Lexington_Informatics_Tournament/2022/Suspicious.java](./Other_Contests/Lexington_Informatics_Tournament/2022/Suspicious.java)\
 [./Other_Contests/Lexington_Informatics_Tournament/2022/cf_api.py](./Other_Contests/Lexington_Informatics_Tournament/2022/cf_api.py)\
 [./Other_Contests/Lexington_Informatics_Tournament/2022/falling_dominos.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/falling_dominos.cpp)\
@@ -452,14 +457,17 @@
 [./UIL-CS/2019/State/Rakesh.java](./UIL-CS/2019/State/Rakesh.java)\
 [./UIL-CS/2019/State/Sean.java](./UIL-CS/2019/State/Sean.java)\
 [./USACO_and_Guide/2015-2016/December/FruitFeast.java](./USACO_and_Guide/2015-2016/December/FruitFeast.java)\
+[./USACO_and_Guide/2015-2016/December/breed_counting.cpp](./USACO_and_Guide/2015-2016/December/breed_counting.cpp)\
 [./USACO_and_Guide/2015-2016/December/high_card_win.cpp](./USACO_and_Guide/2015-2016/December/high_card_win.cpp)\
 [./USACO_and_Guide/2015-2016/December/switch_on_lights.cpp](./USACO_and_Guide/2015-2016/December/switch_on_lights.cpp)\
 [./USACO_and_Guide/2015-2016/January/angry_cows.cpp](./USACO_and_Guide/2015-2016/January/angry_cows.cpp)\
 [./USACO_and_Guide/2015-2016/January/hps.cpp](./USACO_and_Guide/2015-2016/January/hps.cpp)\
+[./USACO_and_Guide/2015-2016/January/subseq_sum_seven.cpp](./USACO_and_Guide/2015-2016/January/subseq_sum_seven.cpp)\
 [./USACO_and_Guide/2015-2016/March/ClosingFarm.java](./USACO_and_Guide/2015-2016/March/ClosingFarm.java)\
 [./USACO_and_Guide/2016-2017/December/MoocastSilver.java](./USACO_and_Guide/2016-2017/December/MoocastSilver.java)\
 [./USACO_and_Guide/2016-2017/December/count_haybale.cpp](./USACO_and_Guide/2016-2017/December/count_haybale.cpp)\
 [./USACO_and_Guide/2016-2017/December/moocast_gold.cpp](./USACO_and_Guide/2016-2017/December/moocast_gold.cpp)\
+[./USACO_and_Guide/2016-2017/February/why_cow_cross.cpp](./USACO_and_Guide/2016-2017/February/why_cow_cross.cpp)\
 [./USACO_and_Guide/2016-2017/February/why_cow_cross_II.cpp](./USACO_and_Guide/2016-2017/February/why_cow_cross_II.cpp)\
 [./USACO_and_Guide/2016-2017/January/cow_dance_show.cpp](./USACO_and_Guide/2016-2017/January/cow_dance_show.cpp)\
 [./USACO_and_Guide/2016-2017/January/div7.cpp](./USACO_and_Guide/2016-2017/January/div7.cpp)\
@@ -475,9 +483,14 @@
 [./USACO_and_Guide/2018-2019/March/FencePlan.java](./USACO_and_Guide/2018-2019/March/FencePlan.java)\
 [./USACO_and_Guide/2019-2020/December/Moobuzz.java](./USACO_and_Guide/2019-2020/December/Moobuzz.java)\
 [./USACO_and_Guide/2019-2020/December/milk_visits.cpp](./USACO_and_Guide/2019-2020/December/milk_visits.cpp)\
+[./USACO_and_Guide/2019-2020/January/berry_picking.cpp](./USACO_and_Guide/2019-2020/January/berry_picking.cpp)\
+[./USACO_and_Guide/2019-2020/March/social_distancing.cpp](./USACO_and_Guide/2019-2020/March/social_distancing.cpp)\
 [./USACO_and_Guide/2020-2021/December/Cowntagion.java](./USACO_and_Guide/2020-2021/December/Cowntagion.java)\
 [./USACO_and_Guide/2020-2021/December/Pasture.java](./USACO_and_Guide/2020-2021/December/Pasture.java)\
+[./USACO_and_Guide/2020-2021/February/year_of_the_cow.cpp](./USACO_and_Guide/2020-2021/February/year_of_the_cow.cpp)\
 [./USACO_and_Guide/2020-2021/January/just_stalling.c](./USACO_and_Guide/2020-2021/January/just_stalling.c)\
+[./USACO_and_Guide/2020-2021/January/no_time_to_paint.cpp](./USACO_and_Guide/2020-2021/January/no_time_to_paint.cpp)\
+[./USACO_and_Guide/2021-2022/December/connecting_two_barns.cpp](./USACO_and_Guide/2021-2022/December/connecting_two_barns.cpp)\
 [./USACO_and_Guide/2021-2022/February/redistributing_gifts.cpp](./USACO_and_Guide/2021-2022/February/redistributing_gifts.cpp)\
 [./USACO_and_Guide/2021-2022/March/cow_operations.cpp](./USACO_and_Guide/2021-2022/March/cow_operations.cpp)\
 [./USACO_and_Guide/2021-2022/March/visits.cpp](./USACO_and_Guide/2021-2022/March/visits.cpp)\

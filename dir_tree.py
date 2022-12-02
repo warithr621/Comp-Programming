@@ -7,6 +7,7 @@ for root, dirs, files in os.walk("."):
     files.sort()
     if root != ".":
         for i in files:
+            if ".md" in i or ".txt" in i: continue;
             arr.append("[" + root.replace("\\", "/") + "/" + i + "](" + root.replace("\\", "/") + "/" + i + ")")
     if ".git" in dirs:
         dirs.remove(".git")

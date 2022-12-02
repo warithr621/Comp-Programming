@@ -18,7 +18,7 @@ public class Homework {
         
         long[] suf = new long[n+1], min = new long[n+1];
         suf[n] = min[n] = (long) a[n];
-        //ew suffixes 😭
+        //ew suffixes 
         for (int i = n-1; i > 0; i--) {
             suf[i] = 0L + suf[i+1] + a[i];
             min[i] = Math.min(min[i+1], 0L + a[i]);
