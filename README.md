@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 492
+### Total Files: 494
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -26,6 +26,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./AdventOfCode/2020/Day4/PassportProcess1.java](./AdventOfCode/2020/Day4/PassportProcess1.java)\
 [./AdventOfCode/2022/Day1/CalorieCounting1.java](./AdventOfCode/2022/Day1/CalorieCounting1.java)\
 [./AdventOfCode/2022/Day1/CalorieCounting2.java](./AdventOfCode/2022/Day1/CalorieCounting2.java)\
+[./AdventOfCode/2022/Day2/RPS1.java](./AdventOfCode/2022/Day2/RPS1.java)\
+[./AdventOfCode/2022/Day2/RPS2.java](./AdventOfCode/2022/Day2/RPS2.java)\
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
 [./CSES/Dynamic-Programming/book_shop.cpp](./CSES/Dynamic-Programming/book_shop.cpp)\
