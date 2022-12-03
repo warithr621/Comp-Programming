@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 494
+### Total Files: 499
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -28,6 +28,11 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./AdventOfCode/2022/Day1/CalorieCounting2.java](./AdventOfCode/2022/Day1/CalorieCounting2.java)\
 [./AdventOfCode/2022/Day2/RPS1.java](./AdventOfCode/2022/Day2/RPS1.java)\
 [./AdventOfCode/2022/Day2/RPS2.java](./AdventOfCode/2022/Day2/RPS2.java)\
+[./AdventOfCode/2022/Day3/Rucksack1.java](./AdventOfCode/2022/Day3/Rucksack1.java)\
+[./AdventOfCode/2022/Day3/Rucksack2.java](./AdventOfCode/2022/Day3/Rucksack2.java)\
+[./COCI/2021-2022/Round-1/ljeto.cpp](./COCI/2021-2022/Round-1/ljeto.cpp)\
+[./COCI/2021-2022/Round-2/kaucuk.cpp](./COCI/2021-2022/Round-2/kaucuk.cpp)\
+[./COCI/2022-2023/Round-1/desniklik.cpp](./COCI/2022-2023/Round-1/desniklik.cpp)\
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
 [./CSES/Dynamic-Programming/book_shop.cpp](./CSES/Dynamic-Programming/book_shop.cpp)\
