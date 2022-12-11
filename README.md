@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 506
+### Total Files: 516
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -26,6 +26,10 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./AdventOfCode/2020/Day4/PassportProcess1.java](./AdventOfCode/2020/Day4/PassportProcess1.java)\
 [./AdventOfCode/2022/Day1/CalorieCounting1.java](./AdventOfCode/2022/Day1/CalorieCounting1.java)\
 [./AdventOfCode/2022/Day1/CalorieCounting2.java](./AdventOfCode/2022/Day1/CalorieCounting2.java)\
+[./AdventOfCode/2022/Day10/cathode1.cpp](./AdventOfCode/2022/Day10/cathode1.cpp)\
+[./AdventOfCode/2022/Day10/cathode2.cpp](./AdventOfCode/2022/Day10/cathode2.cpp)\
+[./AdventOfCode/2022/Day11/monkey_middle1.py](./AdventOfCode/2022/Day11/monkey_middle1.py)\
+[./AdventOfCode/2022/Day11/monkey_middle2.cpp](./AdventOfCode/2022/Day11/monkey_middle2.cpp)\
 [./AdventOfCode/2022/Day2/RPS1.java](./AdventOfCode/2022/Day2/RPS1.java)\
 [./AdventOfCode/2022/Day2/RPS2.java](./AdventOfCode/2022/Day2/RPS2.java)\
 [./AdventOfCode/2022/Day3/Rucksack1.java](./AdventOfCode/2022/Day3/Rucksack1.java)\
@@ -36,6 +40,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./AdventOfCode/2022/Day5/SupplyStacks2.java](./AdventOfCode/2022/Day5/SupplyStacks2.java)\
 [./AdventOfCode/2022/Day6/TuningTrouble1.java](./AdventOfCode/2022/Day6/TuningTrouble1.java)\
 [./AdventOfCode/2022/Day6/TuningTrouble2.java](./AdventOfCode/2022/Day6/TuningTrouble2.java)\
+[./AdventOfCode/2022/Day7/nospace1.cpp](./AdventOfCode/2022/Day7/nospace1.cpp)\
+[./AdventOfCode/2022/Day7/nospace2.cpp](./AdventOfCode/2022/Day7/nospace2.cpp)\
+[./AdventOfCode/2022/Day8/Treetop1.java](./AdventOfCode/2022/Day8/Treetop1.java)\
+[./AdventOfCode/2022/Day8/Treetop2.java](./AdventOfCode/2022/Day8/Treetop2.java)\
+[./AdventOfCode/2022/Day9/rope_bridge1.cpp](./AdventOfCode/2022/Day9/rope_bridge1.cpp)\
+[./AdventOfCode/2022/Day9/rope_bridge2.cpp](./AdventOfCode/2022/Day9/rope_bridge2.cpp)\
 [./COCI/2021-2022/Round-1/ljeto.cpp](./COCI/2021-2022/Round-1/ljeto.cpp)\
 [./COCI/2021-2022/Round-2/kaucuk.cpp](./COCI/2021-2022/Round-2/kaucuk.cpp)\
 [./COCI/2022-2023/Round-1/desniklik.cpp](./COCI/2022-2023/Round-1/desniklik.cpp)\
