@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 516
+### Total Files: 523
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -295,6 +295,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1760/medium_number.cpp](./Codeforces/1760/medium_number.cpp)\
 [./Codeforces/1760/quests.cpp](./Codeforces/1760/quests.cpp)\
 [./Codeforces/1761/two_perms.py](./Codeforces/1761/two_perms.py)\
+[./Codeforces/1762/bin_string_fun.py](./Codeforces/1762/bin_string_fun.py)\
+[./Codeforces/1762/div_and_conquer_r1762.py](./Codeforces/1762/div_and_conquer_r1762.py)\
+[./Codeforces/1762/make_arr_good_r1762.py](./Codeforces/1762/make_arr_good_r1762.py)\
+[./Codeforces/1763/abs_maximization.cpp](./Codeforces/1763/abs_maximization.cpp)\
+[./Codeforces/1767/block_towers.py](./Codeforces/1767/block_towers.py)\
+[./Codeforces/1767/cut_the_triangle.py](./Codeforces/1767/cut_the_triangle.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -495,6 +501,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2016-2017/February/why_cow_cross_II.cpp](./USACO_and_Guide/2016-2017/February/why_cow_cross_II.cpp)\
 [./USACO_and_Guide/2016-2017/January/cow_dance_show.cpp](./USACO_and_Guide/2016-2017/January/cow_dance_show.cpp)\
 [./USACO_and_Guide/2016-2017/January/div7.cpp](./USACO_and_Guide/2016-2017/January/div7.cpp)\
+[./USACO_and_Guide/2016-2017/January/secret_cow_code.py](./USACO_and_Guide/2016-2017/January/secret_cow_code.py)\
 [./USACO_and_Guide/2016-2017/March/PairedUp.java](./USACO_and_Guide/2016-2017/March/PairedUp.java)\
 [./USACO_and_Guide/2017-2018/December/Homework.java](./USACO_and_Guide/2017-2018/December/Homework.java)\
 [./USACO_and_Guide/2017-2018/February/rest_stops.py](./USACO_and_Guide/2017-2018/February/rest_stops.py)\
