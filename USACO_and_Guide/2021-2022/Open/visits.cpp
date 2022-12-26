@@ -1,10 +1,6 @@
 // 2022 Open Silver P1
 
-#include <iostream>
-#include <vector>
-#include <utility>
-#include <algorithm>
-#include <climits>
+#include <bits/stdc++.h>
 #define int long long
 using namespace std;
 

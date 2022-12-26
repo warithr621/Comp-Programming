@@ -20,7 +20,7 @@ for line in rread:
     storelines.append(line)
 rread.close()
 
-rwrite = open("README.md", mode="w")
+rwrite = open("README.md", 'w')
 for line in storelines:
     rwrite.write(line)
 

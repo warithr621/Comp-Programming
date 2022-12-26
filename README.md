@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 523
+### Total Files: 528
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -493,7 +493,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2015-2016/January/angry_cows.cpp](./USACO_and_Guide/2015-2016/January/angry_cows.cpp)\
 [./USACO_and_Guide/2015-2016/January/hps.cpp](./USACO_and_Guide/2015-2016/January/hps.cpp)\
 [./USACO_and_Guide/2015-2016/January/subseq_sum_seven.cpp](./USACO_and_Guide/2015-2016/January/subseq_sum_seven.cpp)\
-[./USACO_and_Guide/2015-2016/March/ClosingFarm.java](./USACO_and_Guide/2015-2016/March/ClosingFarm.java)\
+[./USACO_and_Guide/2015-2016/Open/ClosingFarm.java](./USACO_and_Guide/2015-2016/Open/ClosingFarm.java)\
 [./USACO_and_Guide/2016-2017/December/MoocastSilver.java](./USACO_and_Guide/2016-2017/December/MoocastSilver.java)\
 [./USACO_and_Guide/2016-2017/December/count_haybale.cpp](./USACO_and_Guide/2016-2017/December/count_haybale.cpp)\
 [./USACO_and_Guide/2016-2017/December/moocast_gold.cpp](./USACO_and_Guide/2016-2017/December/moocast_gold.cpp)\
@@ -502,20 +502,20 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2016-2017/January/cow_dance_show.cpp](./USACO_and_Guide/2016-2017/January/cow_dance_show.cpp)\
 [./USACO_and_Guide/2016-2017/January/div7.cpp](./USACO_and_Guide/2016-2017/January/div7.cpp)\
 [./USACO_and_Guide/2016-2017/January/secret_cow_code.py](./USACO_and_Guide/2016-2017/January/secret_cow_code.py)\
-[./USACO_and_Guide/2016-2017/March/PairedUp.java](./USACO_and_Guide/2016-2017/March/PairedUp.java)\
+[./USACO_and_Guide/2016-2017/Open/PairedUp.java](./USACO_and_Guide/2016-2017/Open/PairedUp.java)\
 [./USACO_and_Guide/2017-2018/December/Homework.java](./USACO_and_Guide/2017-2018/December/Homework.java)\
 [./USACO_and_Guide/2017-2018/February/rest_stops.py](./USACO_and_Guide/2017-2018/February/rest_stops.py)\
-[./USACO_and_Guide/2017-2018/March/lemonade.cpp](./USACO_and_Guide/2017-2018/March/lemonade.cpp)\
+[./USACO_and_Guide/2017-2018/Open/lemonade.cpp](./USACO_and_Guide/2017-2018/Open/lemonade.cpp)\
 [./USACO_and_Guide/2018-2019/December/Mooyo.java](./USACO_and_Guide/2018-2019/December/Mooyo.java)\
 [./USACO_and_Guide/2018-2019/February/GreatReveg.java](./USACO_and_Guide/2018-2019/February/GreatReveg.java)\
 [./USACO_and_Guide/2018-2019/February/PaintBarnSilver.java](./USACO_and_Guide/2018-2019/February/PaintBarnSilver.java)\
 [./USACO_and_Guide/2018-2019/January/GrassPlant.java](./USACO_and_Guide/2018-2019/January/GrassPlant.java)\
 [./USACO_and_Guide/2018-2019/January/icy_perim.cpp](./USACO_and_Guide/2018-2019/January/icy_perim.cpp)\
-[./USACO_and_Guide/2018-2019/March/FencePlan.java](./USACO_and_Guide/2018-2019/March/FencePlan.java)\
+[./USACO_and_Guide/2018-2019/Open/FencePlan.java](./USACO_and_Guide/2018-2019/Open/FencePlan.java)\
 [./USACO_and_Guide/2019-2020/December/Moobuzz.java](./USACO_and_Guide/2019-2020/December/Moobuzz.java)\
 [./USACO_and_Guide/2019-2020/December/milk_visits.cpp](./USACO_and_Guide/2019-2020/December/milk_visits.cpp)\
 [./USACO_and_Guide/2019-2020/January/berry_picking.cpp](./USACO_and_Guide/2019-2020/January/berry_picking.cpp)\
-[./USACO_and_Guide/2019-2020/March/social_distancing.cpp](./USACO_and_Guide/2019-2020/March/social_distancing.cpp)\
+[./USACO_and_Guide/2019-2020/Open/social_distancing.cpp](./USACO_and_Guide/2019-2020/Open/social_distancing.cpp)\
 [./USACO_and_Guide/2020-2021/December/Cowntagion.java](./USACO_and_Guide/2020-2021/December/Cowntagion.java)\
 [./USACO_and_Guide/2020-2021/December/Pasture.java](./USACO_and_Guide/2020-2021/December/Pasture.java)\
 [./USACO_and_Guide/2020-2021/February/year_of_the_cow.cpp](./USACO_and_Guide/2020-2021/February/year_of_the_cow.cpp)\
@@ -523,8 +523,13 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2020-2021/January/no_time_to_paint.cpp](./USACO_and_Guide/2020-2021/January/no_time_to_paint.cpp)\
 [./USACO_and_Guide/2021-2022/December/connecting_two_barns.cpp](./USACO_and_Guide/2021-2022/December/connecting_two_barns.cpp)\
 [./USACO_and_Guide/2021-2022/February/redistributing_gifts.cpp](./USACO_and_Guide/2021-2022/February/redistributing_gifts.cpp)\
-[./USACO_and_Guide/2021-2022/March/cow_operations.cpp](./USACO_and_Guide/2021-2022/March/cow_operations.cpp)\
-[./USACO_and_Guide/2021-2022/March/visits.cpp](./USACO_and_Guide/2021-2022/March/visits.cpp)\
+[./USACO_and_Guide/2021-2022/Open/cow_operations.cpp](./USACO_and_Guide/2021-2022/Open/cow_operations.cpp)\
+[./USACO_and_Guide/2021-2022/Open/subset_equality.cpp](./USACO_and_Guide/2021-2022/Open/subset_equality.cpp)\
+[./USACO_and_Guide/2021-2022/Open/visits.cpp](./USACO_and_Guide/2021-2022/Open/visits.cpp)\
+[./USACO_and_Guide/2022-2023/December/circular_barn.cpp](./USACO_and_Guide/2022-2023/December/circular_barn.cpp)\
+[./USACO_and_Guide/2022-2023/December/cow_college.py](./USACO_and_Guide/2022-2023/December/cow_college.py)\
+[./USACO_and_Guide/2022-2023/December/range_reconstruct.py](./USACO_and_Guide/2022-2023/December/range_reconstruct.py)\
+[./USACO_and_Guide/2022-2023/December/rev_eng.cpp](./USACO_and_Guide/2022-2023/December/rev_eng.cpp)\
 [./USACO_and_Guide/Other/Birthday.java](./USACO_and_Guide/Other/Birthday.java)\
 [./USACO_and_Guide/Other/arithmetic_prog.cpp](./USACO_and_Guide/Other/arithmetic_prog.cpp)\
 [./USACO_and_Guide/Other/cover_it.cpp](./USACO_and_Guide/Other/cover_it.cpp)\
