@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 535
+### Total Files: 537
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -278,6 +278,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1729/decode_string.py](./Codeforces/1729/decode_string.py)\
 [./Codeforces/1729/two_elevators.php](./Codeforces/1729/two_elevators.php)\
 [./Codeforces/1730/planets.py](./Codeforces/1730/planets.py)\
+[./Codeforces/1731/joey_takes_money.cpp](./Codeforces/1731/joey_takes_money.cpp)\
+[./Codeforces/1731/kill_demodogs.py](./Codeforces/1731/kill_demodogs.py)\
 [./Codeforces/1733/consec_sum.py](./Codeforces/1733/consec_sum.py)\
 [./Codeforces/1734/bright_nice_brilliant.py](./Codeforces/1734/bright_nice_brilliant.py)\
 [./Codeforces/1734/select_three_sticks.py](./Codeforces/1734/select_three_sticks.py)\
