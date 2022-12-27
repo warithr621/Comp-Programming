@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 528
+### Total Files: 535
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -291,6 +291,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1759/yes_yes.cpp](./Codeforces/1759/yes_yes.cpp)\
 [./Codeforces/1760/advantage.cpp](./Codeforces/1760/advantage.cpp)\
 [./Codeforces/1760/atillas_fav_prob.cpp](./Codeforces/1760/atillas_fav_prob.cpp)\
+[./Codeforces/1760/bin_inv.py](./Codeforces/1760/bin_inv.py)\
 [./Codeforces/1760/chall_valleys.cpp](./Codeforces/1760/chall_valleys.cpp)\
 [./Codeforces/1760/medium_number.cpp](./Codeforces/1760/medium_number.cpp)\
 [./Codeforces/1760/quests.cpp](./Codeforces/1760/quests.cpp)\
@@ -301,6 +302,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1763/abs_maximization.cpp](./Codeforces/1763/abs_maximization.cpp)\
 [./Codeforces/1767/block_towers.py](./Codeforces/1767/block_towers.py)\
 [./Codeforces/1767/cut_the_triangle.py](./Codeforces/1767/cut_the_triangle.py)\
+[./Codeforces/1772/CopyCopyCopy.java](./Codeforces/1772/CopyCopyCopy.java)\
+[./Codeforces/1772/a_plus_b.cpp](./Codeforces/1772/a_plus_b.cpp)\
+[./Codeforces/1772/abs_sorting.cpp](./Codeforces/1772/abs_sorting.cpp)\
+[./Codeforces/1772/different_diffeences.cpp](./Codeforces/1772/different_diffeences.cpp)\
+[./Codeforces/1772/matrix_rot.cpp](./Codeforces/1772/matrix_rot.cpp)\
+[./Codeforces/1772/perm_game.cpp](./Codeforces/1772/perm_game.cpp)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
