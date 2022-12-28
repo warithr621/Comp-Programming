@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 539
+### Total Files: 543
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -218,6 +218,10 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1428/box.java](./Codeforces/1428/box.java)\
 [./Codeforces/1433/another_bookshelf.py](./Codeforces/1433/another_bookshelf.py)\
 [./Codeforces/1450/steel_ball.cpp](./Codeforces/1450/steel_ball.cpp)\
+[./Codeforces/1454/num_into_seq.cpp](./Codeforces/1454/num_into_seq.cpp)\
+[./Codeforces/1454/seq_transform.cpp](./Codeforces/1454/seq_transform.cpp)\
+[./Codeforces/1454/special_perm.cpp](./Codeforces/1454/special_perm.cpp)\
+[./Codeforces/1454/unique_bid_auction.cpp](./Codeforces/1454/unique_bid_auction.cpp)\
 [./Codeforces/1465/in_game.cpp](./Codeforces/1465/in_game.cpp)\
 [./Codeforces/1501/alexey_train.cpp](./Codeforces/1501/alexey_train.cpp)\
 [./Codeforces/1523/lord_of_values.cpp](./Codeforces/1523/lord_of_values.cpp)\
