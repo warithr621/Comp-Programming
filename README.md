@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 537
+### Total Files: 539
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -304,6 +304,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1763/abs_maximization.cpp](./Codeforces/1763/abs_maximization.cpp)\
 [./Codeforces/1767/block_towers.py](./Codeforces/1767/block_towers.py)\
 [./Codeforces/1767/cut_the_triangle.py](./Codeforces/1767/cut_the_triangle.py)\
+[./Codeforces/1771/hossam_combo.py](./Codeforces/1771/hossam_combo.py)\
+[./Codeforces/1771/hossam_friends.py](./Codeforces/1771/hossam_friends.py)\
 [./Codeforces/1772/CopyCopyCopy.java](./Codeforces/1772/CopyCopyCopy.java)\
 [./Codeforces/1772/a_plus_b.cpp](./Codeforces/1772/a_plus_b.cpp)\
 [./Codeforces/1772/abs_sorting.cpp](./Codeforces/1772/abs_sorting.cpp)\
