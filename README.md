@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 543
+### Total Files: 555
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -157,6 +157,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1165/remainder.cpp](./Codeforces/1165/remainder.cpp)\
 [./Codeforces/1165/two_arr_sum_func.cpp](./Codeforces/1165/two_arr_sum_func.cpp)\
 [./Codeforces/1166/classroom.cpp](./Codeforces/1166/classroom.cpp)\
+[./Codeforces/1176/cover_it.cpp](./Codeforces/1176/cover_it.cpp)\
 [./Codeforces/1189/number_circle.py](./Codeforces/1189/number_circle.py)\
 [./Codeforces/1201/Max_Median.java](./Codeforces/1201/Max_Median.java)\
 [./Codeforces/1202/given_two_binary_strings.py](./Codeforces/1202/given_two_binary_strings.py)\
@@ -346,6 +347,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/682/alyona_num.java](./Codeforces/682/alyona_num.java)\
 [./Codeforces/686/ice_cream.java](./Codeforces/686/ice_cream.java)\
 [./Codeforces/686/rob_zoo.java](./Codeforces/686/rob_zoo.java)\
+[./Codeforces/701/they_are_everywhere.cpp](./Codeforces/701/they_are_everywhere.cpp)\
 [./Codeforces/702/cellular_network.cpp](./Codeforces/702/cellular_network.cpp)\
 [./Codeforces/705/spiderman.cpp](./Codeforces/705/spiderman.cpp)\
 [./Codeforces/706/hard_problem.cpp](./Codeforces/706/hard_problem.cpp)\
@@ -375,6 +377,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/835/board.cpp](./Codeforces/835/board.cpp)\
 [./Codeforces/856/set_theory.cpp](./Codeforces/856/set_theory.cpp)\
 [./Codeforces/858/k_round.cpp](./Codeforces/858/k_round.cpp)\
+[./Codeforces/862/mahmoud_ehab_bipartiteness.cpp](./Codeforces/862/mahmoud_ehab_bipartiteness.cpp)\
 [./Codeforces/868/bark_to_unlock.php](./Codeforces/868/bark_to_unlock.php)\
 [./Codeforces/868/race_against_time.php](./Codeforces/868/race_against_time.php)\
 [./Codeforces/876/meal_trip.go](./Codeforces/876/meal_trip.go)\
@@ -545,14 +548,23 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2022-2023/December/cow_college.py](./USACO_and_Guide/2022-2023/December/cow_college.py)\
 [./USACO_and_Guide/2022-2023/December/range_reconstruct.py](./USACO_and_Guide/2022-2023/December/range_reconstruct.py)\
 [./USACO_and_Guide/2022-2023/December/rev_eng.cpp](./USACO_and_Guide/2022-2023/December/rev_eng.cpp)\
-[./USACO_and_Guide/Other/Birthday.java](./USACO_and_Guide/Other/Birthday.java)\
-[./USACO_and_Guide/Other/arithmetic_prog.cpp](./USACO_and_Guide/Other/arithmetic_prog.cpp)\
-[./USACO_and_Guide/Other/cover_it.cpp](./USACO_and_Guide/Other/cover_it.cpp)\
-[./USACO_and_Guide/Other/gcd_blackboard.py](./USACO_and_Guide/Other/gcd_blackboard.py)\
-[./USACO_and_Guide/Other/haybale.cpp](./USACO_and_Guide/Other/haybale.cpp)\
-[./USACO_and_Guide/Other/mahmoud_ehab_bipartiteness.cpp](./USACO_and_Guide/Other/mahmoud_ehab_bipartiteness.cpp)\
-[./USACO_and_Guide/Other/mothers_milk.cpp](./USACO_and_Guide/Other/mothers_milk.cpp)\
-[./USACO_and_Guide/Other/number_triangle.cpp](./USACO_and_Guide/Other/number_triangle.cpp)\
-[./USACO_and_Guide/Other/palindromic_primes.cpp](./USACO_and_Guide/Other/palindromic_primes.cpp)\
-[./USACO_and_Guide/Other/superprime.cpp](./USACO_and_Guide/Other/superprime.cpp)\
-[./USACO_and_Guide/Other/they_are_everywhere.cpp](./USACO_and_Guide/Other/they_are_everywhere.cpp)
+[./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/broken_necklace.cpp](./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/broken_necklace.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/friday_thirteen.cpp](./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/friday_thirteen.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/greedy_gift_givers.cpp](./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/greedy_gift_givers.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/your_ride_is_here.cpp](./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/your_ride_is_here.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-3-complete-search/dual_pal.cpp](./USACO_and_Guide/TrainUSACO/1-3-complete-search/dual_pal.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-3-complete-search/milk_cows.cpp](./USACO_and_Guide/TrainUSACO/1-3-complete-search/milk_cows.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-3-complete-search/name_num.cpp](./USACO_and_Guide/TrainUSACO/1-3-complete-search/name_num.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-3-complete-search/pal_sq.cpp](./USACO_and_Guide/TrainUSACO/1-3-complete-search/pal_sq.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-3-complete-search/transform.cpp](./USACO_and_Guide/TrainUSACO/1-3-complete-search/transform.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-4-greedy/barn_repair.cpp](./USACO_and_Guide/TrainUSACO/1-4-greedy/barn_repair.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-4-greedy/combo_lock.cpp](./USACO_and_Guide/TrainUSACO/1-4-greedy/combo_lock.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-4-greedy/mix_milk.cpp](./USACO_and_Guide/TrainUSACO/1-4-greedy/mix_milk.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-4-greedy/prime_crypt.cpp](./USACO_and_Guide/TrainUSACO/1-4-greedy/prime_crypt.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-4-greedy/ski_des.cpp](./USACO_and_Guide/TrainUSACO/1-4-greedy/ski_des.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-4-greedy/wormholes.cpp](./USACO_and_Guide/TrainUSACO/1-4-greedy/wormholes.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-5-more-searching/arithmetic_prog.cpp](./USACO_and_Guide/TrainUSACO/1-5-more-searching/arithmetic_prog.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-5-more-searching/mothers_milk.cpp](./USACO_and_Guide/TrainUSACO/1-5-more-searching/mothers_milk.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/number_triangle.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/number_triangle.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/palindromic_primes.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/palindromic_primes.cpp)\
+[./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/superprime.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/superprime.cpp)

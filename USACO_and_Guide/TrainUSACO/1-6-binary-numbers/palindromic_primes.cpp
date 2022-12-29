@@ -1,7 +1,7 @@
 // USACO Trainer's "Prime Palindromes"
 
 /*
-ID: REDACTED
+ID: warithr1
 LANG: C++11
 TASK: pprime
 */

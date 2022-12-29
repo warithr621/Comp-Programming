@@ -1,7 +1,7 @@
 // USACO Trainer's "Mother's Milk"
 
 /*
-ID: REDACTED
+ID: warithr1
 LANG: C++11
 TASK: milk3
 */

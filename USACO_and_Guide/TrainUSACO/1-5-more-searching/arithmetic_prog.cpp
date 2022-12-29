@@ -1,7 +1,7 @@
 // USACO Trainer's "Arithmetic Progressions"
 
 /*
-ID: REDACTED
+ID: warithr1
 LANG: C++11
 TASK: ariprog
 */
