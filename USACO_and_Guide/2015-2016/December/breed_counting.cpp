@@ -3,25 +3,23 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+const int MAXN = 1e5 + 5;
+int N, Q;
+int inp[MAXN], H[MAXN], G[MAXN], J[MAXN];
+
 int main() {
     freopen("bcount.in", "r", stdin);
     freopen("bcount.out", "w", stdout);
-    int n, q; cin >> n >> q;
-    int inp[n];
-    for (int i = 0; i < n; i++) cin >> inp[i];
-    vector<int> h(n+1), g(n+1), j(n+1);
-    h[0] = 0;
-    g[0] = 0;
-    j[0] = 0;
-    for (int i = 1; i <= n; i++) {
-        h[i] = h[i-1] + (inp[i-1] == 1);
-        g[i] = g[i-1] + (inp[i-1] == 2);
-        j[i] = j[i-1] + (inp[i-1] == 3);
+    cin >> N >> Q;
+    for (int i = 0; i < N; i++) cin >> inp[i];
+    for (int i = 1; i <= N; i++) {
+        H[i] = H[i-1] + (inp[i-1] == 1);
+        G[i] = G[i-1] + (inp[i-1] == 2);
+        J[i] = J[i-1] + (inp[i-1] == 3);
     }
-    while(q--) {
-        int l, r; cin >> l >> r;
-        --l;
-        // --r;
-        cout << h[r] - h[l] << ' ' << g[r] - g[l] << ' ' << j[r] - j[l] << '\n';
+    while(Q--) {
+        int L, R; cin >> L >> R;
+        --L;
+        cout << H[R]-H[L] << ' ' << G[R]-G[L] << ' ' << J[R]-J[L] << '\n';
     }
 }

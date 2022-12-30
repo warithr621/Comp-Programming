@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 555
+### Total Files: 559
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -307,8 +307,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1762/div_and_conquer_r1762.py](./Codeforces/1762/div_and_conquer_r1762.py)\
 [./Codeforces/1762/make_arr_good_r1762.py](./Codeforces/1762/make_arr_good_r1762.py)\
 [./Codeforces/1763/abs_maximization.cpp](./Codeforces/1763/abs_maximization.cpp)\
+[./Codeforces/1764/doremy_math_class.py](./Codeforces/1764/doremy_math_class.py)\
+[./Codeforces/1764/doremy_paint.py](./Codeforces/1764/doremy_paint.py)\
 [./Codeforces/1767/block_towers.py](./Codeforces/1767/block_towers.py)\
 [./Codeforces/1767/cut_the_triangle.py](./Codeforces/1767/cut_the_triangle.py)\
+[./Codeforces/1770/koxia_perm.cpp](./Codeforces/1770/koxia_perm.cpp)\
+[./Codeforces/1770/koxia_whiteboards.cpp](./Codeforces/1770/koxia_whiteboards.cpp)\
 [./Codeforces/1771/hossam_combo.py](./Codeforces/1771/hossam_combo.py)\
 [./Codeforces/1771/hossam_friends.py](./Codeforces/1771/hossam_friends.py)\
 [./Codeforces/1772/CopyCopyCopy.java](./Codeforces/1772/CopyCopyCopy.java)\
