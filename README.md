@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 559
+### Total Files: 562
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -311,6 +311,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1764/doremy_paint.py](./Codeforces/1764/doremy_paint.py)\
 [./Codeforces/1767/block_towers.py](./Codeforces/1767/block_towers.py)\
 [./Codeforces/1767/cut_the_triangle.py](./Codeforces/1767/cut_the_triangle.py)\
+[./Codeforces/1770/koxia_nt.cpp](./Codeforces/1770/koxia_nt.cpp)\
 [./Codeforces/1770/koxia_perm.cpp](./Codeforces/1770/koxia_perm.cpp)\
 [./Codeforces/1770/koxia_whiteboards.cpp](./Codeforces/1770/koxia_whiteboards.cpp)\
 [./Codeforces/1771/hossam_combo.py](./Codeforces/1771/hossam_combo.py)\
@@ -321,6 +322,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1772/different_diffeences.cpp](./Codeforces/1772/different_diffeences.cpp)\
 [./Codeforces/1772/matrix_rot.cpp](./Codeforces/1772/matrix_rot.cpp)\
 [./Codeforces/1772/perm_game.cpp](./Codeforces/1772/perm_game.cpp)\
+[./Codeforces/1779/hall_of_fame.py](./Codeforces/1779/hall_of_fame.py)\
+[./Codeforces/1779/mknez_constructforce.py](./Codeforces/1779/mknez_constructforce.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
