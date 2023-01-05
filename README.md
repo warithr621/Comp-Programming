@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 562
+### Total Files: 565
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -261,6 +261,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1579/casimir_string_solitaire.java](./Codeforces/1579/casimir_string_solitaire.java)\
 [./Codeforces/1579/ticks.cpp](./Codeforces/1579/ticks.cpp)\
 [./Codeforces/1592/gamer_hemose.cpp](./Codeforces/1592/gamer_hemose.cpp)\
+[./Codeforces/1638/InvGraph.java](./Codeforces/1638/InvGraph.java)\
+[./Codeforces/1638/OddSwapSort.java](./Codeforces/1638/OddSwapSort.java)\
+[./Codeforces/1638/Reverse.java](./Codeforces/1638/Reverse.java)\
 [./Codeforces/1654/AliceAndCake.java](./Codeforces/1654/AliceAndCake.java)\
 [./Codeforces/166/rank_list.java](./Codeforces/166/rank_list.java)\
 [./Codeforces/1660/matrix_shift.py](./Codeforces/1660/matrix_shift.py)\
