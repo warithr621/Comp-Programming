@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 565
+### Total Files: 568
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -340,6 +340,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/441/antique.java](./Codeforces/441/antique.java)\
 [./Codeforces/459/pashmak_flower.cpp](./Codeforces/459/pashmak_flower.cpp)\
 [./Codeforces/463/caisa_pylons.py](./Codeforces/463/caisa_pylons.py)\
+[./Codeforces/489/bersu_ball.py](./Codeforces/489/bersu_ball.py)\
+[./Codeforces/489/len_sum_dig.py](./Codeforces/489/len_sum_dig.py)\
+[./Codeforces/489/swapsort.py](./Codeforces/489/swapsort.py)\
 [./Codeforces/493/vasya_football.cpp](./Codeforces/493/vasya_football.cpp)\
 [./Codeforces/493/vasya_wrestling.cpp](./Codeforces/493/vasya_wrestling.cpp)\
 [./Codeforces/500/new_year_book_reading.cpp](./Codeforces/500/new_year_book_reading.cpp)\
