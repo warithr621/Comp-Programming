@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 568
+### Total Files: 569
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -536,6 +536,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2016-2017/Open/PairedUp.java](./USACO_and_Guide/2016-2017/Open/PairedUp.java)\
 [./USACO_and_Guide/2017-2018/December/Homework.java](./USACO_and_Guide/2017-2018/December/Homework.java)\
 [./USACO_and_Guide/2017-2018/February/rest_stops.py](./USACO_and_Guide/2017-2018/February/rest_stops.py)\
+[./USACO_and_Guide/2017-2018/January/mootube.cpp](./USACO_and_Guide/2017-2018/January/mootube.cpp)\
 [./USACO_and_Guide/2017-2018/Open/lemonade.cpp](./USACO_and_Guide/2017-2018/Open/lemonade.cpp)\
 [./USACO_and_Guide/2018-2019/December/Mooyo.java](./USACO_and_Guide/2018-2019/December/Mooyo.java)\
 [./USACO_and_Guide/2018-2019/February/GreatReveg.java](./USACO_and_Guide/2018-2019/February/GreatReveg.java)\
