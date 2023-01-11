@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 569
+### Total Files: 570
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -562,6 +562,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2022-2023/December/cow_college.py](./USACO_and_Guide/2022-2023/December/cow_college.py)\
 [./USACO_and_Guide/2022-2023/December/range_reconstruct.py](./USACO_and_Guide/2022-2023/December/range_reconstruct.py)\
 [./USACO_and_Guide/2022-2023/December/rev_eng.cpp](./USACO_and_Guide/2022-2023/December/rev_eng.cpp)\
+[./USACO_and_Guide/Old/xc_skiing.cpp](./USACO_and_Guide/Old/xc_skiing.cpp)\
 [./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/broken_necklace.cpp](./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/broken_necklace.cpp)\
 [./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/friday_thirteen.cpp](./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/friday_thirteen.cpp)\
 [./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/greedy_gift_givers.cpp](./USACO_and_Guide/TrainUSACO/1-2-ad-hoc/greedy_gift_givers.cpp)\
