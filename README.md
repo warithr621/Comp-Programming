@@ -522,7 +522,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2015-2016/December/high_card_win.cpp](./USACO_and_Guide/2015-2016/December/high_card_win.cpp)\
 [./USACO_and_Guide/2015-2016/December/switch_on_lights.cpp](./USACO_and_Guide/2015-2016/December/switch_on_lights.cpp)\
 [./USACO_and_Guide/2015-2016/January/angry_cows.cpp](./USACO_and_Guide/2015-2016/January/angry_cows.cpp)\
-[./USACO_and_Guide/2015-2016/January/hps.cpp](./USACO_and_Guide/2015-2016/January/hps.cpp)\
+[./USACO_and_Guide/2015-2016/January/build_gates.cpp](./USACO_and_Guide/2015-2016/January/build_gates.cpp)\
 [./USACO_and_Guide/2015-2016/January/subseq_sum_seven.cpp](./USACO_and_Guide/2015-2016/January/subseq_sum_seven.cpp)\
 [./USACO_and_Guide/2015-2016/Open/ClosingFarm.java](./USACO_and_Guide/2015-2016/Open/ClosingFarm.java)\
 [./USACO_and_Guide/2016-2017/December/MoocastSilver.java](./USACO_and_Guide/2016-2017/December/MoocastSilver.java)\
@@ -531,7 +531,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2016-2017/February/why_cow_cross.cpp](./USACO_and_Guide/2016-2017/February/why_cow_cross.cpp)\
 [./USACO_and_Guide/2016-2017/February/why_cow_cross_II.cpp](./USACO_and_Guide/2016-2017/February/why_cow_cross_II.cpp)\
 [./USACO_and_Guide/2016-2017/January/cow_dance_show.cpp](./USACO_and_Guide/2016-2017/January/cow_dance_show.cpp)\
-[./USACO_and_Guide/2016-2017/January/div7.cpp](./USACO_and_Guide/2016-2017/January/div7.cpp)\
+[./USACO_and_Guide/2016-2017/January/hps.cpp](./USACO_and_Guide/2016-2017/January/hps.cpp)\
 [./USACO_and_Guide/2016-2017/January/secret_cow_code.py](./USACO_and_Guide/2016-2017/January/secret_cow_code.py)\
 [./USACO_and_Guide/2016-2017/Open/PairedUp.java](./USACO_and_Guide/2016-2017/Open/PairedUp.java)\
 [./USACO_and_Guide/2017-2018/December/Homework.java](./USACO_and_Guide/2017-2018/December/Homework.java)\
