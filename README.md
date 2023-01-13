@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 570
+### Total Files: 573
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -292,6 +292,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1734/bright_nice_brilliant.py](./Codeforces/1734/bright_nice_brilliant.py)\
 [./Codeforces/1734/select_three_sticks.py](./Codeforces/1734/select_three_sticks.py)\
 [./Codeforces/174/equation.java](./Codeforces/174/equation.java)\
+[./Codeforces/1741/compare_tshirt_sz.py](./Codeforces/1741/compare_tshirt_sz.py)\
+[./Codeforces/1741/funny_perm.py](./Codeforces/1741/funny_perm.py)\
+[./Codeforces/1741/min_thick.cpp](./Codeforces/1741/min_thick.cpp)\
 [./Codeforces/1748/diverse_substr.cpp](./Codeforces/1748/diverse_substr.cpp)\
 [./Codeforces/1753/FactorialDivisibility.java](./Codeforces/1753/FactorialDivisibility.java)\
 [./Codeforces/1759/lost_permutation_1759.cpp](./Codeforces/1759/lost_permutation_1759.cpp)\
