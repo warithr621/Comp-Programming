@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 577
+### Total Files: 578
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -528,6 +528,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2015-2016/December/breed_counting.cpp](./USACO_and_Guide/2015-2016/December/breed_counting.cpp)\
 [./USACO_and_Guide/2015-2016/December/high_card_win.cpp](./USACO_and_Guide/2015-2016/December/high_card_win.cpp)\
 [./USACO_and_Guide/2015-2016/December/switch_on_lights.cpp](./USACO_and_Guide/2015-2016/December/switch_on_lights.cpp)\
+[./USACO_and_Guide/2015-2016/February/milk_pails.cpp](./USACO_and_Guide/2015-2016/February/milk_pails.cpp)\
 [./USACO_and_Guide/2015-2016/January/angry_cows.cpp](./USACO_and_Guide/2015-2016/January/angry_cows.cpp)\
 [./USACO_and_Guide/2015-2016/January/build_gates.cpp](./USACO_and_Guide/2015-2016/January/build_gates.cpp)\
 [./USACO_and_Guide/2015-2016/January/subseq_sum_seven.cpp](./USACO_and_Guide/2015-2016/January/subseq_sum_seven.cpp)\
