@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 573
+### Total Files: 577
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -199,6 +199,10 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1359/mixing_water.py](./Codeforces/1359/mixing_water.py)\
 [./Codeforces/1360/shovel.cpp](./Codeforces/1360/shovel.cpp)\
 [./Codeforces/1363/odd_selec.cpp](./Codeforces/1363/odd_selec.cpp)\
+[./Codeforces/1365/matrix_game.cpp](./Codeforces/1365/matrix_game.cpp)\
+[./Codeforces/1365/rot_match.cpp](./Codeforces/1365/rot_match.cpp)\
+[./Codeforces/1365/solve_maze.cpp](./Codeforces/1365/solve_maze.cpp)\
+[./Codeforces/1365/trouble_sort.cpp](./Codeforces/1365/trouble_sort.cpp)\
 [./Codeforces/1374/ReadBooksEasy.java](./Codeforces/1374/ReadBooksEasy.java)\
 [./Codeforces/1379/acacius_string.py](./Codeforces/1379/acacius_string.py)\
 [./Codeforces/1385/make_it_good.py](./Codeforces/1385/make_it_good.py)\
