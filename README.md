@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 578
+### Total Files: 579
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -562,6 +562,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/2020-2021/January/just_stalling.c](./USACO_and_Guide/2020-2021/January/just_stalling.c)\
 [./USACO_and_Guide/2020-2021/January/no_time_to_paint.cpp](./USACO_and_Guide/2020-2021/January/no_time_to_paint.cpp)\
 [./USACO_and_Guide/2021-2022/December/connecting_two_barns.cpp](./USACO_and_Guide/2021-2022/December/connecting_two_barns.cpp)\
+[./USACO_and_Guide/2021-2022/December/conv_intervals.cpp](./USACO_and_Guide/2021-2022/December/conv_intervals.cpp)\
 [./USACO_and_Guide/2021-2022/February/redistributing_gifts.cpp](./USACO_and_Guide/2021-2022/February/redistributing_gifts.cpp)\
 [./USACO_and_Guide/2021-2022/Open/cow_operations.cpp](./USACO_and_Guide/2021-2022/Open/cow_operations.cpp)\
 [./USACO_and_Guide/2021-2022/Open/subset_equality.cpp](./USACO_and_Guide/2021-2022/Open/subset_equality.cpp)\
