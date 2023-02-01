@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 579
+### Total Files: 581
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -332,6 +332,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1772/different_diffeences.cpp](./Codeforces/1772/different_diffeences.cpp)\
 [./Codeforces/1772/matrix_rot.cpp](./Codeforces/1772/matrix_rot.cpp)\
 [./Codeforces/1772/perm_game.cpp](./Codeforces/1772/perm_game.cpp)\
+[./Codeforces/1778/flip_flop_sum.cpp](./Codeforces/1778/flip_flop_sum.cpp)\
+[./Codeforces/1778/forbidden_perm.cpp](./Codeforces/1778/forbidden_perm.cpp)\
 [./Codeforces/1779/hall_of_fame.py](./Codeforces/1779/hall_of_fame.py)\
 [./Codeforces/1779/mknez_constructforce.py](./Codeforces/1779/mknez_constructforce.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
