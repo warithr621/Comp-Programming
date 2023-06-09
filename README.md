@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 582
+### Total Files: 597
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -336,6 +336,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1778/forbidden_perm.cpp](./Codeforces/1778/forbidden_perm.cpp)\
 [./Codeforces/1779/hall_of_fame.py](./Codeforces/1779/hall_of_fame.py)\
 [./Codeforces/1779/mknez_constructforce.py](./Codeforces/1779/mknez_constructforce.py)\
+[./Codeforces/1826/running_miles.cpp](./Codeforces/1826/running_miles.cpp)\
+[./Codeforces/1826/trust_nobody.cpp](./Codeforces/1826/trust_nobody.cpp)\
+[./Codeforces/1840/WoodenToyFestival.java](./Codeforces/1840/WoodenToyFestival.java)\
+[./Codeforces/1840/binary_cafe.cpp](./Codeforces/1840/binary_cafe.cpp)\
+[./Codeforces/1840/cipher_shifer.cpp](./Codeforces/1840/cipher_shifer.cpp)\
+[./Codeforces/1840/ski_resort.cpp](./Codeforces/1840/ski_resort.cpp)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -388,6 +394,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/810/Straight_a.java](./Codeforces/810/Straight_a.java)\
 [./Codeforces/811/vlad_book.java](./Codeforces/811/vlad_book.java)\
 [./Codeforces/811/vlad_courtesy.cpp](./Codeforces/811/vlad_courtesy.cpp)\
+[./Codeforces/812/SagheerHausmeister.java](./Codeforces/812/SagheerHausmeister.java)\
 [./Codeforces/817/really_big_numbers.cpp](./Codeforces/817/really_big_numbers.cpp)\
 [./Codeforces/825/binary_protocol.java](./Codeforces/825/binary_protocol.java)\
 [./Codeforces/827/coprime_d4-r827.py](./Codeforces/827/coprime_d4-r827.py)\
@@ -425,20 +432,28 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/987/hs_become_human.py](./Codeforces/987/hs_become_human.py)\
 [./Codeforces/992/nast_arr.java](./Codeforces/992/nast_arr.java)\
 [./Codeforces/999/rev_encrypt.cpp](./Codeforces/999/rev_encrypt.cpp)\
-[./Other_Contests/HSCTF9/Floyd.java](./Other_Contests/HSCTF9/Floyd.java)\
-[./Other_Contests/HSCTF9/hacking_pwntools.py](./Other_Contests/HSCTF9/hacking_pwntools.py)\
-[./Other_Contests/HSCTF9/tunnels_pwntools.py](./Other_Contests/HSCTF9/tunnels_pwntools.py)\
+[./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py](./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py)\
+[./Other_Contests/HSCTF/HSCTF10/BankSoln.py](./Other_Contests/HSCTF/HSCTF10/BankSoln.py)\
+[./Other_Contests/HSCTF/HSCTF10/LargestFlagpolePwn.py](./Other_Contests/HSCTF/HSCTF10/LargestFlagpolePwn.py)\
+[./Other_Contests/HSCTF/HSCTF10/LargestFlagpoleSolver.java](./Other_Contests/HSCTF/HSCTF10/LargestFlagpoleSolver.java)\
+[./Other_Contests/HSCTF/HSCTF10/MicrurusFulviusSolnPartOne.py](./Other_Contests/HSCTF/HSCTF10/MicrurusFulviusSolnPartOne.py)\
+[./Other_Contests/HSCTF/HSCTF10/MicrurusFulviusSolnPartTwo.java](./Other_Contests/HSCTF/HSCTF10/MicrurusFulviusSolnPartTwo.java)\
+[./Other_Contests/HSCTF/HSCTF10/ProducingThreesSoln.py](./Other_Contests/HSCTF/HSCTF10/ProducingThreesSoln.py)\
+[./Other_Contests/HSCTF/HSCTF9/Floyd.java](./Other_Contests/HSCTF/HSCTF9/Floyd.java)\
+[./Other_Contests/HSCTF/HSCTF9/hacking_pwntools.py](./Other_Contests/HSCTF/HSCTF9/hacking_pwntools.py)\
+[./Other_Contests/HSCTF/HSCTF9/tunnels_pwntools.py](./Other_Contests/HSCTF/HSCTF9/tunnels_pwntools.py)\
 [./Other_Contests/Lexington_Informatics_Tournament/2020/waiting.cpp](./Other_Contests/Lexington_Informatics_Tournament/2020/waiting.cpp)\
 [./Other_Contests/Lexington_Informatics_Tournament/2021/Dominos.java](./Other_Contests/Lexington_Informatics_Tournament/2021/Dominos.java)\
 [./Other_Contests/Lexington_Informatics_Tournament/2021/forest.cpp](./Other_Contests/Lexington_Informatics_Tournament/2021/forest.cpp)\
-[./Other_Contests/Lexington_Informatics_Tournament/2022/Suspicious.java](./Other_Contests/Lexington_Informatics_Tournament/2022/Suspicious.java)\
-[./Other_Contests/Lexington_Informatics_Tournament/2022/cf_api.py](./Other_Contests/Lexington_Informatics_Tournament/2022/cf_api.py)\
-[./Other_Contests/Lexington_Informatics_Tournament/2022/falling_dominos.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/falling_dominos.cpp)\
-[./Other_Contests/Lexington_Informatics_Tournament/2022/rayarr.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/rayarr.cpp)\
-[./Other_Contests/Lexington_Informatics_Tournament/2022/score_hacker.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/score_hacker.cpp)\
-[./Other_Contests/Lexington_Informatics_Tournament/2022/FlashyColors/flashy_colors.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/FlashyColors/flashy_colors.cpp)\
-[./Other_Contests/Lexington_Informatics_Tournament/2022/FlashyColors/flashy_colors_altsol.py](./Other_Contests/Lexington_Informatics_Tournament/2022/FlashyColors/flashy_colors_altsol.py)\
-[./Other_Contests/Lexington_Informatics_Tournament/2022/FlashyColors/flashycolors_altersol.js](./Other_Contests/Lexington_Informatics_Tournament/2022/FlashyColors/flashycolors_altersol.js)\
+[./Other_Contests/Lexington_Informatics_Tournament/2022/CTF/cf_api.py](./Other_Contests/Lexington_Informatics_Tournament/2022/CTF/cf_api.py)\
+[./Other_Contests/Lexington_Informatics_Tournament/2022/CTF/FlashyColors/flashy_colors.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/CTF/FlashyColors/flashy_colors.cpp)\
+[./Other_Contests/Lexington_Informatics_Tournament/2022/CTF/FlashyColors/flashy_colors_altsol.py](./Other_Contests/Lexington_Informatics_Tournament/2022/CTF/FlashyColors/flashy_colors_altsol.py)\
+[./Other_Contests/Lexington_Informatics_Tournament/2022/CTF/FlashyColors/flashycolors_altersol.js](./Other_Contests/Lexington_Informatics_Tournament/2022/CTF/FlashyColors/flashycolors_altersol.js)\
+[./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/Suspicious.java](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/Suspicious.java)\
+[./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/falling_dominos.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/falling_dominos.cpp)\
+[./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp)\
+[./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp)\
+[./Other_Contests/PicoCTF/2023/power_analysis_warmup.py](./Other_Contests/PicoCTF/2023/power_analysis_warmup.py)\
 [./UIL-CS/2018/Districts/Alice.java](./UIL-CS/2018/Districts/Alice.java)\
 [./UIL-CS/2018/Districts/Bayani.java](./UIL-CS/2018/Districts/Bayani.java)\
 [./UIL-CS/2018/Districts/Carla.java](./UIL-CS/2018/Districts/Carla.java)\
