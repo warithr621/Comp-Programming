@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 597
+### Total Files: 598
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -148,6 +148,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1136/nastya_computer_game.py](./Codeforces/1136/nastya_computer_game.py)\
 [./Codeforces/1137/CoopGame.java](./Codeforces/1137/CoopGame.java)\
 [./Codeforces/114/cifera.java](./Codeforces/114/cifera.java)\
+[./Codeforces/1141/polycarp_restores_permutation.cpp](./Codeforces/1141/polycarp_restores_permutation.cpp)\
 [./Codeforces/1153/serval_bus.java](./Codeforces/1153/serval_bus.java)\
 [./Codeforces/1155/telephone.java](./Codeforces/1155/telephone.java)\
 [./Codeforces/1157/reach_num.java](./Codeforces/1157/reach_num.java)\
