@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 598
+### Total Files: 609
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -134,6 +134,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1056/dividing_candies.cpp](./Codeforces/1056/dividing_candies.cpp)\
 [./Codeforces/1059/cashier.java](./Codeforces/1059/cashier.java)\
 [./Codeforces/1061/coins.go](./Codeforces/1061/coins.go)\
+[./Codeforces/1085/connect_three.cpp](./Codeforces/1085/connect_three.cpp)\
 [./Codeforces/1085/div_times_mod.py](./Codeforces/1085/div_times_mod.py)\
 [./Codeforces/1085/right_left.py](./Codeforces/1085/right_left.py)\
 [./Codeforces/1091/treasure.cpp](./Codeforces/1091/treasure.cpp)\
@@ -200,6 +201,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1359/mixing_water.py](./Codeforces/1359/mixing_water.py)\
 [./Codeforces/1360/shovel.cpp](./Codeforces/1360/shovel.cpp)\
 [./Codeforces/1363/odd_selec.cpp](./Codeforces/1363/odd_selec.cpp)\
+[./Codeforces/1364/most_soc_dist_subseq.py](./Codeforces/1364/most_soc_dist_subseq.py)\
 [./Codeforces/1365/matrix_game.cpp](./Codeforces/1365/matrix_game.cpp)\
 [./Codeforces/1365/rot_match.cpp](./Codeforces/1365/rot_match.cpp)\
 [./Codeforces/1365/solve_maze.cpp](./Codeforces/1365/solve_maze.cpp)\
@@ -231,6 +233,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1465/in_game.cpp](./Codeforces/1465/in_game.cpp)\
 [./Codeforces/1501/alexey_train.cpp](./Codeforces/1501/alexey_train.cpp)\
 [./Codeforces/1523/lord_of_values.cpp](./Codeforces/1523/lord_of_values.cpp)\
+[./Codeforces/1528/parsa_huge_tree.cpp](./Codeforces/1528/parsa_huge_tree.cpp)\
 [./Codeforces/1530/bin_dec.java](./Codeforces/1530/bin_dec.java)\
 [./Codeforces/1533/bertown.kt](./Codeforces/1533/bertown.kt)\
 [./Codeforces/1535/playoff.py](./Codeforces/1535/playoff.py)\
@@ -320,6 +323,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1763/abs_maximization.cpp](./Codeforces/1763/abs_maximization.cpp)\
 [./Codeforces/1764/doremy_math_class.py](./Codeforces/1764/doremy_math_class.py)\
 [./Codeforces/1764/doremy_paint.py](./Codeforces/1764/doremy_paint.py)\
+[./Codeforces/1766/lucky_chains.cpp](./Codeforces/1766/lucky_chains.cpp)\
 [./Codeforces/1767/block_towers.py](./Codeforces/1767/block_towers.py)\
 [./Codeforces/1767/cut_the_triangle.py](./Codeforces/1767/cut_the_triangle.py)\
 [./Codeforces/1770/koxia_nt.cpp](./Codeforces/1770/koxia_nt.cpp)\
@@ -343,6 +347,13 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1840/binary_cafe.cpp](./Codeforces/1840/binary_cafe.cpp)\
 [./Codeforces/1840/cipher_shifer.cpp](./Codeforces/1840/cipher_shifer.cpp)\
 [./Codeforces/1840/ski_resort.cpp](./Codeforces/1840/ski_resort.cpp)\
+[./Codeforces/1846/rudolf_another_comp.cpp](./Codeforces/1846/rudolf_another_comp.cpp)\
+[./Codeforces/1846/rudolf_snowflakes_hard.cpp](./Codeforces/1846/rudolf_snowflakes_hard.cpp)\
+[./Codeforces/1846/rudolf_snowflakes_simple.cpp](./Codeforces/1846/rudolf_snowflakes_simple.cpp)\
+[./Codeforces/1846/rudolph_cut_rope.cpp](./Codeforces/1846/rudolph_cut_rope.cpp)\
+[./Codeforces/1846/rudolph_mimic.cpp](./Codeforces/1846/rudolph_mimic.cpp)\
+[./Codeforces/1846/rudolph_tic_tac_toe.cpp](./Codeforces/1846/rudolph_tic_tac_toe.cpp)\
+[./Codeforces/1846/rudolph_xmas_tree.cpp](./Codeforces/1846/rudolph_xmas_tree.cpp)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
