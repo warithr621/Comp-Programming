@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 609
+### Total Files: 610
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -348,6 +348,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1840/cipher_shifer.cpp](./Codeforces/1840/cipher_shifer.cpp)\
 [./Codeforces/1840/ski_resort.cpp](./Codeforces/1840/ski_resort.cpp)\
 [./Codeforces/1846/rudolf_another_comp.cpp](./Codeforces/1846/rudolf_another_comp.cpp)\
+[./Codeforces/1846/rudolf_codevid23.cpp](./Codeforces/1846/rudolf_codevid23.cpp)\
 [./Codeforces/1846/rudolf_snowflakes_hard.cpp](./Codeforces/1846/rudolf_snowflakes_hard.cpp)\
 [./Codeforces/1846/rudolf_snowflakes_simple.cpp](./Codeforces/1846/rudolf_snowflakes_simple.cpp)\
 [./Codeforces/1846/rudolph_cut_rope.cpp](./Codeforces/1846/rudolph_cut_rope.cpp)\
