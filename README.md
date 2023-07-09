@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 610
+### Total Files: 613
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -521,6 +521,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./UIL-CS/2018/State/Konstantinos.java](./UIL-CS/2018/State/Konstantinos.java)\
 [./UIL-CS/2018/State/Leonardo.java](./UIL-CS/2018/State/Leonardo.java)\
 [./UIL-CS/2018/State/Milo.java](./UIL-CS/2018/State/Milo.java)\
+[./UIL-CS/2018/State/Oscar.java](./UIL-CS/2018/State/Oscar.java)\
 [./UIL-CS/2018/State/Richa.java](./UIL-CS/2018/State/Richa.java)\
 [./UIL-CS/2018/State/Romero.java](./UIL-CS/2018/State/Romero.java)\
 [./UIL-CS/2019/Inv-A/Aaditya.java](./UIL-CS/2019/Inv-A/Aaditya.java)\
@@ -550,8 +551,10 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./UIL-CS/2019/State/Amber.java](./UIL-CS/2019/State/Amber.java)\
 [./UIL-CS/2019/State/Brenda.java](./UIL-CS/2019/State/Brenda.java)\
 [./UIL-CS/2019/State/Guangli.java](./UIL-CS/2019/State/Guangli.java)\
+[./UIL-CS/2019/State/Ichiro.java](./UIL-CS/2019/State/Ichiro.java)\
 [./UIL-CS/2019/State/Luis.java](./UIL-CS/2019/State/Luis.java)\
 [./UIL-CS/2019/State/Mark.java](./UIL-CS/2019/State/Mark.java)\
+[./UIL-CS/2019/State/Me.java](./UIL-CS/2019/State/Me.java)\
 [./UIL-CS/2019/State/Rakesh.java](./UIL-CS/2019/State/Rakesh.java)\
 [./UIL-CS/2019/State/Sean.java](./UIL-CS/2019/State/Sean.java)\
 [./USACO_and_Guide/2015-2016/December/FruitFeast.java](./USACO_and_Guide/2015-2016/December/FruitFeast.java)\
