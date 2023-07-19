@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 613
+### Total Files: 623
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -184,6 +184,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1266/dice_tower.java](./Codeforces/1266/dice_tower.java)\
 [./Codeforces/1269/ModEq.java](./Codeforces/1269/ModEq.java)\
 [./Codeforces/1284/ascent.java](./Codeforces/1284/ascent.java)\
+[./Codeforces/1287/hyperset.py](./Codeforces/1287/hyperset.py)\
 [./Codeforces/1294/three_prod.cpp](./Codeforces/1294/three_prod.cpp)\
 [./Codeforces/1299/anu_func.py](./Codeforces/1299/anu_func.py)\
 [./Codeforces/1312/bogosort.go](./Codeforces/1312/bogosort.go)\
@@ -232,6 +233,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1454/unique_bid_auction.cpp](./Codeforces/1454/unique_bid_auction.cpp)\
 [./Codeforces/1465/in_game.cpp](./Codeforces/1465/in_game.cpp)\
 [./Codeforces/1501/alexey_train.cpp](./Codeforces/1501/alexey_train.cpp)\
+[./Codeforces/152/pocket_book.py](./Codeforces/152/pocket_book.py)\
 [./Codeforces/1523/lord_of_values.cpp](./Codeforces/1523/lord_of_values.cpp)\
 [./Codeforces/1528/parsa_huge_tree.cpp](./Codeforces/1528/parsa_huge_tree.cpp)\
 [./Codeforces/1530/bin_dec.java](./Codeforces/1530/bin_dec.java)\
@@ -343,10 +345,16 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1779/mknez_constructforce.py](./Codeforces/1779/mknez_constructforce.py)\
 [./Codeforces/1826/running_miles.cpp](./Codeforces/1826/running_miles.cpp)\
 [./Codeforces/1826/trust_nobody.cpp](./Codeforces/1826/trust_nobody.cpp)\
+[./Codeforces/1834/max_strength.py](./Codeforces/1834/max_strength.py)\
 [./Codeforces/1840/WoodenToyFestival.java](./Codeforces/1840/WoodenToyFestival.java)\
 [./Codeforces/1840/binary_cafe.cpp](./Codeforces/1840/binary_cafe.cpp)\
 [./Codeforces/1840/cipher_shifer.cpp](./Codeforces/1840/cipher_shifer.cpp)\
 [./Codeforces/1840/ski_resort.cpp](./Codeforces/1840/ski_resort.cpp)\
+[./Codeforces/1842/tenzing_tsondu.py](./Codeforces/1842/tenzing_tsondu.py)\
+[./Codeforces/1843/AppleTree.java](./Codeforces/1843/AppleTree.java)\
+[./Codeforces/1843/tracking_segs.cpp](./Codeforces/1843/tracking_segs.cpp)\
+[./Codeforces/1845/come_together.cpp](./Codeforces/1845/come_together.cpp)\
+[./Codeforces/1845/forbidden_int.py](./Codeforces/1845/forbidden_int.py)\
 [./Codeforces/1846/rudolf_another_comp.cpp](./Codeforces/1846/rudolf_another_comp.cpp)\
 [./Codeforces/1846/rudolf_codevid23.cpp](./Codeforces/1846/rudolf_codevid23.cpp)\
 [./Codeforces/1846/rudolf_snowflakes_hard.cpp](./Codeforces/1846/rudolf_snowflakes_hard.cpp)\
@@ -417,9 +425,11 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/827/stripes_d4-r827.py](./Codeforces/827/stripes_d4-r827.py)\
 [./Codeforces/827/sum_d4-r827.py](./Codeforces/827/sum_d4-r827.py)\
 [./Codeforces/835/board.cpp](./Codeforces/835/board.cpp)\
+[./Codeforces/85/domino.cpp](./Codeforces/85/domino.cpp)\
 [./Codeforces/856/set_theory.cpp](./Codeforces/856/set_theory.cpp)\
 [./Codeforces/858/k_round.cpp](./Codeforces/858/k_round.cpp)\
 [./Codeforces/862/mahmoud_ehab_bipartiteness.cpp](./Codeforces/862/mahmoud_ehab_bipartiteness.cpp)\
+[./Codeforces/864/make_a_perm.py](./Codeforces/864/make_a_perm.py)\
 [./Codeforces/868/bark_to_unlock.php](./Codeforces/868/bark_to_unlock.php)\
 [./Codeforces/868/race_against_time.php](./Codeforces/868/race_against_time.php)\
 [./Codeforces/876/meal_trip.go](./Codeforces/876/meal_trip.go)\
