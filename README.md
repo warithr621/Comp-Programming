@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 624
+### Total Files: 625
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -50,6 +50,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./COCI/2021-2022/Round-2/kaucuk.cpp](./COCI/2021-2022/Round-2/kaucuk.cpp)\
 [./COCI/2022-2023/Round-1/desniklik.cpp](./COCI/2022-2023/Round-1/desniklik.cpp)\
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
+[./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
 [./CSES/Dynamic-Programming/book_shop.cpp](./CSES/Dynamic-Programming/book_shop.cpp)\
 [./CSES/Dynamic-Programming/coin_combo_i.cpp](./CSES/Dynamic-Programming/coin_combo_i.cpp)\
