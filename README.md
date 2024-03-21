@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 627
+### Total Files: 629
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -91,6 +91,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Introductory-Problems/two_sets.cpp](./CSES/Introductory-Problems/two_sets.cpp)\
 [./CSES/Introductory-Problems/weird_algo.py](./CSES/Introductory-Problems/weird_algo.py)\
 [./CSES/Mathematics/FibNum.java](./CSES/Mathematics/FibNum.java)\
+[./CSES/Mathematics/NimGameI.java](./CSES/Mathematics/NimGameI.java)\
+[./CSES/Mathematics/NimGameII.java](./CSES/Mathematics/NimGameII.java)\
 [./CSES/Mathematics/bin_coeff.cpp](./CSES/Mathematics/bin_coeff.cpp)\
 [./CSES/Mathematics/common_divisors.cpp](./CSES/Mathematics/common_divisors.cpp)\
 [./CSES/Mathematics/count_div.cpp](./CSES/Mathematics/count_div.cpp)\
