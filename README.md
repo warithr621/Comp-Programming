@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 629
+### Total Files: 630
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -64,6 +64,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Dynamic-Programming/removing_digits.py](./CSES/Dynamic-Programming/removing_digits.py)\
 [./CSES/Dynamic-Programming/two_sets_ii.cpp](./CSES/Dynamic-Programming/two_sets_ii.cpp)\
 [./CSES/Geometry/PolygonArea.java](./CSES/Geometry/PolygonArea.java)\
+[./CSES/Geometry/point_location_test.cpp](./CSES/Geometry/point_location_test.cpp)\
 [./CSES/Graph-Algos/BuildingRoads.java](./CSES/Graph-Algos/BuildingRoads.java)\
 [./CSES/Graph-Algos/build_team.cpp](./CSES/Graph-Algos/build_team.cpp)\
 [./CSES/Graph-Algos/counting_rooms.cpp](./CSES/Graph-Algos/counting_rooms.cpp)\

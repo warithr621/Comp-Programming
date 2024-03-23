@@ -1,3 +1,5 @@
+// CSES Nim Game I
+
 import java.util.*;
 
 public class NimGameI {
