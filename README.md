@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 631
+### Total Files: 632
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -103,6 +103,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Mathematics/div_analysis.cpp](./CSES/Mathematics/div_analysis.cpp)\
 [./CSES/Mathematics/exp.cpp](./CSES/Mathematics/exp.cpp)\
 [./CSES/Mathematics/exp_ii.cpp](./CSES/Mathematics/exp_ii.cpp)\
+[./CSES/Mathematics/prime_multiples.cpp](./CSES/Mathematics/prime_multiples.cpp)\
 [./CSES/Range-Queries/dynamic_range_min_queries.cpp](./CSES/Range-Queries/dynamic_range_min_queries.cpp)\
 [./CSES/Range-Queries/dynamic_range_sum_queries.cpp](./CSES/Range-Queries/dynamic_range_sum_queries.cpp)\
 [./CSES/Range-Queries/forest_quer.cpp](./CSES/Range-Queries/forest_quer.cpp)\
