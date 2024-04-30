@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 632
+### Total Files: 635
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -95,6 +95,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Mathematics/NimGameI.java](./CSES/Mathematics/NimGameI.java)\
 [./CSES/Mathematics/NimGameII.java](./CSES/Mathematics/NimGameII.java)\
 [./CSES/Mathematics/bin_coeff.cpp](./CSES/Mathematics/bin_coeff.cpp)\
+[./CSES/Mathematics/candy_lottery.cpp](./CSES/Mathematics/candy_lottery.cpp)\
 [./CSES/Mathematics/christmas_party.py](./CSES/Mathematics/christmas_party.py)\
 [./CSES/Mathematics/common_divisors.cpp](./CSES/Mathematics/common_divisors.cpp)\
 [./CSES/Mathematics/count_div.cpp](./CSES/Mathematics/count_div.cpp)\
@@ -103,7 +104,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Mathematics/div_analysis.cpp](./CSES/Mathematics/div_analysis.cpp)\
 [./CSES/Mathematics/exp.cpp](./CSES/Mathematics/exp.cpp)\
 [./CSES/Mathematics/exp_ii.cpp](./CSES/Mathematics/exp_ii.cpp)\
+[./CSES/Mathematics/grundys_game.cpp](./CSES/Mathematics/grundys_game.cpp)\
 [./CSES/Mathematics/prime_multiples.cpp](./CSES/Mathematics/prime_multiples.cpp)\
+[./CSES/Mathematics/stick_game.cpp](./CSES/Mathematics/stick_game.cpp)\
 [./CSES/Range-Queries/dynamic_range_min_queries.cpp](./CSES/Range-Queries/dynamic_range_min_queries.cpp)\
 [./CSES/Range-Queries/dynamic_range_sum_queries.cpp](./CSES/Range-Queries/dynamic_range_sum_queries.cpp)\
 [./CSES/Range-Queries/forest_quer.cpp](./CSES/Range-Queries/forest_quer.cpp)\
