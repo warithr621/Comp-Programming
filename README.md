@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 635
+### Total Files: 637
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -58,7 +58,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Dynamic-Programming/coin_combo_ii.cpp](./CSES/Dynamic-Programming/coin_combo_ii.cpp)\
 [./CSES/Dynamic-Programming/count_towers.py](./CSES/Dynamic-Programming/count_towers.py)\
 [./CSES/Dynamic-Programming/dice_combo.cpp](./CSES/Dynamic-Programming/dice_combo.cpp)\
+[./CSES/Dynamic-Programming/edit_distance.cpp](./CSES/Dynamic-Programming/edit_distance.cpp)\
 [./CSES/Dynamic-Programming/grid_paths_dp.cpp](./CSES/Dynamic-Programming/grid_paths_dp.cpp)\
+[./CSES/Dynamic-Programming/increasing_subsequence.cpp](./CSES/Dynamic-Programming/increasing_subsequence.cpp)\
 [./CSES/Dynamic-Programming/min_coins.cpp](./CSES/Dynamic-Programming/min_coins.cpp)\
 [./CSES/Dynamic-Programming/money_sums.cpp](./CSES/Dynamic-Programming/money_sums.cpp)\
 [./CSES/Dynamic-Programming/removing_digits.py](./CSES/Dynamic-Programming/removing_digits.py)\
