@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 637
+### Total Files: 638
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -125,6 +125,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Sorting-and-Searching/josephus_problem_i.cpp](./CSES/Sorting-and-Searching/josephus_problem_i.cpp)\
 [./CSES/Sorting-and-Searching/max_subarr.cpp](./CSES/Sorting-and-Searching/max_subarr.cpp)\
 [./CSES/Sorting-and-Searching/miss_coin_sum.py](./CSES/Sorting-and-Searching/miss_coin_sum.py)\
+[./CSES/Sorting-and-Searching/monsters.cpp](./CSES/Sorting-and-Searching/monsters.cpp)\
 [./CSES/Sorting-and-Searching/movie_fest_ii.cpp](./CSES/Sorting-and-Searching/movie_fest_ii.cpp)\
 [./CSES/Sorting-and-Searching/nearest_smaller_vals.cpp](./CSES/Sorting-and-Searching/nearest_smaller_vals.cpp)\
 [./CSES/Sorting-and-Searching/playlist.cpp](./CSES/Sorting-and-Searching/playlist.cpp)\
