@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 638
+### Total Files: 640
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -74,6 +74,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Graph-Algos/labyrinth.cpp](./CSES/Graph-Algos/labyrinth.cpp)\
 [./CSES/Graph-Algos/message_route.cpp](./CSES/Graph-Algos/message_route.cpp)\
 [./CSES/Graph-Algos/round_trip.cpp](./CSES/Graph-Algos/round_trip.cpp)\
+[./CSES/Graph-Algos/shortest_routes_i.cpp](./CSES/Graph-Algos/shortest_routes_i.cpp)\
 [./CSES/Graph-Algos/shortest_routes_ii.py](./CSES/Graph-Algos/shortest_routes_ii.py)\
 [./CSES/Introductory-Problems/AppleDiv.java](./CSES/Introductory-Problems/AppleDiv.java)\
 [./CSES/Introductory-Problems/DigitQueries.java](./CSES/Introductory-Problems/DigitQueries.java)\
@@ -101,6 +102,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Mathematics/christmas_party.py](./CSES/Mathematics/christmas_party.py)\
 [./CSES/Mathematics/common_divisors.cpp](./CSES/Mathematics/common_divisors.cpp)\
 [./CSES/Mathematics/count_div.cpp](./CSES/Mathematics/count_div.cpp)\
+[./CSES/Mathematics/counting_grids.cpp](./CSES/Mathematics/counting_grids.cpp)\
 [./CSES/Mathematics/create_string_ii.cpp](./CSES/Mathematics/create_string_ii.cpp)\
 [./CSES/Mathematics/distrib_apples.cpp](./CSES/Mathematics/distrib_apples.cpp)\
 [./CSES/Mathematics/div_analysis.cpp](./CSES/Mathematics/div_analysis.cpp)\
