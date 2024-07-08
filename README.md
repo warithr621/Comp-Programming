@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 640
+### Total Files: 646
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -143,6 +143,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/String-Algos/string_matching.cpp](./CSES/String-Algos/string_matching.cpp)\
 [./CSES/Tree-Algos/subord.cpp](./CSES/Tree-Algos/subord.cpp)\
 [./CSES/Tree-Algos/tree_diameter.cpp](./CSES/Tree-Algos/tree_diameter.cpp)\
+[./Codeforces/array_div.py](./Codeforces/array_div.py)\
+[./Codeforces/corner_twist.cpp](./Codeforces/corner_twist.cpp)\
+[./Codeforces/have_your_cake.py](./Codeforces/have_your_cake.py)\
 [./Codeforces/1020/Badge.java](./Codeforces/1020/Badge.java)\
 [./Codeforces/1025/weak_common_div.py](./Codeforces/1025/weak_common_div.py)\
 [./Codeforces/1038/equality.cpp](./Codeforces/1038/equality.cpp)\
@@ -380,6 +383,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1846/rudolph_mimic.cpp](./Codeforces/1846/rudolph_mimic.cpp)\
 [./Codeforces/1846/rudolph_tic_tac_toe.cpp](./Codeforces/1846/rudolph_tic_tac_toe.cpp)\
 [./Codeforces/1846/rudolph_xmas_tree.cpp](./Codeforces/1846/rudolph_xmas_tree.cpp)\
+[./Codeforces/1980/gcd_seq.cpp](./Codeforces/1980/gcd_seq.cpp)\
+[./Codeforces/1986/math_problem.cpp](./Codeforces/1986/math_problem.cpp)\
+[./Codeforces/1989/two_movies.cpp](./Codeforces/1989/two_movies.cpp)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
