@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 646
+### Total Files: 700
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -380,6 +380,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1846/rudolph_mimic.cpp](./Codeforces/1846/rudolph_mimic.cpp)\
 [./Codeforces/1846/rudolph_tic_tac_toe.cpp](./Codeforces/1846/rudolph_tic_tac_toe.cpp)\
 [./Codeforces/1846/rudolph_xmas_tree.cpp](./Codeforces/1846/rudolph_xmas_tree.cpp)\
+[./Codeforces/1974/BeautifulTriple.java](./Codeforces/1974/BeautifulTriple.java)\
+[./Codeforces/1974/SymmEncode.java](./Codeforces/1974/SymmEncode.java)\
+[./Codeforces/1974/phone_desktop.cpp](./Codeforces/1974/phone_desktop.cpp)\
 [./Codeforces/1980/gcd_seq.cpp](./Codeforces/1980/gcd_seq.cpp)\
 [./Codeforces/1983/array_div.py](./Codeforces/1983/array_div.py)\
 [./Codeforces/1983/corner_twist.cpp](./Codeforces/1983/corner_twist.cpp)\
@@ -478,6 +481,57 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/987/hs_become_human.py](./Codeforces/987/hs_become_human.py)\
 [./Codeforces/992/nast_arr.java](./Codeforces/992/nast_arr.java)\
 [./Codeforces/999/rev_encrypt.cpp](./Codeforces/999/rev_encrypt.cpp)\
+[./Leetcode/1046.java](./Leetcode/1046.java)\
+[./Leetcode/1051.cpp](./Leetcode/1051.cpp)\
+[./Leetcode/1052.java](./Leetcode/1052.java)\
+[./Leetcode/120.java](./Leetcode/120.java)\
+[./Leetcode/1207.java](./Leetcode/1207.java)\
+[./Leetcode/1248.java](./Leetcode/1248.java)\
+[./Leetcode/1291.java](./Leetcode/1291.java)\
+[./Leetcode/14.java](./Leetcode/14.java)\
+[./Leetcode/150.java](./Leetcode/150.java)\
+[./Leetcode/1509.java](./Leetcode/1509.java)\
+[./Leetcode/1518.java](./Leetcode/1518.java)\
+[./Leetcode/1552.cpp](./Leetcode/1552.cpp)\
+[./Leetcode/1636.java](./Leetcode/1636.java)\
+[./Leetcode/17.cpp](./Leetcode/17.cpp)\
+[./Leetcode/1701.cpp](./Leetcode/1701.cpp)\
+[./Leetcode/1823.java](./Leetcode/1823.java)\
+[./Leetcode/2.java](./Leetcode/2.java)\
+[./Leetcode/20.java](./Leetcode/20.java)\
+[./Leetcode/2001.java](./Leetcode/2001.java)\
+[./Leetcode/2027.java](./Leetcode/2027.java)\
+[./Leetcode/2037.cpp](./Leetcode/2037.cpp)\
+[./Leetcode/2058.java](./Leetcode/2058.java)\
+[./Leetcode/206.java](./Leetcode/206.java)\
+[./Leetcode/2089.java](./Leetcode/2089.java)\
+[./Leetcode/2109.java](./Leetcode/2109.java)\
+[./Leetcode/2124.java](./Leetcode/2124.java)\
+[./Leetcode/2181.java](./Leetcode/2181.java)\
+[./Leetcode/2206.java](./Leetcode/2206.java)\
+[./Leetcode/2236.java](./Leetcode/2236.java)\
+[./Leetcode/2285.java](./Leetcode/2285.java)\
+[./Leetcode/238.java](./Leetcode/238.java)\
+[./Leetcode/2582.java](./Leetcode/2582.java)\
+[./Leetcode/268.cpp](./Leetcode/268.cpp)\
+[./Leetcode/27.cpp](./Leetcode/27.cpp)\
+[./Leetcode/3.java](./Leetcode/3.java)\
+[./Leetcode/303.cpp](./Leetcode/303.cpp)\
+[./Leetcode/3069.cpp](./Leetcode/3069.cpp)\
+[./Leetcode/307.cpp](./Leetcode/307.cpp)\
+[./Leetcode/3100.java](./Leetcode/3100.java)\
+[./Leetcode/319.java](./Leetcode/319.java)\
+[./Leetcode/32.java](./Leetcode/32.java)\
+[./Leetcode/344.java](./Leetcode/344.java)\
+[./Leetcode/347.java](./Leetcode/347.java)\
+[./Leetcode/451.java](./Leetcode/451.java)\
+[./Leetcode/498.java](./Leetcode/498.java)\
+[./Leetcode/525.java](./Leetcode/525.java)\
+[./Leetcode/72.java](./Leetcode/72.java)\
+[./Leetcode/75.java](./Leetcode/75.java)\
+[./Leetcode/846.java](./Leetcode/846.java)\
+[./Leetcode/945.cpp](./Leetcode/945.cpp)\
+[./Leetcode/977.java](./Leetcode/977.java)\
 [./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py](./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py)\
 [./Other_Contests/HSCTF/HSCTF10/BankSoln.py](./Other_Contests/HSCTF/HSCTF10/BankSoln.py)\
 [./Other_Contests/HSCTF/HSCTF10/LargestFlagpolePwn.py](./Other_Contests/HSCTF/HSCTF10/LargestFlagpolePwn.py)\
