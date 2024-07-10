@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 700
+### Total Files: 706
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -482,6 +482,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/992/nast_arr.java](./Codeforces/992/nast_arr.java)\
 [./Codeforces/999/rev_encrypt.cpp](./Codeforces/999/rev_encrypt.cpp)\
 [./Leetcode/1046.java](./Leetcode/1046.java)\
+[./Leetcode/1047.cpp](./Leetcode/1047.cpp)\
 [./Leetcode/1051.cpp](./Leetcode/1051.cpp)\
 [./Leetcode/1052.java](./Leetcode/1052.java)\
 [./Leetcode/120.java](./Leetcode/120.java)\
@@ -493,6 +494,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/1509.java](./Leetcode/1509.java)\
 [./Leetcode/1518.java](./Leetcode/1518.java)\
 [./Leetcode/1552.cpp](./Leetcode/1552.cpp)\
+[./Leetcode/1598.cpp](./Leetcode/1598.cpp)\
 [./Leetcode/1636.java](./Leetcode/1636.java)\
 [./Leetcode/17.cpp](./Leetcode/17.cpp)\
 [./Leetcode/1701.cpp](./Leetcode/1701.cpp)\
@@ -512,6 +514,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/2236.java](./Leetcode/2236.java)\
 [./Leetcode/2285.java](./Leetcode/2285.java)\
 [./Leetcode/238.java](./Leetcode/238.java)\
+[./Leetcode/2390.cpp](./Leetcode/2390.cpp)\
 [./Leetcode/2582.java](./Leetcode/2582.java)\
 [./Leetcode/268.cpp](./Leetcode/268.cpp)\
 [./Leetcode/27.cpp](./Leetcode/27.cpp)\
@@ -527,8 +530,11 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/451.java](./Leetcode/451.java)\
 [./Leetcode/498.java](./Leetcode/498.java)\
 [./Leetcode/525.java](./Leetcode/525.java)\
+[./Leetcode/682.cpp](./Leetcode/682.cpp)\
 [./Leetcode/72.java](./Leetcode/72.java)\
+[./Leetcode/73.cpp](./Leetcode/73.cpp)\
 [./Leetcode/75.java](./Leetcode/75.java)\
+[./Leetcode/844.cpp](./Leetcode/844.cpp)\
 [./Leetcode/846.java](./Leetcode/846.java)\
 [./Leetcode/945.cpp](./Leetcode/945.cpp)\
 [./Leetcode/977.java](./Leetcode/977.java)\
