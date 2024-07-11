@@ -143,11 +143,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/String-Algos/string_matching.cpp](./CSES/String-Algos/string_matching.cpp)\
 [./CSES/Tree-Algos/subord.cpp](./CSES/Tree-Algos/subord.cpp)\
 [./CSES/Tree-Algos/tree_diameter.cpp](./CSES/Tree-Algos/tree_diameter.cpp)\
-[./Codeforces/GorillaPerm.java](./Codeforces/GorillaPerm.java)\
-[./Codeforces/angry_monk.cpp](./Codeforces/angry_monk.cpp)\
-[./Codeforces/novice_mistake.cpp](./Codeforces/novice_mistake.cpp)\
-[./Codeforces/only_pluses.py](./Codeforces/only_pluses.py)\
-[./Codeforces/test_love.cpp](./Codeforces/test_love.cpp)\
 [./Codeforces/1020/Badge.java](./Codeforces/1020/Badge.java)\
 [./Codeforces/1025/weak_common_div.py](./Codeforces/1025/weak_common_div.py)\
 [./Codeforces/1038/equality.cpp](./Codeforces/1038/equality.cpp)\
@@ -394,6 +389,11 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1983/have_your_cake.py](./Codeforces/1983/have_your_cake.py)\
 [./Codeforces/1986/math_problem.cpp](./Codeforces/1986/math_problem.cpp)\
 [./Codeforces/1989/two_movies.cpp](./Codeforces/1989/two_movies.cpp)\
+[./Codeforces/1992/GorillaPerm.java](./Codeforces/1992/GorillaPerm.java)\
+[./Codeforces/1992/angry_monk.cpp](./Codeforces/1992/angry_monk.cpp)\
+[./Codeforces/1992/novice_mistake.cpp](./Codeforces/1992/novice_mistake.cpp)\
+[./Codeforces/1992/only_pluses.py](./Codeforces/1992/only_pluses.py)\
+[./Codeforces/1992/test_love.cpp](./Codeforces/1992/test_love.cpp)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
