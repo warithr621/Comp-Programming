@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 708
+### Total Files: 713
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -143,6 +143,11 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/String-Algos/string_matching.cpp](./CSES/String-Algos/string_matching.cpp)\
 [./CSES/Tree-Algos/subord.cpp](./CSES/Tree-Algos/subord.cpp)\
 [./CSES/Tree-Algos/tree_diameter.cpp](./CSES/Tree-Algos/tree_diameter.cpp)\
+[./Codeforces/GorillaPerm.java](./Codeforces/GorillaPerm.java)\
+[./Codeforces/angry_monk.cpp](./Codeforces/angry_monk.cpp)\
+[./Codeforces/novice_mistake.cpp](./Codeforces/novice_mistake.cpp)\
+[./Codeforces/only_pluses.py](./Codeforces/only_pluses.py)\
+[./Codeforces/test_love.cpp](./Codeforces/test_love.cpp)\
 [./Codeforces/1020/Badge.java](./Codeforces/1020/Badge.java)\
 [./Codeforces/1025/weak_common_div.py](./Codeforces/1025/weak_common_div.py)\
 [./Codeforces/1038/equality.cpp](./Codeforces/1038/equality.cpp)\
