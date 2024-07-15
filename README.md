@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 730
+### Total Files: 736
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -486,9 +486,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/987/hs_become_human.py](./Codeforces/987/hs_become_human.py)\
 [./Codeforces/992/nast_arr.java](./Codeforces/992/nast_arr.java)\
 [./Codeforces/999/rev_encrypt.cpp](./Codeforces/999/rev_encrypt.cpp)\
+[./Leetcode/Easy/100.py](./Leetcode/Easy/100.py)\
+[./Leetcode/Easy/104.py](./Leetcode/Easy/104.py)\
 [./Leetcode/Easy/1046.java](./Leetcode/Easy/1046.java)\
 [./Leetcode/Easy/1047.cpp](./Leetcode/Easy/1047.cpp)\
 [./Leetcode/Easy/1051.cpp](./Leetcode/Easy/1051.cpp)\
+[./Leetcode/Easy/110.py](./Leetcode/Easy/110.py)\
 [./Leetcode/Easy/1207.java](./Leetcode/Easy/1207.java)\
 [./Leetcode/Easy/121.cpp](./Leetcode/Easy/121.cpp)\
 [./Leetcode/Easy/125.java](./Leetcode/Easy/125.java)\
@@ -504,6 +507,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/2124.java](./Leetcode/Easy/2124.java)\
 [./Leetcode/Easy/2206.java](./Leetcode/Easy/2206.java)\
 [./Leetcode/Easy/2236.java](./Leetcode/Easy/2236.java)\
+[./Leetcode/Easy/226.py](./Leetcode/Easy/226.py)\
 [./Leetcode/Easy/2582.java](./Leetcode/Easy/2582.java)\
 [./Leetcode/Easy/26.cpp](./Leetcode/Easy/26.cpp)\
 [./Leetcode/Easy/268.cpp](./Leetcode/Easy/268.cpp)\
@@ -513,6 +517,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/3069.cpp](./Leetcode/Easy/3069.cpp)\
 [./Leetcode/Easy/344.java](./Leetcode/Easy/344.java)\
 [./Leetcode/Easy/682.cpp](./Leetcode/Easy/682.cpp)\
+[./Leetcode/Easy/70.py](./Leetcode/Easy/70.py)\
 [./Leetcode/Easy/704.cpp](./Leetcode/Easy/704.cpp)\
 [./Leetcode/Easy/844.cpp](./Leetcode/Easy/844.cpp)\
 [./Leetcode/Easy/977.java](./Leetcode/Easy/977.java)\
@@ -540,6 +545,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/2058.java](./Leetcode/Medium/2058.java)\
 [./Leetcode/Medium/2109.java](./Leetcode/Medium/2109.java)\
 [./Leetcode/Medium/2181.java](./Leetcode/Medium/2181.java)\
+[./Leetcode/Medium/2196.java](./Leetcode/Medium/2196.java)\
 [./Leetcode/Medium/2285.java](./Leetcode/Medium/2285.java)\
 [./Leetcode/Medium/238.java](./Leetcode/Medium/238.java)\
 [./Leetcode/Medium/2390.java](./Leetcode/Medium/2390.java)\

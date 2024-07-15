@@ -7,20 +7,20 @@ class Solution {
     public int lengthOfLongestSubstring(String s) {
         // 2ptr?
         int ans = 0, left = 0, right = 0;
-        HashSet<Character> sub = new HashSet<>();
+        int[] freq = new int[128];
         while (right != s.length()) {
             // see if you can move right
-            if (!sub.contains(s.charAt(right))) {
+            if (freq[s.charAt(right)] == 0) {
                 // we can add this!
-                sub.add(s.charAt(right));
+                freq[s.charAt(right)]++;
                 ++right;
                 ans = Math.max(ans, right - left);
             } else {
                 // we need to shift left until we remove whatever s.charAt(right) is
                 while (true) {
-                    sub.remove(s.charAt(left));
+                    freq[s.charAt(left)]--;
                     ++left;
-                    if (!sub.contains(s.charAt(right))) break;
+                    if (freq[s.charAt(right)] == 0) break;
                 }
                 if (right - left > ans) ans = right - left;
             }
