@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 767
+### Total Files: 777
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
 [./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
 [./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
@@ -396,6 +396,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1992/novice_mistake.cpp](./Codeforces/1992/novice_mistake.cpp)\
 [./Codeforces/1992/only_pluses.py](./Codeforces/1992/only_pluses.py)\
 [./Codeforces/1992/test_love.cpp](./Codeforces/1992/test_love.cpp)\
+[./Codeforces/1994/diverse_game.cpp](./Codeforces/1994/diverse_game.cpp)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -497,6 +498,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/1207.java](./Leetcode/Easy/1207.java)\
 [./Leetcode/Easy/121.cpp](./Leetcode/Easy/121.cpp)\
 [./Leetcode/Easy/125.java](./Leetcode/Easy/125.java)\
+[./Leetcode/Easy/1380.java](./Leetcode/Easy/1380.java)\
 [./Leetcode/Easy/14.java](./Leetcode/Easy/14.java)\
 [./Leetcode/Easy/141.java](./Leetcode/Easy/141.java)\
 [./Leetcode/Easy/1518.java](./Leetcode/Easy/1518.java)\
@@ -536,6 +538,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Hard/1402.cpp](./Leetcode/Hard/1402.cpp)\
 [./Leetcode/Hard/2751.java](./Leetcode/Hard/2751.java)\
 [./Leetcode/Hard/32.java](./Leetcode/Hard/32.java)\
+[./Leetcode/Hard/354.java](./Leetcode/Hard/354.java)\
+[./Leetcode/Hard/60.cpp](./Leetcode/Hard/60.cpp)\
 [./Leetcode/Hard/726.py](./Leetcode/Hard/726.py)\
 [./Leetcode/Medium/1052.java](./Leetcode/Medium/1052.java)\
 [./Leetcode/Medium/11.cpp](./Leetcode/Medium/11.cpp)\
@@ -548,9 +552,13 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1291.java](./Leetcode/Medium/1291.java)\
 [./Leetcode/Medium/137.java](./Leetcode/Medium/137.java)\
 [./Leetcode/Medium/139.cpp](./Leetcode/Medium/139.cpp)\
+[./Leetcode/Medium/15.cpp](./Leetcode/Medium/15.cpp)\
 [./Leetcode/Medium/150.java](./Leetcode/Medium/150.java)\
 [./Leetcode/Medium/1509.java](./Leetcode/Medium/1509.java)\
+[./Leetcode/Medium/1530.java](./Leetcode/Medium/1530.java)\
+[./Leetcode/Medium/155.cpp](./Leetcode/Medium/155.cpp)\
 [./Leetcode/Medium/1552.cpp](./Leetcode/Medium/1552.cpp)\
+[./Leetcode/Medium/1605.java](./Leetcode/Medium/1605.java)\
 [./Leetcode/Medium/162.cpp](./Leetcode/Medium/162.cpp)\
 [./Leetcode/Medium/167.java](./Leetcode/Medium/167.java)\
 [./Leetcode/Medium/17.cpp](./Leetcode/Medium/17.cpp)\
@@ -568,6 +576,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/2109.java](./Leetcode/Medium/2109.java)\
 [./Leetcode/Medium/2181.java](./Leetcode/Medium/2181.java)\
 [./Leetcode/Medium/2196.java](./Leetcode/Medium/2196.java)\
+[./Leetcode/Medium/22.java](./Leetcode/Medium/22.java)\
 [./Leetcode/Medium/2285.java](./Leetcode/Medium/2285.java)\
 [./Leetcode/Medium/238.java](./Leetcode/Medium/238.java)\
 [./Leetcode/Medium/2390.java](./Leetcode/Medium/2390.java)\
@@ -599,6 +608,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/846.java](./Leetcode/Medium/846.java)\
 [./Leetcode/Medium/875.cpp](./Leetcode/Medium/875.cpp)\
 [./Leetcode/Medium/945.cpp](./Leetcode/Medium/945.cpp)\
+[./Leetcode/Medium/957.cpp](./Leetcode/Medium/957.cpp)\
 [./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py](./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py)\
 [./Other_Contests/HSCTF/HSCTF10/BankSoln.py](./Other_Contests/HSCTF/HSCTF10/BankSoln.py)\
 [./Other_Contests/HSCTF/HSCTF10/LargestFlagpolePwn.py](./Other_Contests/HSCTF/HSCTF10/LargestFlagpolePwn.py)\
