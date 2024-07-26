@@ -12,43 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 793
-[./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation1.cpp)\
-[./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp](./AdventOfCode/2019/Day1/tyranny_rocket_equation2.cpp)\
-[./AdventOfCode/2019/Day2/ProgramAlarm1.java](./AdventOfCode/2019/Day2/ProgramAlarm1.java)\
-[./AdventOfCode/2019/Day2/ProgramAlarm2.java](./AdventOfCode/2019/Day2/ProgramAlarm2.java)\
-[./AdventOfCode/2020/Day1/ReportRepair1.cpp](./AdventOfCode/2020/Day1/ReportRepair1.cpp)\
-[./AdventOfCode/2020/Day1/ReportRepair2.cpp](./AdventOfCode/2020/Day1/ReportRepair2.cpp)\
-[./AdventOfCode/2020/Day2/PwdPhilosophy1.java](./AdventOfCode/2020/Day2/PwdPhilosophy1.java)\
-[./AdventOfCode/2020/Day2/PwdPhilosophy2.java](./AdventOfCode/2020/Day2/PwdPhilosophy2.java)\
-[./AdventOfCode/2020/Day3/Toboggan1.java](./AdventOfCode/2020/Day3/Toboggan1.java)\
-[./AdventOfCode/2020/Day3/Toboggan2.java](./AdventOfCode/2020/Day3/Toboggan2.java)\
-[./AdventOfCode/2020/Day4/PassportProcess1.java](./AdventOfCode/2020/Day4/PassportProcess1.java)\
-[./AdventOfCode/2022/Day1/CalorieCounting1.java](./AdventOfCode/2022/Day1/CalorieCounting1.java)\
-[./AdventOfCode/2022/Day1/CalorieCounting2.java](./AdventOfCode/2022/Day1/CalorieCounting2.java)\
-[./AdventOfCode/2022/Day10/cathode1.cpp](./AdventOfCode/2022/Day10/cathode1.cpp)\
-[./AdventOfCode/2022/Day10/cathode2.cpp](./AdventOfCode/2022/Day10/cathode2.cpp)\
-[./AdventOfCode/2022/Day11/monkey_middle1.py](./AdventOfCode/2022/Day11/monkey_middle1.py)\
-[./AdventOfCode/2022/Day11/monkey_middle2.cpp](./AdventOfCode/2022/Day11/monkey_middle2.cpp)\
-[./AdventOfCode/2022/Day2/RPS1.java](./AdventOfCode/2022/Day2/RPS1.java)\
-[./AdventOfCode/2022/Day2/RPS2.java](./AdventOfCode/2022/Day2/RPS2.java)\
-[./AdventOfCode/2022/Day3/Rucksack1.java](./AdventOfCode/2022/Day3/Rucksack1.java)\
-[./AdventOfCode/2022/Day3/Rucksack2.java](./AdventOfCode/2022/Day3/Rucksack2.java)\
-[./AdventOfCode/2022/Day4/CampCleanup1.java](./AdventOfCode/2022/Day4/CampCleanup1.java)\
-[./AdventOfCode/2022/Day4/CampCleanup2.java](./AdventOfCode/2022/Day4/CampCleanup2.java)\
-[./AdventOfCode/2022/Day5/SupplyStacks1.java](./AdventOfCode/2022/Day5/SupplyStacks1.java)\
-[./AdventOfCode/2022/Day5/SupplyStacks2.java](./AdventOfCode/2022/Day5/SupplyStacks2.java)\
-[./AdventOfCode/2022/Day6/TuningTrouble1.java](./AdventOfCode/2022/Day6/TuningTrouble1.java)\
-[./AdventOfCode/2022/Day6/TuningTrouble2.java](./AdventOfCode/2022/Day6/TuningTrouble2.java)\
-[./AdventOfCode/2022/Day7/nospace1.cpp](./AdventOfCode/2022/Day7/nospace1.cpp)\
-[./AdventOfCode/2022/Day7/nospace2.cpp](./AdventOfCode/2022/Day7/nospace2.cpp)\
-[./AdventOfCode/2022/Day8/Treetop1.java](./AdventOfCode/2022/Day8/Treetop1.java)\
-[./AdventOfCode/2022/Day8/Treetop2.java](./AdventOfCode/2022/Day8/Treetop2.java)\
-[./AdventOfCode/2022/Day9/rope_bridge1.cpp](./AdventOfCode/2022/Day9/rope_bridge1.cpp)\
-[./AdventOfCode/2022/Day9/rope_bridge2.cpp](./AdventOfCode/2022/Day9/rope_bridge2.cpp)\
-[./COCI/2021-2022/Round-1/ljeto.cpp](./COCI/2021-2022/Round-1/ljeto.cpp)\
-[./COCI/2021-2022/Round-2/kaucuk.cpp](./COCI/2021-2022/Round-2/kaucuk.cpp)\
-[./COCI/2022-2023/Round-1/desniklik.cpp](./COCI/2022-2023/Round-1/desniklik.cpp)\
+### Total Files: 776
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -398,6 +362,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1992/only_pluses.py](./Codeforces/1992/only_pluses.py)\
 [./Codeforces/1992/test_love.cpp](./Codeforces/1992/test_love.cpp)\
 [./Codeforces/1994/diverse_game.cpp](./Codeforces/1994/diverse_game.cpp)\
+[./Codeforces/1995/diagonals.py](./Codeforces/1995/diagonals.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -510,8 +475,10 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/191.py](./Leetcode/Easy/191.py)\
 [./Leetcode/Easy/1952.py](./Leetcode/Easy/1952.py)\
 [./Leetcode/Easy/20.java](./Leetcode/Easy/20.java)\
+[./Leetcode/Easy/202.java](./Leetcode/Easy/202.java)\
 [./Leetcode/Easy/2027.java](./Leetcode/Easy/2027.java)\
 [./Leetcode/Easy/2037.cpp](./Leetcode/Easy/2037.cpp)\
+[./Leetcode/Easy/205.java](./Leetcode/Easy/205.java)\
 [./Leetcode/Easy/206.java](./Leetcode/Easy/206.java)\
 [./Leetcode/Easy/2089.java](./Leetcode/Easy/2089.java)\
 [./Leetcode/Easy/2124.java](./Leetcode/Easy/2124.java)\
@@ -525,13 +492,16 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/268.cpp](./Leetcode/Easy/268.cpp)\
 [./Leetcode/Easy/27.cpp](./Leetcode/Easy/27.cpp)\
 [./Leetcode/Easy/28.java](./Leetcode/Easy/28.java)\
+[./Leetcode/Easy/290.java](./Leetcode/Easy/290.java)\
 [./Leetcode/Easy/303.cpp](./Leetcode/Easy/303.cpp)\
 [./Leetcode/Easy/3046.java](./Leetcode/Easy/3046.java)\
 [./Leetcode/Easy/3069.cpp](./Leetcode/Easy/3069.cpp)\
+[./Leetcode/Easy/3210.java](./Leetcode/Easy/3210.java)\
 [./Leetcode/Easy/3226.py](./Leetcode/Easy/3226.py)\
 [./Leetcode/Easy/344.java](./Leetcode/Easy/344.java)\
 [./Leetcode/Easy/350.cpp](./Leetcode/Easy/350.cpp)\
 [./Leetcode/Easy/383.java](./Leetcode/Easy/383.java)\
+[./Leetcode/Easy/392.java](./Leetcode/Easy/392.java)\
 [./Leetcode/Easy/58.java](./Leetcode/Easy/58.java)\
 [./Leetcode/Easy/66.java](./Leetcode/Easy/66.java)\
 [./Leetcode/Easy/67.cpp](./Leetcode/Easy/67.cpp)\
@@ -542,12 +512,16 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/844.cpp](./Leetcode/Easy/844.cpp)\
 [./Leetcode/Easy/977.java](./Leetcode/Easy/977.java)\
 [./Leetcode/Hard/1255.cpp](./Leetcode/Hard/1255.cpp)\
+[./Leetcode/Hard/1284.java](./Leetcode/Hard/1284.java)\
 [./Leetcode/Hard/1402.cpp](./Leetcode/Hard/1402.cpp)\
+[./Leetcode/Hard/1526.java](./Leetcode/Hard/1526.java)\
 [./Leetcode/Hard/2392.java](./Leetcode/Hard/2392.java)\
+[./Leetcode/Hard/2642.java](./Leetcode/Hard/2642.java)\
 [./Leetcode/Hard/2751.java](./Leetcode/Hard/2751.java)\
 [./Leetcode/Hard/32.java](./Leetcode/Hard/32.java)\
 [./Leetcode/Hard/3229.py](./Leetcode/Hard/3229.py)\
 [./Leetcode/Hard/354.java](./Leetcode/Hard/354.java)\
+[./Leetcode/Hard/420.java](./Leetcode/Hard/420.java)\
 [./Leetcode/Hard/60.cpp](./Leetcode/Hard/60.cpp)\
 [./Leetcode/Hard/726.py](./Leetcode/Hard/726.py)\
 [./Leetcode/Medium/1052.java](./Leetcode/Medium/1052.java)\
@@ -560,6 +534,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1248.java](./Leetcode/Medium/1248.java)\
 [./Leetcode/Medium/128.java](./Leetcode/Medium/128.java)\
 [./Leetcode/Medium/1291.java](./Leetcode/Medium/1291.java)\
+[./Leetcode/Medium/1334.java](./Leetcode/Medium/1334.java)\
 [./Leetcode/Medium/137.java](./Leetcode/Medium/137.java)\
 [./Leetcode/Medium/139.cpp](./Leetcode/Medium/139.cpp)\
 [./Leetcode/Medium/15.cpp](./Leetcode/Medium/15.cpp)\
@@ -572,6 +547,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1605.java](./Leetcode/Medium/1605.java)\
 [./Leetcode/Medium/162.cpp](./Leetcode/Medium/162.cpp)\
 [./Leetcode/Medium/167.java](./Leetcode/Medium/167.java)\
+[./Leetcode/Medium/1689.py](./Leetcode/Medium/1689.py)\
 [./Leetcode/Medium/17.cpp](./Leetcode/Medium/17.cpp)\
 [./Leetcode/Medium/1701.cpp](./Leetcode/Medium/1701.cpp)\
 [./Leetcode/Medium/1717.cpp](./Leetcode/Medium/1717.cpp)\
@@ -579,6 +555,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1823.java](./Leetcode/Medium/1823.java)\
 [./Leetcode/Medium/198.cpp](./Leetcode/Medium/198.cpp)\
 [./Leetcode/Medium/2.java](./Leetcode/Medium/2.java)\
+[./Leetcode/Medium/200.java](./Leetcode/Medium/200.java)\
 [./Leetcode/Medium/2001.java](./Leetcode/Medium/2001.java)\
 [./Leetcode/Medium/201.java](./Leetcode/Medium/201.java)\
 [./Leetcode/Medium/2058.java](./Leetcode/Medium/2058.java)\
@@ -586,6 +563,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/2096.java](./Leetcode/Medium/2096.java)\
 [./Leetcode/Medium/2109.java](./Leetcode/Medium/2109.java)\
 [./Leetcode/Medium/2181.java](./Leetcode/Medium/2181.java)\
+[./Leetcode/Medium/2191.java](./Leetcode/Medium/2191.java)\
 [./Leetcode/Medium/2196.java](./Leetcode/Medium/2196.java)\
 [./Leetcode/Medium/22.java](./Leetcode/Medium/22.java)\
 [./Leetcode/Medium/2285.java](./Leetcode/Medium/2285.java)\
@@ -606,6 +584,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/43.java](./Leetcode/Medium/43.java)\
 [./Leetcode/Medium/45.cpp](./Leetcode/Medium/45.cpp)\
 [./Leetcode/Medium/451.java](./Leetcode/Medium/451.java)\
+[./Leetcode/Medium/48.java](./Leetcode/Medium/48.java)\
 [./Leetcode/Medium/49.cpp](./Leetcode/Medium/49.cpp)\
 [./Leetcode/Medium/498.java](./Leetcode/Medium/498.java)\
 [./Leetcode/Medium/50.java](./Leetcode/Medium/50.java)\
@@ -616,13 +595,17 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/56.java](./Leetcode/Medium/56.java)\
 [./Leetcode/Medium/63.java](./Leetcode/Medium/63.java)\
 [./Leetcode/Medium/64.java](./Leetcode/Medium/64.java)\
+[./Leetcode/Medium/695.java](./Leetcode/Medium/695.java)\
 [./Leetcode/Medium/72.java](./Leetcode/Medium/72.java)\
 [./Leetcode/Medium/73.cpp](./Leetcode/Medium/73.cpp)\
 [./Leetcode/Medium/74.cpp](./Leetcode/Medium/74.cpp)\
 [./Leetcode/Medium/75.java](./Leetcode/Medium/75.java)\
+[./Leetcode/Medium/78.java](./Leetcode/Medium/78.java)\
 [./Leetcode/Medium/80.cpp](./Leetcode/Medium/80.cpp)\
 [./Leetcode/Medium/846.java](./Leetcode/Medium/846.java)\
 [./Leetcode/Medium/875.cpp](./Leetcode/Medium/875.cpp)\
+[./Leetcode/Medium/909.java](./Leetcode/Medium/909.java)\
+[./Leetcode/Medium/912.java](./Leetcode/Medium/912.java)\
 [./Leetcode/Medium/945.cpp](./Leetcode/Medium/945.cpp)\
 [./Leetcode/Medium/957.cpp](./Leetcode/Medium/957.cpp)\
 [./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py](./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py)\
