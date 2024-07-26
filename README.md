@@ -1,5 +1,5 @@
 # Warith's Competitive Programming Repo
-## Credit to [eyangch](https://github.com/eyangch/competitive-programming)
+## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
 Note that the "Total Files" count below only includes programming files, i.e. those with the following extensions:
 - `.java`
