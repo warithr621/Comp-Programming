@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 853
+### Total Files: 867
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -380,6 +380,15 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1999/card_game.py](./Codeforces/1999/card_game.py)\
 [./Codeforces/1999/showering.py](./Codeforces/1999/showering.py)\
 [./Codeforces/1999/slavic_exam.py](./Codeforces/1999/slavic_exam.py)\
+[./Codeforces/2000/NumericStrTempl.java](./Codeforces/2000/NumericStrTempl.java)\
+[./Codeforces/2000/RightLeftWrong.java](./Codeforces/2000/RightLeftWrong.java)\
+[./Codeforces/2000/primarytask.py](./Codeforces/2000/primarytask.py)\
+[./Codeforces/2000/seatingbus.py](./Codeforces/2000/seatingbus.py)\
+[./Codeforces/2001/makeallequal.py](./Codeforces/2001/makeallequal.py)\
+[./Codeforces/2002/distanced_coloring.py](./Codeforces/2002/distanced_coloring.py)\
+[./Codeforces/2002/removals_game.py](./Codeforces/2002/removals_game.py)\
+[./Codeforces/2004/closest_pt.py](./Codeforces/2004/closest_pt.py)\
+[./Codeforces/2004/game_w_doors.py](./Codeforces/2004/game_w_doors.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -488,6 +497,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/1380.java](./Leetcode/Easy/1380.java)\
 [./Leetcode/Easy/14.java](./Leetcode/Easy/14.java)\
 [./Leetcode/Easy/141.java](./Leetcode/Easy/141.java)\
+[./Leetcode/Easy/145.java](./Leetcode/Easy/145.java)\
 [./Leetcode/Easy/1460.cpp](./Leetcode/Easy/1460.cpp)\
 [./Leetcode/Easy/1518.java](./Leetcode/Easy/1518.java)\
 [./Leetcode/Easy/1550.java](./Leetcode/Easy/1550.java)\
@@ -539,6 +549,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/530.java](./Leetcode/Easy/530.java)\
 [./Leetcode/Easy/572.java](./Leetcode/Easy/572.java)\
 [./Leetcode/Easy/58.java](./Leetcode/Easy/58.java)\
+[./Leetcode/Easy/590.java](./Leetcode/Easy/590.java)\
 [./Leetcode/Easy/643.java](./Leetcode/Easy/643.java)\
 [./Leetcode/Easy/66.java](./Leetcode/Easy/66.java)\
 [./Leetcode/Easy/67.cpp](./Leetcode/Easy/67.cpp)\
@@ -550,6 +561,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/771.java](./Leetcode/Easy/771.java)\
 [./Leetcode/Easy/83.java](./Leetcode/Easy/83.java)\
 [./Leetcode/Easy/844.cpp](./Leetcode/Easy/844.cpp)\
+[./Leetcode/Easy/860.java](./Leetcode/Easy/860.java)\
 [./Leetcode/Easy/876.java](./Leetcode/Easy/876.java)\
 [./Leetcode/Easy/977.java](./Leetcode/Easy/977.java)\
 [./Leetcode/Hard/1255.cpp](./Leetcode/Hard/1255.cpp)\
@@ -594,6 +606,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1508.java](./Leetcode/Medium/1508.java)\
 [./Leetcode/Medium/1509.java](./Leetcode/Medium/1509.java)\
 [./Leetcode/Medium/151.java](./Leetcode/Medium/151.java)\
+[./Leetcode/Medium/1514.java](./Leetcode/Medium/1514.java)\
 [./Leetcode/Medium/1530.java](./Leetcode/Medium/1530.java)\
 [./Leetcode/Medium/155.cpp](./Leetcode/Medium/155.cpp)\
 [./Leetcode/Medium/1552.cpp](./Leetcode/Medium/1552.cpp)\
@@ -663,6 +676,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/56.java](./Leetcode/Medium/56.java)\
 [./Leetcode/Medium/567.java](./Leetcode/Medium/567.java)\
 [./Leetcode/Medium/62.java](./Leetcode/Medium/62.java)\
+[./Leetcode/Medium/624.java](./Leetcode/Medium/624.java)\
 [./Leetcode/Medium/63.java](./Leetcode/Medium/63.java)\
 [./Leetcode/Medium/64.java](./Leetcode/Medium/64.java)\
 [./Leetcode/Medium/695.java](./Leetcode/Medium/695.java)\
