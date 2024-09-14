@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 881
+### Total Files: 887
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -506,6 +506,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/1550.java](./Leetcode/Easy/1550.java)\
 [./Leetcode/Easy/1598.cpp](./Leetcode/Easy/1598.cpp)\
 [./Leetcode/Easy/1636.java](./Leetcode/Easy/1636.java)\
+[./Leetcode/Easy/1684.java](./Leetcode/Easy/1684.java)\
 [./Leetcode/Easy/169.cpp](./Leetcode/Easy/169.cpp)\
 [./Leetcode/Easy/1768.java](./Leetcode/Easy/1768.java)\
 [./Leetcode/Easy/191.py](./Leetcode/Easy/191.py)\
@@ -525,6 +526,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/2124.java](./Leetcode/Easy/2124.java)\
 [./Leetcode/Easy/219.java](./Leetcode/Easy/219.java)\
 [./Leetcode/Easy/2206.java](./Leetcode/Easy/2206.java)\
+[./Leetcode/Easy/2220.java](./Leetcode/Easy/2220.java)\
 [./Leetcode/Easy/2236.java](./Leetcode/Easy/2236.java)\
 [./Leetcode/Easy/2239.java](./Leetcode/Easy/2239.java)\
 [./Leetcode/Easy/226.py](./Leetcode/Easy/226.py)\
@@ -603,6 +605,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/128.java](./Leetcode/Medium/128.java)\
 [./Leetcode/Medium/129.java](./Leetcode/Medium/129.java)\
 [./Leetcode/Medium/1291.java](./Leetcode/Medium/1291.java)\
+[./Leetcode/Medium/1310.java](./Leetcode/Medium/1310.java)\
 [./Leetcode/Medium/1334.java](./Leetcode/Medium/1334.java)\
 [./Leetcode/Medium/1367.java](./Leetcode/Medium/1367.java)\
 [./Leetcode/Medium/137.java](./Leetcode/Medium/137.java)\
@@ -735,6 +738,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp)\
 [./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp)\
 [./Other_Contests/PicoCTF/2023/power_analysis_warmup.py](./Other_Contests/PicoCTF/2023/power_analysis_warmup.py)\
+[./Other_Contests/UTPC/2425/0913/C.cpp](./Other_Contests/UTPC/2425/0913/C.cpp)\
+[./Other_Contests/UTPC/2425/0913/D.cpp](./Other_Contests/UTPC/2425/0913/D.cpp)\
+[./Other_Contests/UTPC/2425/0913/G.java](./Other_Contests/UTPC/2425/0913/G.java)\
 [./UIL-CS/2018/Districts/Alice.java](./UIL-CS/2018/Districts/Alice.java)\
 [./UIL-CS/2018/Districts/Bayani.java](./UIL-CS/2018/Districts/Bayani.java)\
 [./UIL-CS/2018/Districts/Carla.java](./UIL-CS/2018/Districts/Carla.java)\

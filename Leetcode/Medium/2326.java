@@ -35,4 +35,36 @@ class Solution {
         }
         return ans;
     }
+
+    public int[][] optimized(int m, int n, ListNode head) {
+        // this runs faster, yay! I swear both of these are O(head.length()) but it's ok
+        int[][] ans = new int[m][n];
+        for (int i = 0; i < m; i++) {
+            Arrays.fill(ans[i], -1);
+        }
+
+        int L = 0, R = n-1, U = 0, D = m-1;
+        while (head != null) {
+            for (int j = L; j <= R && head != null; j++) {
+                ans[U][j] = head.val;
+                head = head.next;
+            }
+            for (int i = U+1; i <= D && head != null; i++) {
+                ans[i][R] = head.val;
+                head = head.next;
+            }
+            for (int j = R - 1; j >= L && head != null; j--) {
+                ans[D][j] = head.val;
+                head = head.next;
+            }
+            for (int i = D-1; i > U && head != null; i--) {
+                ans[i][L] = head.val;
+                head = head.next;
+            }
+            L++; U++;
+            R--; D--;
+        }
+
+        return ans;
+    }
 }
