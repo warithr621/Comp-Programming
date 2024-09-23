@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 887
+### Total Files: 906
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -180,6 +180,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1333/kind_anton.cpp](./Codeforces/1333/kind_anton.cpp)\
 [./Codeforces/1335/two_team_compose.java](./Codeforces/1335/two_team_compose.java)\
 [./Codeforces/1339/powered_addition.cpp](./Codeforces/1339/powered_addition.cpp)\
+[./Codeforces/1340/nastya_strange_gen.py](./Codeforces/1340/nastya_strange_gen.py)\
 [./Codeforces/1359/mixing_water.py](./Codeforces/1359/mixing_water.py)\
 [./Codeforces/1360/shovel.cpp](./Codeforces/1360/shovel.cpp)\
 [./Codeforces/1363/odd_selec.cpp](./Codeforces/1363/odd_selec.cpp)\
@@ -344,6 +345,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1846/rudolph_mimic.cpp](./Codeforces/1846/rudolph_mimic.cpp)\
 [./Codeforces/1846/rudolph_tic_tac_toe.cpp](./Codeforces/1846/rudolph_tic_tac_toe.cpp)\
 [./Codeforces/1846/rudolph_xmas_tree.cpp](./Codeforces/1846/rudolph_xmas_tree.cpp)\
+[./Codeforces/1854/dualeasy.cpp](./Codeforces/1854/dualeasy.cpp)\
+[./Codeforces/1881/blockseq.py](./Codeforces/1881/blockseq.py)\
 [./Codeforces/1974/BeautifulTriple.java](./Codeforces/1974/BeautifulTriple.java)\
 [./Codeforces/1974/SymmEncode.java](./Codeforces/1974/SymmEncode.java)\
 [./Codeforces/1974/phone_desktop.cpp](./Codeforces/1974/phone_desktop.cpp)\
@@ -392,6 +395,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2009/freyafrog.py](./Codeforces/2009/freyafrog.py)\
 [./Codeforces/2009/minimize.py](./Codeforces/2009/minimize.py)\
 [./Codeforces/2009/osumania.py](./Codeforces/2009/osumania.py)\
+[./Codeforces/2014/robinhelps.py](./Codeforces/2014/robinhelps.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -417,6 +421,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/548/mike_and_fax.java](./Codeforces/548/mike_and_fax.java)\
 [./Codeforces/556/fake_num.cpp](./Codeforces/556/fake_num.cpp)\
 [./Codeforces/557/ilya_diploma.py](./Codeforces/557/ilya_diploma.py)\
+[./Codeforces/572/orderbook.cpp](./Codeforces/572/orderbook.cpp)\
 [./Codeforces/583/asphalt.java](./Codeforces/583/asphalt.java)\
 [./Codeforces/593/2char.cpp](./Codeforces/593/2char.cpp)\
 [./Codeforces/608/hamming_sum.cpp](./Codeforces/608/hamming_sum.cpp)\
@@ -425,6 +430,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/682/alyona_num.java](./Codeforces/682/alyona_num.java)\
 [./Codeforces/686/ice_cream.java](./Codeforces/686/ice_cream.java)\
 [./Codeforces/686/rob_zoo.java](./Codeforces/686/rob_zoo.java)\
+[./Codeforces/689/mikephone.py](./Codeforces/689/mikephone.py)\
 [./Codeforces/701/they_are_everywhere.cpp](./Codeforces/701/they_are_everywhere.cpp)\
 [./Codeforces/702/cellular_network.cpp](./Codeforces/702/cellular_network.cpp)\
 [./Codeforces/705/spiderman.cpp](./Codeforces/705/spiderman.cpp)\
@@ -468,6 +474,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/90/african_crossword.cpp](./Codeforces/90/african_crossword.cpp)\
 [./Codeforces/90/cableway.java](./Codeforces/90/cableway.java)\
 [./Codeforces/900/extra.java](./Codeforces/900/extra.java)\
+[./Codeforces/908/NewYearCurl.java](./Codeforces/908/NewYearCurl.java)\
 [./Codeforces/909/login.java](./Codeforces/909/login.java)\
 [./Codeforces/911/three_garlands.py](./Codeforces/911/three_garlands.py)\
 [./Codeforces/946/weird_sub_process.cpp](./Codeforces/946/weird_sub_process.cpp)\
@@ -571,6 +578,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/844.cpp](./Leetcode/Easy/844.cpp)\
 [./Leetcode/Easy/860.java](./Leetcode/Easy/860.java)\
 [./Leetcode/Easy/876.java](./Leetcode/Easy/876.java)\
+[./Leetcode/Easy/884.java](./Leetcode/Easy/884.java)\
 [./Leetcode/Easy/977.java](./Leetcode/Easy/977.java)\
 [./Leetcode/Hard/1255.cpp](./Leetcode/Hard/1255.cpp)\
 [./Leetcode/Hard/1284.java](./Leetcode/Hard/1284.java)\
@@ -578,6 +586,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Hard/1402.cpp](./Leetcode/Hard/1402.cpp)\
 [./Leetcode/Hard/1526.java](./Leetcode/Hard/1526.java)\
 [./Leetcode/Hard/2045.java](./Leetcode/Hard/2045.java)\
+[./Leetcode/Hard/214.java](./Leetcode/Hard/214.java)\
 [./Leetcode/Hard/23.java](./Leetcode/Hard/23.java)\
 [./Leetcode/Hard/2392.java](./Leetcode/Hard/2392.java)\
 [./Leetcode/Hard/2642.java](./Leetcode/Hard/2642.java)\
@@ -587,6 +596,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Hard/3229.py](./Leetcode/Hard/3229.py)\
 [./Leetcode/Hard/354.java](./Leetcode/Hard/354.java)\
 [./Leetcode/Hard/420.java](./Leetcode/Hard/420.java)\
+[./Leetcode/Hard/440.java](./Leetcode/Hard/440.java)\
 [./Leetcode/Hard/60.cpp](./Leetcode/Hard/60.cpp)\
 [./Leetcode/Hard/726.py](./Leetcode/Hard/726.py)\
 [./Leetcode/Hard/76.java](./Leetcode/Hard/76.java)\
@@ -609,6 +619,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1334.java](./Leetcode/Medium/1334.java)\
 [./Leetcode/Medium/1367.java](./Leetcode/Medium/1367.java)\
 [./Leetcode/Medium/137.java](./Leetcode/Medium/137.java)\
+[./Leetcode/Medium/1371.java](./Leetcode/Medium/1371.java)\
 [./Leetcode/Medium/139.cpp](./Leetcode/Medium/139.cpp)\
 [./Leetcode/Medium/1395.java](./Leetcode/Medium/1395.java)\
 [./Leetcode/Medium/15.cpp](./Leetcode/Medium/15.cpp)\
@@ -630,6 +641,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1701.cpp](./Leetcode/Medium/1701.cpp)\
 [./Leetcode/Medium/1717.cpp](./Leetcode/Medium/1717.cpp)\
 [./Leetcode/Medium/172.java](./Leetcode/Medium/172.java)\
+[./Leetcode/Medium/179.java](./Leetcode/Medium/179.java)\
 [./Leetcode/Medium/1823.java](./Leetcode/Medium/1823.java)\
 [./Leetcode/Medium/189.cpp](./Leetcode/Medium/189.cpp)\
 [./Leetcode/Medium/1894.java](./Leetcode/Medium/1894.java)\
@@ -655,7 +667,10 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/2326.java](./Leetcode/Medium/2326.java)\
 [./Leetcode/Medium/238.java](./Leetcode/Medium/238.java)\
 [./Leetcode/Medium/2390.java](./Leetcode/Medium/2390.java)\
+[./Leetcode/Medium/241.java](./Leetcode/Medium/241.java)\
+[./Leetcode/Medium/2419.java](./Leetcode/Medium/2419.java)\
 [./Leetcode/Medium/261.java](./Leetcode/Medium/261.java)\
+[./Leetcode/Medium/2707.java](./Leetcode/Medium/2707.java)\
 [./Leetcode/Medium/271.py](./Leetcode/Medium/271.py)\
 [./Leetcode/Medium/274.java](./Leetcode/Medium/274.java)\
 [./Leetcode/Medium/2976.java](./Leetcode/Medium/2976.java)\
@@ -674,6 +689,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/347.java](./Leetcode/Medium/347.java)\
 [./Leetcode/Medium/36.cpp](./Leetcode/Medium/36.cpp)\
 [./Leetcode/Medium/38.java](./Leetcode/Medium/38.java)\
+[./Leetcode/Medium/386.java](./Leetcode/Medium/386.java)\
 [./Leetcode/Medium/417.java](./Leetcode/Medium/417.java)\
 [./Leetcode/Medium/424.java](./Leetcode/Medium/424.java)\
 [./Leetcode/Medium/43.java](./Leetcode/Medium/43.java)\
@@ -685,6 +701,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/50.java](./Leetcode/Medium/50.java)\
 [./Leetcode/Medium/525.java](./Leetcode/Medium/525.java)\
 [./Leetcode/Medium/53.go](./Leetcode/Medium/53.go)\
+[./Leetcode/Medium/539.java](./Leetcode/Medium/539.java)\
 [./Leetcode/Medium/54.java](./Leetcode/Medium/54.java)\
 [./Leetcode/Medium/55.cpp](./Leetcode/Medium/55.cpp)\
 [./Leetcode/Medium/56.java](./Leetcode/Medium/56.java)\
@@ -738,6 +755,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp)\
 [./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp)\
 [./Other_Contests/PicoCTF/2023/power_analysis_warmup.py](./Other_Contests/PicoCTF/2023/power_analysis_warmup.py)\
+[./Other_Contests/UTPC/2425/0913/A.py](./Other_Contests/UTPC/2425/0913/A.py)\
+[./Other_Contests/UTPC/2425/0913/B.py](./Other_Contests/UTPC/2425/0913/B.py)\
 [./Other_Contests/UTPC/2425/0913/C.cpp](./Other_Contests/UTPC/2425/0913/C.cpp)\
 [./Other_Contests/UTPC/2425/0913/D.cpp](./Other_Contests/UTPC/2425/0913/D.cpp)\
 [./Other_Contests/UTPC/2425/0913/G.java](./Other_Contests/UTPC/2425/0913/G.java)\
