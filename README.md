@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 906
+### Total Files: 911
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -257,6 +257,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1638/OddSwapSort.java](./Codeforces/1638/OddSwapSort.java)\
 [./Codeforces/1638/Reverse.java](./Codeforces/1638/Reverse.java)\
 [./Codeforces/1654/AliceAndCake.java](./Codeforces/1654/AliceAndCake.java)\
+[./Codeforces/166/median.py](./Codeforces/166/median.py)\
 [./Codeforces/166/rank_list.java](./Codeforces/166/rank_list.java)\
 [./Codeforces/1660/matrix_shift.py](./Codeforces/1660/matrix_shift.py)\
 [./Codeforces/1676/MaxCrossEasy.java](./Codeforces/1676/MaxCrossEasy.java)\
@@ -677,6 +678,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/3.java](./Leetcode/Medium/3.java)\
 [./Leetcode/Medium/300.java](./Leetcode/Medium/300.java)\
 [./Leetcode/Medium/3016.cpp](./Leetcode/Medium/3016.cpp)\
+[./Leetcode/Medium/3043.java](./Leetcode/Medium/3043.java)\
 [./Leetcode/Medium/307.cpp](./Leetcode/Medium/307.cpp)\
 [./Leetcode/Medium/3100.java](./Leetcode/Medium/3100.java)\
 [./Leetcode/Medium/319.java](./Leetcode/Medium/319.java)\
@@ -743,6 +745,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Other_Contests/HSCTF/HSCTF9/Floyd.java](./Other_Contests/HSCTF/HSCTF9/Floyd.java)\
 [./Other_Contests/HSCTF/HSCTF9/hacking_pwntools.py](./Other_Contests/HSCTF/HSCTF9/hacking_pwntools.py)\
 [./Other_Contests/HSCTF/HSCTF9/tunnels_pwntools.py](./Other_Contests/HSCTF/HSCTF9/tunnels_pwntools.py)\
+[./Other_Contests/ICPC/NAQ21/E.java](./Other_Contests/ICPC/NAQ21/E.java)\
+[./Other_Contests/ICPC/NAQ21/G.java](./Other_Contests/ICPC/NAQ21/G.java)\
+[./Other_Contests/ICPC/NAQ21/M.java](./Other_Contests/ICPC/NAQ21/M.java)\
 [./Other_Contests/Lexington_Informatics_Tournament/2020/waiting.cpp](./Other_Contests/Lexington_Informatics_Tournament/2020/waiting.cpp)\
 [./Other_Contests/Lexington_Informatics_Tournament/2021/Dominos.java](./Other_Contests/Lexington_Informatics_Tournament/2021/Dominos.java)\
 [./Other_Contests/Lexington_Informatics_Tournament/2021/forest.cpp](./Other_Contests/Lexington_Informatics_Tournament/2021/forest.cpp)\
