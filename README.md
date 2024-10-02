@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 911
+### Total Files: 932
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -397,6 +397,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2009/minimize.py](./Codeforces/2009/minimize.py)\
 [./Codeforces/2009/osumania.py](./Codeforces/2009/osumania.py)\
 [./Codeforces/2014/robinhelps.py](./Codeforces/2014/robinhelps.py)\
+[./Codeforces/2019/maxplussize.py](./Codeforces/2019/maxplussize.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -505,6 +506,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/121.cpp](./Leetcode/Easy/121.cpp)\
 [./Leetcode/Easy/125.java](./Leetcode/Easy/125.java)\
 [./Leetcode/Easy/13.py](./Leetcode/Easy/13.py)\
+[./Leetcode/Easy/1331.java](./Leetcode/Easy/1331.java)\
 [./Leetcode/Easy/1380.java](./Leetcode/Easy/1380.java)\
 [./Leetcode/Easy/14.java](./Leetcode/Easy/14.java)\
 [./Leetcode/Easy/141.java](./Leetcode/Easy/141.java)\
@@ -590,6 +592,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Hard/214.java](./Leetcode/Hard/214.java)\
 [./Leetcode/Hard/23.java](./Leetcode/Hard/23.java)\
 [./Leetcode/Hard/2392.java](./Leetcode/Hard/2392.java)\
+[./Leetcode/Hard/2416.java](./Leetcode/Hard/2416.java)\
 [./Leetcode/Hard/2642.java](./Leetcode/Hard/2642.java)\
 [./Leetcode/Hard/273.java](./Leetcode/Hard/273.java)\
 [./Leetcode/Hard/2751.java](./Leetcode/Hard/2751.java)\
@@ -623,6 +626,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1371.java](./Leetcode/Medium/1371.java)\
 [./Leetcode/Medium/139.cpp](./Leetcode/Medium/139.cpp)\
 [./Leetcode/Medium/1395.java](./Leetcode/Medium/1395.java)\
+[./Leetcode/Medium/1497.java](./Leetcode/Medium/1497.java)\
 [./Leetcode/Medium/15.cpp](./Leetcode/Medium/15.cpp)\
 [./Leetcode/Medium/150.java](./Leetcode/Medium/150.java)\
 [./Leetcode/Medium/1508.java](./Leetcode/Medium/1508.java)\
@@ -712,10 +716,13 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/624.java](./Leetcode/Medium/624.java)\
 [./Leetcode/Medium/63.java](./Leetcode/Medium/63.java)\
 [./Leetcode/Medium/64.java](./Leetcode/Medium/64.java)\
+[./Leetcode/Medium/641.java](./Leetcode/Medium/641.java)\
 [./Leetcode/Medium/695.java](./Leetcode/Medium/695.java)\
 [./Leetcode/Medium/72.java](./Leetcode/Medium/72.java)\
 [./Leetcode/Medium/725.java](./Leetcode/Medium/725.java)\
+[./Leetcode/Medium/729.cpp](./Leetcode/Medium/729.cpp)\
 [./Leetcode/Medium/73.cpp](./Leetcode/Medium/73.cpp)\
+[./Leetcode/Medium/731.cpp](./Leetcode/Medium/731.cpp)\
 [./Leetcode/Medium/739.java](./Leetcode/Medium/739.java)\
 [./Leetcode/Medium/74.cpp](./Leetcode/Medium/74.cpp)\
 [./Leetcode/Medium/743.java](./Leetcode/Medium/743.java)\
@@ -745,9 +752,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Other_Contests/HSCTF/HSCTF9/Floyd.java](./Other_Contests/HSCTF/HSCTF9/Floyd.java)\
 [./Other_Contests/HSCTF/HSCTF9/hacking_pwntools.py](./Other_Contests/HSCTF/HSCTF9/hacking_pwntools.py)\
 [./Other_Contests/HSCTF/HSCTF9/tunnels_pwntools.py](./Other_Contests/HSCTF/HSCTF9/tunnels_pwntools.py)\
-[./Other_Contests/ICPC/NAQ21/E.java](./Other_Contests/ICPC/NAQ21/E.java)\
-[./Other_Contests/ICPC/NAQ21/G.java](./Other_Contests/ICPC/NAQ21/G.java)\
-[./Other_Contests/ICPC/NAQ21/M.java](./Other_Contests/ICPC/NAQ21/M.java)\
 [./Other_Contests/Lexington_Informatics_Tournament/2020/waiting.cpp](./Other_Contests/Lexington_Informatics_Tournament/2020/waiting.cpp)\
 [./Other_Contests/Lexington_Informatics_Tournament/2021/Dominos.java](./Other_Contests/Lexington_Informatics_Tournament/2021/Dominos.java)\
 [./Other_Contests/Lexington_Informatics_Tournament/2021/forest.cpp](./Other_Contests/Lexington_Informatics_Tournament/2021/forest.cpp)\
@@ -760,11 +764,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp)\
 [./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp)\
 [./Other_Contests/PicoCTF/2023/power_analysis_warmup.py](./Other_Contests/PicoCTF/2023/power_analysis_warmup.py)\
-[./Other_Contests/UTPC/2425/0913/A.py](./Other_Contests/UTPC/2425/0913/A.py)\
-[./Other_Contests/UTPC/2425/0913/B.py](./Other_Contests/UTPC/2425/0913/B.py)\
-[./Other_Contests/UTPC/2425/0913/C.cpp](./Other_Contests/UTPC/2425/0913/C.cpp)\
-[./Other_Contests/UTPC/2425/0913/D.cpp](./Other_Contests/UTPC/2425/0913/D.cpp)\
-[./Other_Contests/UTPC/2425/0913/G.java](./Other_Contests/UTPC/2425/0913/G.java)\
 [./UIL-CS/2018/Districts/Alice.java](./UIL-CS/2018/Districts/Alice.java)\
 [./UIL-CS/2018/Districts/Bayani.java](./UIL-CS/2018/Districts/Bayani.java)\
 [./UIL-CS/2018/Districts/Carla.java](./UIL-CS/2018/Districts/Carla.java)\
@@ -923,4 +922,26 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/TrainUSACO/1-5-more-searching/mothers_milk.cpp](./USACO_and_Guide/TrainUSACO/1-5-more-searching/mothers_milk.cpp)\
 [./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/number_triangle.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/number_triangle.cpp)\
 [./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/palindromic_primes.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/palindromic_primes.cpp)\
-[./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/superprime.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/superprime.cpp)
+[./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/superprime.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/superprime.cpp)\
+[./UniComps/ICPC/NAQ19/A.py](./UniComps/ICPC/NAQ19/A.py)\
+[./UniComps/ICPC/NAQ19/C.cpp](./UniComps/ICPC/NAQ19/C.cpp)\
+[./UniComps/ICPC/NAQ19/D.py](./UniComps/ICPC/NAQ19/D.py)\
+[./UniComps/ICPC/NAQ21/C.java](./UniComps/ICPC/NAQ21/C.java)\
+[./UniComps/ICPC/NAQ21/E.java](./UniComps/ICPC/NAQ21/E.java)\
+[./UniComps/ICPC/NAQ21/G.java](./UniComps/ICPC/NAQ21/G.java)\
+[./UniComps/ICPC/NAQ21/H.java](./UniComps/ICPC/NAQ21/H.java)\
+[./UniComps/ICPC/NAQ21/K.java](./UniComps/ICPC/NAQ21/K.java)\
+[./UniComps/ICPC/NAQ21/M.java](./UniComps/ICPC/NAQ21/M.java)\
+[./UniComps/ICPC/NAQ22/C.cpp](./UniComps/ICPC/NAQ22/C.cpp)\
+[./UniComps/ICPC/NAQ22/D.cpp](./UniComps/ICPC/NAQ22/D.cpp)\
+[./UniComps/ICPC/NAQ22/F.cpp](./UniComps/ICPC/NAQ22/F.cpp)\
+[./UniComps/ICPC/NAQ22/K.cpp](./UniComps/ICPC/NAQ22/K.cpp)\
+[./UniComps/ICPC/NAQ23/A.java](./UniComps/ICPC/NAQ23/A.java)\
+[./UniComps/ICPC/NAQ23/F.cpp](./UniComps/ICPC/NAQ23/F.cpp)\
+[./UniComps/ICPC/NAQ23/G.cpp](./UniComps/ICPC/NAQ23/G.cpp)\
+[./UniComps/ICPC/NAQ23/L.cpp](./UniComps/ICPC/NAQ23/L.cpp)\
+[./UniComps/UTPC/2425/0913/A.py](./UniComps/UTPC/2425/0913/A.py)\
+[./UniComps/UTPC/2425/0913/B.py](./UniComps/UTPC/2425/0913/B.py)\
+[./UniComps/UTPC/2425/0913/C.cpp](./UniComps/UTPC/2425/0913/C.cpp)\
+[./UniComps/UTPC/2425/0913/D.cpp](./UniComps/UTPC/2425/0913/D.cpp)\
+[./UniComps/UTPC/2425/0913/G.java](./UniComps/UTPC/2425/0913/G.java)
