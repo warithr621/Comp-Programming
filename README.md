@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 942
+### Total Files: 953
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -546,6 +546,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/26.cpp](./Leetcode/Easy/26.cpp)\
 [./Leetcode/Easy/2678.java](./Leetcode/Easy/2678.java)\
 [./Leetcode/Easy/268.cpp](./Leetcode/Easy/268.cpp)\
+[./Leetcode/Easy/2696.java](./Leetcode/Easy/2696.java)\
 [./Leetcode/Easy/27.cpp](./Leetcode/Easy/27.cpp)\
 [./Leetcode/Easy/278.java](./Leetcode/Easy/278.java)\
 [./Leetcode/Easy/28.java](./Leetcode/Easy/28.java)\
@@ -653,6 +654,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/189.cpp](./Leetcode/Medium/189.cpp)\
 [./Leetcode/Medium/1894.java](./Leetcode/Medium/1894.java)\
 [./Leetcode/Medium/19.java](./Leetcode/Medium/19.java)\
+[./Leetcode/Medium/1942.java](./Leetcode/Medium/1942.java)\
+[./Leetcode/Medium/1963.java](./Leetcode/Medium/1963.java)\
 [./Leetcode/Medium/198.cpp](./Leetcode/Medium/198.cpp)\
 [./Leetcode/Medium/2.java](./Leetcode/Medium/2.java)\
 [./Leetcode/Medium/200.java](./Leetcode/Medium/200.java)\
@@ -740,10 +743,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/875.cpp](./Leetcode/Medium/875.cpp)\
 [./Leetcode/Medium/909.java](./Leetcode/Medium/909.java)\
 [./Leetcode/Medium/912.java](./Leetcode/Medium/912.java)\
+[./Leetcode/Medium/921.java](./Leetcode/Medium/921.java)\
 [./Leetcode/Medium/945.cpp](./Leetcode/Medium/945.cpp)\
 [./Leetcode/Medium/947.java](./Leetcode/Medium/947.java)\
 [./Leetcode/Medium/957.cpp](./Leetcode/Medium/957.cpp)\
 [./Leetcode/Medium/959.java](./Leetcode/Medium/959.java)\
+[./Leetcode/Medium/962.java](./Leetcode/Medium/962.java)\
 [./Leetcode/Medium/973.java](./Leetcode/Medium/973.java)\
 [./Leetcode/Medium/994.java](./Leetcode/Medium/994.java)\
 [./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py](./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py)\
@@ -954,4 +959,10 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./UniComps/UTPC/2425/0913/B.py](./UniComps/UTPC/2425/0913/B.py)\
 [./UniComps/UTPC/2425/0913/C.cpp](./UniComps/UTPC/2425/0913/C.cpp)\
 [./UniComps/UTPC/2425/0913/D.cpp](./UniComps/UTPC/2425/0913/D.cpp)\
-[./UniComps/UTPC/2425/0913/G.java](./UniComps/UTPC/2425/0913/G.java)
+[./UniComps/UTPC/2425/0913/G.java](./UniComps/UTPC/2425/0913/G.java)\
+[./UniComps/UTPC/2425/1011/A.py](./UniComps/UTPC/2425/1011/A.py)\
+[./UniComps/UTPC/2425/1011/B.py](./UniComps/UTPC/2425/1011/B.py)\
+[./UniComps/UTPC/2425/1011/C.cpp](./UniComps/UTPC/2425/1011/C.cpp)\
+[./UniComps/UTPC/2425/1011/D.cpp](./UniComps/UTPC/2425/1011/D.cpp)\
+[./UniComps/UTPC/2425/1011/E.py](./UniComps/UTPC/2425/1011/E.py)\
+[./UniComps/UTPC/2425/1011/F.cpp](./UniComps/UTPC/2425/1011/F.cpp)
