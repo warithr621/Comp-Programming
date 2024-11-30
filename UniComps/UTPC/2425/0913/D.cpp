@@ -16,7 +16,7 @@ void solve() {
 	while (m --> 0) {
 		int look; cin >> look;
 		// find lower bound???
-		if (look == 0) cout << "0\n"; // fuck whoever made this edgecase
+		if (look == 0) cout << "0\n"; // whoever made this edgecase :((((
 		else if (look > pfx[n]) cout << "-1\n";
 		else {
 			auto argh = lower_bound(next(pfx.begin(), 1), pfx.end(), look);

@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 983
+### Total Files: 988
 [./CSES/.DS_Store](./CSES/.DS_Store)\
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
@@ -28,6 +28,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Dynamic-Programming/increasing_subsequence.cpp](./CSES/Dynamic-Programming/increasing_subsequence.cpp)\
 [./CSES/Dynamic-Programming/min_coins.cpp](./CSES/Dynamic-Programming/min_coins.cpp)\
 [./CSES/Dynamic-Programming/money_sums.cpp](./CSES/Dynamic-Programming/money_sums.cpp)\
+[./CSES/Dynamic-Programming/rect_cutting.cpp](./CSES/Dynamic-Programming/rect_cutting.cpp)\
 [./CSES/Dynamic-Programming/removing_digits.py](./CSES/Dynamic-Programming/removing_digits.py)\
 [./CSES/Dynamic-Programming/two_sets_ii.cpp](./CSES/Dynamic-Programming/two_sets_ii.cpp)\
 [./CSES/Geometry/PolygonArea.java](./CSES/Geometry/PolygonArea.java)\
@@ -63,6 +64,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Mathematics/NimGameI.java](./CSES/Mathematics/NimGameI.java)\
 [./CSES/Mathematics/NimGameII.java](./CSES/Mathematics/NimGameII.java)\
 [./CSES/Mathematics/bin_coeff.cpp](./CSES/Mathematics/bin_coeff.cpp)\
+[./CSES/Mathematics/bracket_sequence_i.cpp](./CSES/Mathematics/bracket_sequence_i.cpp)\
 [./CSES/Mathematics/candy_lottery.cpp](./CSES/Mathematics/candy_lottery.cpp)\
 [./CSES/Mathematics/christmas_party.py](./CSES/Mathematics/christmas_party.py)\
 [./CSES/Mathematics/common_divisors.cpp](./CSES/Mathematics/common_divisors.cpp)\
@@ -596,10 +598,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Hard/1402.cpp](./Leetcode/Hard/1402.cpp)\
 [./Leetcode/Hard/1526.java](./Leetcode/Hard/1526.java)\
 [./Leetcode/Hard/2045.java](./Leetcode/Hard/2045.java)\
+[./Leetcode/Hard/2097.java](./Leetcode/Hard/2097.java)\
 [./Leetcode/Hard/214.java](./Leetcode/Hard/214.java)\
 [./Leetcode/Hard/23.java](./Leetcode/Hard/23.java)\
 [./Leetcode/Hard/2392.java](./Leetcode/Hard/2392.java)\
 [./Leetcode/Hard/2416.java](./Leetcode/Hard/2416.java)\
+[./Leetcode/Hard/2577.java](./Leetcode/Hard/2577.java)\
 [./Leetcode/Hard/2642.java](./Leetcode/Hard/2642.java)\
 [./Leetcode/Hard/273.java](./Leetcode/Hard/273.java)\
 [./Leetcode/Hard/2751.java](./Leetcode/Hard/2751.java)\
@@ -995,4 +999,5 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./UniComps/UTPC/2425/1108/C.cpp](./UniComps/UTPC/2425/1108/C.cpp)\
 [./UniComps/UTPC/2425/1108/D.cpp](./UniComps/UTPC/2425/1108/D.cpp)\
 [./UniComps/UTPC/2425/1108/E.py](./UniComps/UTPC/2425/1108/E.py)\
-[./UniComps/UTPC/2425/1108/F.cpp](./UniComps/UTPC/2425/1108/F.cpp)
+[./UniComps/UTPC/2425/1108/F.cpp](./UniComps/UTPC/2425/1108/F.cpp)\
+[./UniComps/UTPC/2425/1120/D.cpp](./UniComps/UTPC/2425/1120/D.cpp)
