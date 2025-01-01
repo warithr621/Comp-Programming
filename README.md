@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1028
+### Total Files: 1037
 [./CSES/.DS_Store](./CSES/.DS_Store)\
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
@@ -420,6 +420,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2050/threestr.cpp](./Codeforces/2050/threestr.cpp)\
 [./Codeforces/2050/transfusion.cpp](./Codeforces/2050/transfusion.cpp)\
 [./Codeforces/2050/uninteresting_num.cpp](./Codeforces/2050/uninteresting_num.cpp)\
+[./Codeforces/2053/tendercarp.py](./Codeforces/2053/tendercarp.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -534,6 +535,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/1380.java](./Leetcode/Easy/1380.java)\
 [./Leetcode/Easy/14.java](./Leetcode/Easy/14.java)\
 [./Leetcode/Easy/141.java](./Leetcode/Easy/141.java)\
+[./Leetcode/Easy/1422.java](./Leetcode/Easy/1422.java)\
 [./Leetcode/Easy/145.java](./Leetcode/Easy/145.java)\
 [./Leetcode/Easy/1455.java](./Leetcode/Easy/1455.java)\
 [./Leetcode/Easy/1460.cpp](./Leetcode/Easy/1460.cpp)\
@@ -620,6 +622,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Hard/1289.java](./Leetcode/Hard/1289.java)\
 [./Leetcode/Hard/1402.cpp](./Leetcode/Hard/1402.cpp)\
 [./Leetcode/Hard/1526.java](./Leetcode/Hard/1526.java)\
+[./Leetcode/Hard/1639.java](./Leetcode/Hard/1639.java)\
 [./Leetcode/Hard/2045.java](./Leetcode/Hard/2045.java)\
 [./Leetcode/Hard/2097.java](./Leetcode/Hard/2097.java)\
 [./Leetcode/Hard/214.java](./Leetcode/Hard/214.java)\
@@ -638,9 +641,11 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Hard/420.java](./Leetcode/Hard/420.java)\
 [./Leetcode/Hard/440.java](./Leetcode/Hard/440.java)\
 [./Leetcode/Hard/60.cpp](./Leetcode/Hard/60.cpp)\
+[./Leetcode/Hard/689.java](./Leetcode/Hard/689.java)\
 [./Leetcode/Hard/726.py](./Leetcode/Hard/726.py)\
 [./Leetcode/Hard/76.java](./Leetcode/Hard/76.java)\
 [./Leetcode/Medium/1004.java](./Leetcode/Medium/1004.java)\
+[./Leetcode/Medium/1014.c](./Leetcode/Medium/1014.c)\
 [./Leetcode/Medium/102.java](./Leetcode/Medium/102.java)\
 [./Leetcode/Medium/1052.java](./Leetcode/Medium/1052.java)\
 [./Leetcode/Medium/11.cpp](./Leetcode/Medium/11.cpp)\
@@ -728,6 +733,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/241.java](./Leetcode/Medium/241.java)\
 [./Leetcode/Medium/2415.java](./Leetcode/Medium/2415.java)\
 [./Leetcode/Medium/2419.java](./Leetcode/Medium/2419.java)\
+[./Leetcode/Medium/2466.java](./Leetcode/Medium/2466.java)\
 [./Leetcode/Medium/2491.java](./Leetcode/Medium/2491.java)\
 [./Leetcode/Medium/2530.java](./Leetcode/Medium/2530.java)\
 [./Leetcode/Medium/2554.java](./Leetcode/Medium/2554.java)\
@@ -735,6 +741,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/2593.java](./Leetcode/Medium/2593.java)\
 [./Leetcode/Medium/261.java](./Leetcode/Medium/261.java)\
 [./Leetcode/Medium/2641.java](./Leetcode/Medium/2641.java)\
+[./Leetcode/Medium/2684.java](./Leetcode/Medium/2684.java)\
 [./Leetcode/Medium/2707.java](./Leetcode/Medium/2707.java)\
 [./Leetcode/Medium/271.py](./Leetcode/Medium/271.py)\
 [./Leetcode/Medium/274.java](./Leetcode/Medium/274.java)\
@@ -758,6 +765,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/3228.java](./Leetcode/Medium/3228.java)\
 [./Leetcode/Medium/323.java](./Leetcode/Medium/323.java)\
 [./Leetcode/Medium/324.java](./Leetcode/Medium/324.java)\
+[./Leetcode/Medium/3397.c](./Leetcode/Medium/3397.c)\
 [./Leetcode/Medium/347.java](./Leetcode/Medium/347.java)\
 [./Leetcode/Medium/36.cpp](./Leetcode/Medium/36.cpp)\
 [./Leetcode/Medium/38.java](./Leetcode/Medium/38.java)\
@@ -785,6 +793,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/63.java](./Leetcode/Medium/63.java)\
 [./Leetcode/Medium/64.java](./Leetcode/Medium/64.java)\
 [./Leetcode/Medium/641.java](./Leetcode/Medium/641.java)\
+[./Leetcode/Medium/650.java](./Leetcode/Medium/650.java)\
 [./Leetcode/Medium/670.java](./Leetcode/Medium/670.java)\
 [./Leetcode/Medium/695.java](./Leetcode/Medium/695.java)\
 [./Leetcode/Medium/72.java](./Leetcode/Medium/72.java)\
