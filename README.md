@@ -12,8 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1051
-[./CSES/.DS_Store](./CSES/.DS_Store)\
+### Total Files: 1044
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
@@ -114,7 +113,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/String-Algos/string_matching.cpp](./CSES/String-Algos/string_matching.cpp)\
 [./CSES/Tree-Algos/subord.cpp](./CSES/Tree-Algos/subord.cpp)\
 [./CSES/Tree-Algos/tree_diameter.cpp](./CSES/Tree-Algos/tree_diameter.cpp)\
-[./Codeforces/.DS_Store](./Codeforces/.DS_Store)\
 [./Codeforces/1020/Badge.java](./Codeforces/1020/Badge.java)\
 [./Codeforces/1025/weak_common_div.py](./Codeforces/1025/weak_common_div.py)\
 [./Codeforces/1038/equality.cpp](./Codeforces/1038/equality.cpp)\
@@ -516,7 +514,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/987/hs_become_human.py](./Codeforces/987/hs_become_human.py)\
 [./Codeforces/992/nast_arr.java](./Codeforces/992/nast_arr.java)\
 [./Codeforces/999/rev_encrypt.cpp](./Codeforces/999/rev_encrypt.cpp)\
-[./Leetcode/.DS_Store](./Leetcode/.DS_Store)\
 [./Leetcode/Easy/100.py](./Leetcode/Easy/100.py)\
 [./Leetcode/Easy/101.java](./Leetcode/Easy/101.java)\
 [./Leetcode/Easy/104.py](./Leetcode/Easy/104.py)\
@@ -838,7 +835,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/962.java](./Leetcode/Medium/962.java)\
 [./Leetcode/Medium/973.java](./Leetcode/Medium/973.java)\
 [./Leetcode/Medium/994.java](./Leetcode/Medium/994.java)\
-[./Other_Contests/.DS_Store](./Other_Contests/.DS_Store)\
 [./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py](./Other_Contests/HSCTF/HSCTF10/BananaQueriesSoln.py)\
 [./Other_Contests/HSCTF/HSCTF10/BankSoln.py](./Other_Contests/HSCTF/HSCTF10/BankSoln.py)\
 [./Other_Contests/HSCTF/HSCTF10/LargestFlagpolePwn.py](./Other_Contests/HSCTF/HSCTF10/LargestFlagpolePwn.py)\
@@ -861,7 +857,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/rayarr.cpp)\
 [./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp](./Other_Contests/Lexington_Informatics_Tournament/2022/Programming/score_hacker.cpp)\
 [./Other_Contests/PicoCTF/2023/power_analysis_warmup.py](./Other_Contests/PicoCTF/2023/power_analysis_warmup.py)\
-[./UIL-CS/.DS_Store](./UIL-CS/.DS_Store)\
 [./UIL-CS/2018/Districts/Alice.java](./UIL-CS/2018/Districts/Alice.java)\
 [./UIL-CS/2018/Districts/Bayani.java](./UIL-CS/2018/Districts/Bayani.java)\
 [./UIL-CS/2018/Districts/Carla.java](./UIL-CS/2018/Districts/Carla.java)\
@@ -952,7 +947,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./UIL-CS/2019/State/Me.java](./UIL-CS/2019/State/Me.java)\
 [./UIL-CS/2019/State/Rakesh.java](./UIL-CS/2019/State/Rakesh.java)\
 [./UIL-CS/2019/State/Sean.java](./UIL-CS/2019/State/Sean.java)\
-[./USACO_and_Guide/.DS_Store](./USACO_and_Guide/.DS_Store)\
 [./USACO_and_Guide/2015-2016/December/FruitFeast.java](./USACO_and_Guide/2015-2016/December/FruitFeast.java)\
 [./USACO_and_Guide/2015-2016/December/breed_counting.cpp](./USACO_and_Guide/2015-2016/December/breed_counting.cpp)\
 [./USACO_and_Guide/2015-2016/December/high_card_win.cpp](./USACO_and_Guide/2015-2016/December/high_card_win.cpp)\
@@ -1022,7 +1016,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/number_triangle.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/number_triangle.cpp)\
 [./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/palindromic_primes.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/palindromic_primes.cpp)\
 [./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/superprime.cpp](./USACO_and_Guide/TrainUSACO/1-6-binary-numbers/superprime.cpp)\
-[./UniComps/.DS_Store](./UniComps/.DS_Store)\
 [./UniComps/ICPC/NAQ19/A.py](./UniComps/ICPC/NAQ19/A.py)\
 [./UniComps/ICPC/NAQ19/C.cpp](./UniComps/ICPC/NAQ19/C.cpp)\
 [./UniComps/ICPC/NAQ19/D.py](./UniComps/ICPC/NAQ19/D.py)\
