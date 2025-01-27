@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1060
+### Total Files: 1070
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
@@ -571,6 +571,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/226.py](./Leetcode/Easy/226.py)\
 [./Leetcode/Easy/228.cpp](./Leetcode/Easy/228.cpp)\
 [./Leetcode/Easy/2418.cpp](./Leetcode/Easy/2418.cpp)\
+[./Leetcode/Easy/2544.c](./Leetcode/Easy/2544.c)\
 [./Leetcode/Easy/2558.java](./Leetcode/Easy/2558.java)\
 [./Leetcode/Easy/2582.java](./Leetcode/Easy/2582.java)\
 [./Leetcode/Easy/26.cpp](./Leetcode/Easy/26.cpp)\
@@ -629,6 +630,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Hard/1639.java](./Leetcode/Hard/1639.java)\
 [./Leetcode/Hard/2045.java](./Leetcode/Hard/2045.java)\
 [./Leetcode/Hard/2097.java](./Leetcode/Hard/2097.java)\
+[./Leetcode/Hard/2127.java](./Leetcode/Hard/2127.java)\
 [./Leetcode/Hard/214.java](./Leetcode/Hard/214.java)\
 [./Leetcode/Hard/23.java](./Leetcode/Hard/23.java)\
 [./Leetcode/Hard/2392.java](./Leetcode/Hard/2392.java)\
@@ -663,6 +665,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/122.cpp](./Leetcode/Medium/122.cpp)\
 [./Leetcode/Medium/1233.java](./Leetcode/Medium/1233.java)\
 [./Leetcode/Medium/1248.java](./Leetcode/Medium/1248.java)\
+[./Leetcode/Medium/1267.java](./Leetcode/Medium/1267.java)\
 [./Leetcode/Medium/128.java](./Leetcode/Medium/128.java)\
 [./Leetcode/Medium/129.java](./Leetcode/Medium/129.java)\
 [./Leetcode/Medium/1291.java](./Leetcode/Medium/1291.java)\
@@ -676,6 +679,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1395.java](./Leetcode/Medium/1395.java)\
 [./Leetcode/Medium/1400.c](./Leetcode/Medium/1400.c)\
 [./Leetcode/Medium/1405.java](./Leetcode/Medium/1405.java)\
+[./Leetcode/Medium/1462.java](./Leetcode/Medium/1462.java)\
 [./Leetcode/Medium/1497.java](./Leetcode/Medium/1497.java)\
 [./Leetcode/Medium/15.cpp](./Leetcode/Medium/15.cpp)\
 [./Leetcode/Medium/150.java](./Leetcode/Medium/150.java)\
@@ -700,6 +704,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1717.cpp](./Leetcode/Medium/1717.cpp)\
 [./Leetcode/Medium/172.java](./Leetcode/Medium/172.java)\
 [./Leetcode/Medium/1760.java](./Leetcode/Medium/1760.java)\
+[./Leetcode/Medium/1765.java](./Leetcode/Medium/1765.java)\
 [./Leetcode/Medium/1769.java](./Leetcode/Medium/1769.java)\
 [./Leetcode/Medium/179.java](./Leetcode/Medium/179.java)\
 [./Leetcode/Medium/1792.java](./Leetcode/Medium/1792.java)\
@@ -739,6 +744,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/230.java](./Leetcode/Medium/230.java)\
 [./Leetcode/Medium/2326.java](./Leetcode/Medium/2326.java)\
 [./Leetcode/Medium/2337.java](./Leetcode/Medium/2337.java)\
+[./Leetcode/Medium/2342.c](./Leetcode/Medium/2342.c)\
 [./Leetcode/Medium/235.java](./Leetcode/Medium/235.java)\
 [./Leetcode/Medium/238.java](./Leetcode/Medium/238.java)\
 [./Leetcode/Medium/2381.java](./Leetcode/Medium/2381.java)\
@@ -771,6 +777,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/2779.java](./Leetcode/Medium/2779.java)\
 [./Leetcode/Medium/2825.java](./Leetcode/Medium/2825.java)\
 [./Leetcode/Medium/2938.java](./Leetcode/Medium/2938.java)\
+[./Leetcode/Medium/2948.java](./Leetcode/Medium/2948.java)\
 [./Leetcode/Medium/2976.java](./Leetcode/Medium/2976.java)\
 [./Leetcode/Medium/2981.java](./Leetcode/Medium/2981.java)\
 [./Leetcode/Medium/3.java](./Leetcode/Medium/3.java)\
@@ -780,7 +787,9 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/307.cpp](./Leetcode/Medium/307.cpp)\
 [./Leetcode/Medium/3100.java](./Leetcode/Medium/3100.java)\
 [./Leetcode/Medium/3152.java](./Leetcode/Medium/3152.java)\
+[./Leetcode/Medium/3163.java](./Leetcode/Medium/3163.java)\
 [./Leetcode/Medium/319.java](./Leetcode/Medium/319.java)\
+[./Leetcode/Medium/3191.c](./Leetcode/Medium/3191.c)\
 [./Leetcode/Medium/3217.java](./Leetcode/Medium/3217.java)\
 [./Leetcode/Medium/322.java](./Leetcode/Medium/322.java)\
 [./Leetcode/Medium/3223.c](./Leetcode/Medium/3223.c)\
@@ -835,6 +844,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/77.java](./Leetcode/Medium/77.java)\
 [./Leetcode/Medium/78.java](./Leetcode/Medium/78.java)\
 [./Leetcode/Medium/80.cpp](./Leetcode/Medium/80.cpp)\
+[./Leetcode/Medium/802.c](./Leetcode/Medium/802.c)\
 [./Leetcode/Medium/840.java](./Leetcode/Medium/840.java)\
 [./Leetcode/Medium/846.java](./Leetcode/Medium/846.java)\
 [./Leetcode/Medium/874.java](./Leetcode/Medium/874.java)\
