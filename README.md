@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1070
+### Total Files: 1074
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
@@ -767,6 +767,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/261.java](./Leetcode/Medium/261.java)\
 [./Leetcode/Medium/2641.java](./Leetcode/Medium/2641.java)\
 [./Leetcode/Medium/2657.java](./Leetcode/Medium/2657.java)\
+[./Leetcode/Medium/2658.java](./Leetcode/Medium/2658.java)\
 [./Leetcode/Medium/2661.java](./Leetcode/Medium/2661.java)\
 [./Leetcode/Medium/2683.c](./Leetcode/Medium/2683.c)\
 [./Leetcode/Medium/2684.java](./Leetcode/Medium/2684.java)\
@@ -830,6 +831,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/641.java](./Leetcode/Medium/641.java)\
 [./Leetcode/Medium/650.java](./Leetcode/Medium/650.java)\
 [./Leetcode/Medium/670.java](./Leetcode/Medium/670.java)\
+[./Leetcode/Medium/684.java](./Leetcode/Medium/684.java)\
 [./Leetcode/Medium/695.java](./Leetcode/Medium/695.java)\
 [./Leetcode/Medium/72.java](./Leetcode/Medium/72.java)\
 [./Leetcode/Medium/725.java](./Leetcode/Medium/725.java)\
@@ -1065,6 +1067,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./UniComps/ICPC/NAQ24/E.cpp](./UniComps/ICPC/NAQ24/E.cpp)\
 [./UniComps/ICPC/NAQ24/F.cpp](./UniComps/ICPC/NAQ24/F.cpp)\
 [./UniComps/ICPC/NAQ24/I.cpp](./UniComps/ICPC/NAQ24/I.cpp)\
+[./UniComps/UTPC/2425/0129/C.cpp](./UniComps/UTPC/2425/0129/C.cpp)\
+[./UniComps/UTPC/2425/0129/G.cpp](./UniComps/UTPC/2425/0129/G.cpp)\
 [./UniComps/UTPC/2425/0913/A.py](./UniComps/UTPC/2425/0913/A.py)\
 [./UniComps/UTPC/2425/0913/B.py](./UniComps/UTPC/2425/0913/B.py)\
 [./UniComps/UTPC/2425/0913/C.cpp](./UniComps/UTPC/2425/0913/C.cpp)\
