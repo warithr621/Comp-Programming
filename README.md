@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1089
+### Total Files: 1102
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
@@ -419,6 +419,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2050/transfusion.cpp](./Codeforces/2050/transfusion.cpp)\
 [./Codeforces/2050/uninteresting_num.cpp](./Codeforces/2050/uninteresting_num.cpp)\
 [./Codeforces/2053/tendercarp.py](./Codeforces/2053/tendercarp.py)\
+[./Codeforces/2075/A.py](./Codeforces/2075/A.py)\
+[./Codeforces/2075/B.py](./Codeforces/2075/B.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -574,6 +576,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/226.py](./Leetcode/Easy/226.py)\
 [./Leetcode/Easy/228.cpp](./Leetcode/Easy/228.cpp)\
 [./Leetcode/Easy/2418.cpp](./Leetcode/Easy/2418.cpp)\
+[./Leetcode/Easy/2460.java](./Leetcode/Easy/2460.java)\
 [./Leetcode/Easy/2544.c](./Leetcode/Easy/2544.c)\
 [./Leetcode/Easy/2558.java](./Leetcode/Easy/2558.java)\
 [./Leetcode/Easy/2582.java](./Leetcode/Easy/2582.java)\
@@ -626,6 +629,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/876.java](./Leetcode/Easy/876.java)\
 [./Leetcode/Easy/884.java](./Leetcode/Easy/884.java)\
 [./Leetcode/Easy/977.java](./Leetcode/Easy/977.java)\
+[./Leetcode/Hard/1092.java](./Leetcode/Hard/1092.java)\
 [./Leetcode/Hard/1106.java](./Leetcode/Hard/1106.java)\
 [./Leetcode/Hard/1255.cpp](./Leetcode/Hard/1255.cpp)\
 [./Leetcode/Hard/1284.java](./Leetcode/Hard/1284.java)\
@@ -663,6 +667,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1014.c](./Leetcode/Medium/1014.c)\
 [./Leetcode/Medium/102.java](./Leetcode/Medium/102.java)\
 [./Leetcode/Medium/1052.java](./Leetcode/Medium/1052.java)\
+[./Leetcode/Medium/1079.java](./Leetcode/Medium/1079.java)\
 [./Leetcode/Medium/11.cpp](./Leetcode/Medium/11.cpp)\
 [./Leetcode/Medium/1105.java](./Leetcode/Medium/1105.java)\
 [./Leetcode/Medium/1110.java](./Leetcode/Medium/1110.java)\
@@ -679,6 +684,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1291.java](./Leetcode/Medium/1291.java)\
 [./Leetcode/Medium/1310.java](./Leetcode/Medium/1310.java)\
 [./Leetcode/Medium/1334.java](./Leetcode/Medium/1334.java)\
+[./Leetcode/Medium/1352.java](./Leetcode/Medium/1352.java)\
 [./Leetcode/Medium/1367.java](./Leetcode/Medium/1367.java)\
 [./Leetcode/Medium/137.java](./Leetcode/Medium/137.java)\
 [./Leetcode/Medium/1371.java](./Leetcode/Medium/1371.java)\
@@ -710,11 +716,13 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/17.cpp](./Leetcode/Medium/17.cpp)\
 [./Leetcode/Medium/1701.cpp](./Leetcode/Medium/1701.cpp)\
 [./Leetcode/Medium/1717.cpp](./Leetcode/Medium/1717.cpp)\
+[./Leetcode/Medium/1718.java](./Leetcode/Medium/1718.java)\
 [./Leetcode/Medium/172.java](./Leetcode/Medium/172.java)\
 [./Leetcode/Medium/1726.java](./Leetcode/Medium/1726.java)\
 [./Leetcode/Medium/1760.java](./Leetcode/Medium/1760.java)\
 [./Leetcode/Medium/1765.java](./Leetcode/Medium/1765.java)\
 [./Leetcode/Medium/1769.java](./Leetcode/Medium/1769.java)\
+[./Leetcode/Medium/1780.java](./Leetcode/Medium/1780.java)\
 [./Leetcode/Medium/179.java](./Leetcode/Medium/179.java)\
 [./Leetcode/Medium/1792.java](./Leetcode/Medium/1792.java)\
 [./Leetcode/Medium/1813.java](./Leetcode/Medium/1813.java)\
@@ -728,6 +736,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1963.java](./Leetcode/Medium/1963.java)\
 [./Leetcode/Medium/1975.java](./Leetcode/Medium/1975.java)\
 [./Leetcode/Medium/198.cpp](./Leetcode/Medium/198.cpp)\
+[./Leetcode/Medium/1980.java](./Leetcode/Medium/1980.java)\
 [./Leetcode/Medium/2.java](./Leetcode/Medium/2.java)\
 [./Leetcode/Medium/200.java](./Leetcode/Medium/200.java)\
 [./Leetcode/Medium/2001.java](./Leetcode/Medium/2001.java)\
@@ -782,6 +791,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/2661.java](./Leetcode/Medium/2661.java)\
 [./Leetcode/Medium/2683.c](./Leetcode/Medium/2683.c)\
 [./Leetcode/Medium/2684.java](./Leetcode/Medium/2684.java)\
+[./Leetcode/Medium/2698.java](./Leetcode/Medium/2698.java)\
 [./Leetcode/Medium/2707.java](./Leetcode/Medium/2707.java)\
 [./Leetcode/Medium/271.py](./Leetcode/Medium/271.py)\
 [./Leetcode/Medium/274.java](./Leetcode/Medium/274.java)\
@@ -803,6 +813,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/3163.java](./Leetcode/Medium/3163.java)\
 [./Leetcode/Medium/319.java](./Leetcode/Medium/319.java)\
 [./Leetcode/Medium/3191.c](./Leetcode/Medium/3191.c)\
+[./Leetcode/Medium/3208.java](./Leetcode/Medium/3208.java)\
 [./Leetcode/Medium/3217.java](./Leetcode/Medium/3217.java)\
 [./Leetcode/Medium/322.java](./Leetcode/Medium/322.java)\
 [./Leetcode/Medium/3223.c](./Leetcode/Medium/3223.c)\
@@ -1081,6 +1092,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./UniComps/ICPC/NAQ24/I.cpp](./UniComps/ICPC/NAQ24/I.cpp)\
 [./UniComps/UTPC/2425/0129/C.cpp](./UniComps/UTPC/2425/0129/C.cpp)\
 [./UniComps/UTPC/2425/0129/G.cpp](./UniComps/UTPC/2425/0129/G.cpp)\
+[./UniComps/UTPC/2425/0212/A.py](./UniComps/UTPC/2425/0212/A.py)\
+[./UniComps/UTPC/2425/0212/B.py](./UniComps/UTPC/2425/0212/B.py)\
 [./UniComps/UTPC/2425/0212/C.cpp](./UniComps/UTPC/2425/0212/C.cpp)\
 [./UniComps/UTPC/2425/0212/G.cpp](./UniComps/UTPC/2425/0212/G.cpp)\
 [./UniComps/UTPC/2425/0212/J.py](./UniComps/UTPC/2425/0212/J.py)\
