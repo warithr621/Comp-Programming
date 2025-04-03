@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1115
+### Total Files: 1119
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
@@ -421,6 +421,10 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2053/tendercarp.py](./Codeforces/2053/tendercarp.py)\
 [./Codeforces/2075/A.py](./Codeforces/2075/A.py)\
 [./Codeforces/2075/B.py](./Codeforces/2075/B.py)\
+[./Codeforces/2086/A.py](./Codeforces/2086/A.py)\
+[./Codeforces/2086/B.py](./Codeforces/2086/B.py)\
+[./Codeforces/2086/C.py](./Codeforces/2086/C.py)\
+[./Codeforces/2086/D.py](./Codeforces/2086/D.py)\
 [./Codeforces/2091/A.py](./Codeforces/2091/A.py)\
 [./Codeforces/2091/B.py](./Codeforces/2091/B.py)\
 [./Codeforces/2091/C.py](./Codeforces/2091/C.py)\
