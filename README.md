@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1119
+### Total Files: 1142
 [./CSES/Additional-Problems/counting_bits.py](./CSES/Additional-Problems/counting_bits.py)\
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/xor_pyramid.cpp](./CSES/Additional-Problems/xor_pyramid.cpp)\
@@ -111,6 +111,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Sorting-and-Searching/task_deadline.cpp](./CSES/Sorting-and-Searching/task_deadline.cpp)\
 [./CSES/Sorting-and-Searching/towers.cpp](./CSES/Sorting-and-Searching/towers.cpp)\
 [./CSES/String-Algos/string_matching.cpp](./CSES/String-Algos/string_matching.cpp)\
+[./CSES/Tree-Algos/distq.cpp](./CSES/Tree-Algos/distq.cpp)\
 [./CSES/Tree-Algos/subord.cpp](./CSES/Tree-Algos/subord.cpp)\
 [./CSES/Tree-Algos/tree_diameter.cpp](./CSES/Tree-Algos/tree_diameter.cpp)\
 [./Codeforces/1020/Badge.java](./Codeforces/1020/Badge.java)\
@@ -146,6 +147,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1165/remainder.cpp](./Codeforces/1165/remainder.cpp)\
 [./Codeforces/1165/two_arr_sum_func.cpp](./Codeforces/1165/two_arr_sum_func.cpp)\
 [./Codeforces/1166/classroom.cpp](./Codeforces/1166/classroom.cpp)\
+[./Codeforces/1167/C.java](./Codeforces/1167/C.java)\
 [./Codeforces/1176/cover_it.cpp](./Codeforces/1176/cover_it.cpp)\
 [./Codeforces/1189/number_circle.py](./Codeforces/1189/number_circle.py)\
 [./Codeforces/1201/Max_Median.java](./Codeforces/1201/Max_Median.java)\
@@ -332,6 +334,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1778/forbidden_perm.cpp](./Codeforces/1778/forbidden_perm.cpp)\
 [./Codeforces/1779/hall_of_fame.py](./Codeforces/1779/hall_of_fame.py)\
 [./Codeforces/1779/mknez_constructforce.py](./Codeforces/1779/mknez_constructforce.py)\
+[./Codeforces/182/D.cpp](./Codeforces/182/D.cpp)\
 [./Codeforces/1826/running_miles.cpp](./Codeforces/1826/running_miles.cpp)\
 [./Codeforces/1826/trust_nobody.cpp](./Codeforces/1826/trust_nobody.cpp)\
 [./Codeforces/1834/max_strength.py](./Codeforces/1834/max_strength.py)\
@@ -354,10 +357,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1846/rudolph_xmas_tree.cpp](./Codeforces/1846/rudolph_xmas_tree.cpp)\
 [./Codeforces/1854/dualeasy.cpp](./Codeforces/1854/dualeasy.cpp)\
 [./Codeforces/1881/blockseq.py](./Codeforces/1881/blockseq.py)\
+[./Codeforces/1915/F.cpp](./Codeforces/1915/F.cpp)\
 [./Codeforces/1974/BeautifulTriple.java](./Codeforces/1974/BeautifulTriple.java)\
 [./Codeforces/1974/SymmEncode.java](./Codeforces/1974/SymmEncode.java)\
 [./Codeforces/1974/phone_desktop.cpp](./Codeforces/1974/phone_desktop.cpp)\
 [./Codeforces/1980/gcd_seq.cpp](./Codeforces/1980/gcd_seq.cpp)\
+[./Codeforces/1981/B.py](./Codeforces/1981/B.py)\
 [./Codeforces/1983/array_div.py](./Codeforces/1983/array_div.py)\
 [./Codeforces/1983/corner_twist.cpp](./Codeforces/1983/corner_twist.cpp)\
 [./Codeforces/1983/have_your_cake.py](./Codeforces/1983/have_your_cake.py)\
@@ -419,8 +424,11 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2050/transfusion.cpp](./Codeforces/2050/transfusion.cpp)\
 [./Codeforces/2050/uninteresting_num.cpp](./Codeforces/2050/uninteresting_num.cpp)\
 [./Codeforces/2053/tendercarp.py](./Codeforces/2053/tendercarp.py)\
+[./Codeforces/2070/C.cpp](./Codeforces/2070/C.cpp)\
 [./Codeforces/2075/A.py](./Codeforces/2075/A.py)\
 [./Codeforces/2075/B.py](./Codeforces/2075/B.py)\
+[./Codeforces/2084/A.py](./Codeforces/2084/A.py)\
+[./Codeforces/2084/B.py](./Codeforces/2084/B.py)\
 [./Codeforces/2086/A.py](./Codeforces/2086/A.py)\
 [./Codeforces/2086/B.py](./Codeforces/2086/B.py)\
 [./Codeforces/2086/C.py](./Codeforces/2086/C.py)\
@@ -432,6 +440,15 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2091/E.cpp](./Codeforces/2091/E.cpp)\
 [./Codeforces/2092/A.py](./Codeforces/2092/A.py)\
 [./Codeforces/2092/B.py](./Codeforces/2092/B.py)\
+[./Codeforces/2093/A.py](./Codeforces/2093/A.py)\
+[./Codeforces/2093/B.py](./Codeforces/2093/B.py)\
+[./Codeforces/2093/C.py](./Codeforces/2093/C.py)\
+[./Codeforces/2093/D.py](./Codeforces/2093/D.py)\
+[./Codeforces/2093/E.py](./Codeforces/2093/E.py)\
+[./Codeforces/2093/F.py](./Codeforces/2093/F.py)\
+[./Codeforces/2094/A.py](./Codeforces/2094/A.py)\
+[./Codeforces/2094/B.py](./Codeforces/2094/B.py)\
+[./Codeforces/2094/C.py](./Codeforces/2094/C.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -444,6 +461,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/371/k_period.cpp](./Codeforces/371/k_period.cpp)\
 [./Codeforces/441/antique.java](./Codeforces/441/antique.java)\
 [./Codeforces/459/pashmak_flower.cpp](./Codeforces/459/pashmak_flower.cpp)\
+[./Codeforces/461/B.cpp](./Codeforces/461/B.cpp)\
 [./Codeforces/463/caisa_pylons.py](./Codeforces/463/caisa_pylons.py)\
 [./Codeforces/489/bersu_ball.py](./Codeforces/489/bersu_ball.py)\
 [./Codeforces/489/len_sum_dig.py](./Codeforces/489/len_sum_dig.py)\
@@ -553,6 +571,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/1460.cpp](./Leetcode/Easy/1460.cpp)\
 [./Leetcode/Easy/1475.java](./Leetcode/Easy/1475.java)\
 [./Leetcode/Easy/1518.java](./Leetcode/Easy/1518.java)\
+[./Leetcode/Easy/1534.java](./Leetcode/Easy/1534.java)\
 [./Leetcode/Easy/1550.java](./Leetcode/Easy/1550.java)\
 [./Leetcode/Easy/1598.cpp](./Leetcode/Easy/1598.cpp)\
 [./Leetcode/Easy/1636.java](./Leetcode/Easy/1636.java)\
@@ -564,6 +583,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/1800.py](./Leetcode/Easy/1800.py)\
 [./Leetcode/Easy/191.py](./Leetcode/Easy/191.py)\
 [./Leetcode/Easy/1913.py](./Leetcode/Easy/1913.py)\
+[./Leetcode/Easy/1920.java](./Leetcode/Easy/1920.java)\
 [./Leetcode/Easy/1945.java](./Leetcode/Easy/1945.java)\
 [./Leetcode/Easy/1952.py](./Leetcode/Easy/1952.py)\
 [./Leetcode/Easy/1957.java](./Leetcode/Easy/1957.java)\
@@ -613,6 +633,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/3226.py](./Leetcode/Easy/3226.py)\
 [./Leetcode/Easy/3264.java](./Leetcode/Easy/3264.java)\
 [./Leetcode/Easy/3270.py](./Leetcode/Easy/3270.py)\
+[./Leetcode/Easy/3375.java](./Leetcode/Easy/3375.java)\
 [./Leetcode/Easy/3402.java](./Leetcode/Easy/3402.java)\
 [./Leetcode/Easy/3411.java](./Leetcode/Easy/3411.java)\
 [./Leetcode/Easy/344.java](./Leetcode/Easy/344.java)\
@@ -655,6 +676,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Hard/2127.java](./Leetcode/Hard/2127.java)\
 [./Leetcode/Hard/214.java](./Leetcode/Hard/214.java)\
 [./Leetcode/Hard/23.java](./Leetcode/Hard/23.java)\
+[./Leetcode/Hard/2338.java](./Leetcode/Hard/2338.java)\
 [./Leetcode/Hard/2392.java](./Leetcode/Hard/2392.java)\
 [./Leetcode/Hard/2416.java](./Leetcode/Hard/2416.java)\
 [./Leetcode/Hard/2493.java](./Leetcode/Hard/2493.java)\
@@ -765,6 +787,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/2109.java](./Leetcode/Medium/2109.java)\
 [./Leetcode/Medium/2116.java](./Leetcode/Medium/2116.java)\
 [./Leetcode/Medium/2134.java](./Leetcode/Medium/2134.java)\
+[./Leetcode/Medium/2145.java](./Leetcode/Medium/2145.java)\
 [./Leetcode/Medium/215.java](./Leetcode/Medium/215.java)\
 [./Leetcode/Medium/2181.java](./Leetcode/Medium/2181.java)\
 [./Leetcode/Medium/2182.java](./Leetcode/Medium/2182.java)\
