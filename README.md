@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 993
+### Total Files: 1000
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -280,6 +280,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1689/InfectedTree.java](./Codeforces/1689/InfectedTree.java)\
 [./Codeforces/1689/lex_string.cpp](./Codeforces/1689/lex_string.cpp)\
 [./Codeforces/1689/mystic_perm.cpp](./Codeforces/1689/mystic_perm.cpp)\
+[./Codeforces/1696/C.py](./Codeforces/1696/C.py)\
 [./Codeforces/1698/fixed_point_guess.py](./Codeforces/1698/fixed_point_guess.py)\
 [./Codeforces/1702/split_two_sets.cpp](./Codeforces/1702/split_two_sets.cpp)\
 [./Codeforces/1713/optimal_reduction.php](./Codeforces/1713/optimal_reduction.php)\
@@ -471,6 +472,11 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2094/C.py](./Codeforces/2094/C.py)\
 [./Codeforces/2094/F.cpp](./Codeforces/2094/F.cpp)\
 [./Codeforces/2104/D.py](./Codeforces/2104/D.py)\
+[./Codeforces/2114/A.py](./Codeforces/2114/A.py)\
+[./Codeforces/2114/B.py](./Codeforces/2114/B.py)\
+[./Codeforces/2114/C.py](./Codeforces/2114/C.py)\
+[./Codeforces/2114/D.py](./Codeforces/2114/D.py)\
+[./Codeforces/2114/E.cpp](./Codeforces/2114/E.cpp)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -493,6 +499,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/500/new_year_book_reading.cpp](./Codeforces/500/new_year_book_reading.cpp)\
 [./Codeforces/515/drazil_fact.py](./Codeforces/515/drazil_fact.py)\
 [./Codeforces/525/vitaliy_pie.py](./Codeforces/525/vitaliy_pie.py)\
+[./Codeforces/538/B.py](./Codeforces/538/B.py)\
 [./Codeforces/545/equi_string.py](./Codeforces/545/equi_string.py)\
 [./Codeforces/548/mike_and_fax.java](./Codeforces/548/mike_and_fax.java)\
 [./Codeforces/556/fake_num.cpp](./Codeforces/556/fake_num.cpp)\
