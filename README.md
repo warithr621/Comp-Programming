@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1010
+### Total Files: 1014
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -478,6 +478,10 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2109/B.py](./Codeforces/2109/B.py)\
 [./Codeforces/2109/C1C2.py](./Codeforces/2109/C1C2.py)\
 [./Codeforces/2109/D.cpp](./Codeforces/2109/D.cpp)\
+[./Codeforces/2111/A.py](./Codeforces/2111/A.py)\
+[./Codeforces/2111/B.py](./Codeforces/2111/B.py)\
+[./Codeforces/2111/C.py](./Codeforces/2111/C.py)\
+[./Codeforces/2111/D.py](./Codeforces/2111/D.py)\
 [./Codeforces/2114/A.py](./Codeforces/2114/A.py)\
 [./Codeforces/2114/B.py](./Codeforces/2114/B.py)\
 [./Codeforces/2114/C.py](./Codeforces/2114/C.py)\
