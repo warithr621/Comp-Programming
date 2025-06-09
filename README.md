@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1014
+### Total Files: 1016
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -179,6 +179,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1287/hyperset.py](./Codeforces/1287/hyperset.py)\
 [./Codeforces/1294/three_prod.cpp](./Codeforces/1294/three_prod.cpp)\
 [./Codeforces/1299/anu_func.py](./Codeforces/1299/anu_func.py)\
+[./Codeforces/1305/C.py](./Codeforces/1305/C.py)\
 [./Codeforces/1312/bogosort.go](./Codeforces/1312/bogosort.go)\
 [./Codeforces/1315/restore_perm.py](./Codeforces/1315/restore_perm.py)\
 [./Codeforces/1320/JourneyPlanning.java](./Codeforces/1320/JourneyPlanning.java)\
@@ -427,6 +428,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2009/osumania.py](./Codeforces/2009/osumania.py)\
 [./Codeforces/2014/robinhelps.py](./Codeforces/2014/robinhelps.py)\
 [./Codeforces/2019/maxplussize.py](./Codeforces/2019/maxplussize.py)\
+[./Codeforces/2022/B.py](./Codeforces/2022/B.py)\
 [./Codeforces/2027/A.py](./Codeforces/2027/A.py)\
 [./Codeforces/2027/B.py](./Codeforces/2027/B.py)\
 [./Codeforces/2027/C.java](./Codeforces/2027/C.java)\
