@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1020
+### Total Files: 1033
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -87,6 +87,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Range-Queries/range_xor_queries.py](./CSES/Range-Queries/range_xor_queries.py)\
 [./CSES/Range-Queries/srmq.cpp](./CSES/Range-Queries/srmq.cpp)\
 [./CSES/Range-Queries/static_range_sum_queries.cpp](./CSES/Range-Queries/static_range_sum_queries.cpp)\
+[./CSES/Sliding-Window/sliding_window_sum.cpp](./CSES/Sliding-Window/sliding_window_sum.cpp)\
+[./CSES/Sliding-Window/sliding_window_xor.cpp](./CSES/Sliding-Window/sliding_window_xor.cpp)\
 [./CSES/Sorting-and-Searching/MovieFest.java](./CSES/Sorting-and-Searching/MovieFest.java)\
 [./CSES/Sorting-and-Searching/RestCustomers.java](./CSES/Sorting-and-Searching/RestCustomers.java)\
 [./CSES/Sorting-and-Searching/apartments.cpp](./CSES/Sorting-and-Searching/apartments.cpp)\
@@ -489,10 +491,20 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2114/C.py](./Codeforces/2114/C.py)\
 [./Codeforces/2114/D.py](./Codeforces/2114/D.py)\
 [./Codeforces/2114/E.cpp](./Codeforces/2114/E.cpp)\
+[./Codeforces/2117/A.py](./Codeforces/2117/A.py)\
+[./Codeforces/2117/B.py](./Codeforces/2117/B.py)\
+[./Codeforces/2117/C.cpp](./Codeforces/2117/C.cpp)\
+[./Codeforces/2117/D.py](./Codeforces/2117/D.py)\
+[./Codeforces/2117/E.py](./Codeforces/2117/E.py)\
 [./Codeforces/2118/A.cpp](./Codeforces/2118/A.cpp)\
 [./Codeforces/2118/B.cpp](./Codeforces/2118/B.cpp)\
 [./Codeforces/2118/C.cpp](./Codeforces/2118/C.cpp)\
 [./Codeforces/2118/D1.java](./Codeforces/2118/D1.java)\
+[./Codeforces/2121/A.py](./Codeforces/2121/A.py)\
+[./Codeforces/2121/B.py](./Codeforces/2121/B.py)\
+[./Codeforces/2121/C.py](./Codeforces/2121/C.py)\
+[./Codeforces/2121/D.py](./Codeforces/2121/D.py)\
+[./Codeforces/2121/E.py](./Codeforces/2121/E.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -780,6 +792,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/1395.java](./Leetcode/Medium/1395.java)\
 [./Leetcode/Medium/1400.c](./Leetcode/Medium/1400.c)\
 [./Leetcode/Medium/1405.java](./Leetcode/Medium/1405.java)\
+[./Leetcode/Medium/1432.java](./Leetcode/Medium/1432.java)\
 [./Leetcode/Medium/1462.java](./Leetcode/Medium/1462.java)\
 [./Leetcode/Medium/1497.java](./Leetcode/Medium/1497.java)\
 [./Leetcode/Medium/15.cpp](./Leetcode/Medium/15.cpp)\
