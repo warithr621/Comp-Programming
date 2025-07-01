@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1033
+### Total Files: 1039
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -505,6 +505,11 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2121/C.py](./Codeforces/2121/C.py)\
 [./Codeforces/2121/D.py](./Codeforces/2121/D.py)\
 [./Codeforces/2121/E.py](./Codeforces/2121/E.py)\
+[./Codeforces/2123/A.py](./Codeforces/2123/A.py)\
+[./Codeforces/2123/B.py](./Codeforces/2123/B.py)\
+[./Codeforces/2123/C.py](./Codeforces/2123/C.py)\
+[./Codeforces/2123/D.py](./Codeforces/2123/D.py)\
+[./Codeforces/2123/E.py](./Codeforces/2123/E.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -658,6 +663,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Easy/2094.java](./Leetcode/Easy/2094.java)\
 [./Leetcode/Easy/21.java](./Leetcode/Easy/21.java)\
 [./Leetcode/Easy/2124.java](./Leetcode/Easy/2124.java)\
+[./Leetcode/Easy/2138.java](./Leetcode/Easy/2138.java)\
 [./Leetcode/Easy/2185.java](./Leetcode/Easy/2185.java)\
 [./Leetcode/Easy/219.java](./Leetcode/Easy/219.java)\
 [./Leetcode/Easy/2206.java](./Leetcode/Easy/2206.java)\
