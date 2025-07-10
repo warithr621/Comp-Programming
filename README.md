@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1039
+### Total Files: 1050
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -52,10 +52,13 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./CSES/Introductory-Problems/coin_piles.cpp](./CSES/Introductory-Problems/coin_piles.cpp)\
 [./CSES/Introductory-Problems/creating_strings.cpp](./CSES/Introductory-Problems/creating_strings.cpp)\
 [./CSES/Introductory-Problems/gray_code.cpp](./CSES/Introductory-Problems/gray_code.cpp)\
+[./CSES/Introductory-Problems/grid_coloring_i.cpp](./CSES/Introductory-Problems/grid_coloring_i.cpp)\
 [./CSES/Introductory-Problems/increasing_arr.cpp](./CSES/Introductory-Problems/increasing_arr.cpp)\
+[./CSES/Introductory-Problems/knight_moves.cpp](./CSES/Introductory-Problems/knight_moves.cpp)\
 [./CSES/Introductory-Problems/num_spiral.cpp](./CSES/Introductory-Problems/num_spiral.cpp)\
 [./CSES/Introductory-Problems/palindrome_reorder.cpp](./CSES/Introductory-Problems/palindrome_reorder.cpp)\
 [./CSES/Introductory-Problems/perm.cpp](./CSES/Introductory-Problems/perm.cpp)\
+[./CSES/Introductory-Problems/raab_game_i.cpp](./CSES/Introductory-Problems/raab_game_i.cpp)\
 [./CSES/Introductory-Problems/repetitions.cpp](./CSES/Introductory-Problems/repetitions.cpp)\
 [./CSES/Introductory-Problems/tower_of_hanoi.cpp](./CSES/Introductory-Problems/tower_of_hanoi.cpp)\
 [./CSES/Introductory-Problems/trailing_zeros.cpp](./CSES/Introductory-Problems/trailing_zeros.cpp)\
@@ -142,6 +145,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1137/CoopGame.java](./Codeforces/1137/CoopGame.java)\
 [./Codeforces/114/cifera.java](./Codeforces/114/cifera.java)\
 [./Codeforces/1141/polycarp_restores_permutation.cpp](./Codeforces/1141/polycarp_restores_permutation.cpp)\
+[./Codeforces/1151/B.py](./Codeforces/1151/B.py)\
 [./Codeforces/1153/serval_bus.java](./Codeforces/1153/serval_bus.java)\
 [./Codeforces/1155/telephone.java](./Codeforces/1155/telephone.java)\
 [./Codeforces/1157/reach_num.java](./Codeforces/1157/reach_num.java)\
@@ -272,6 +276,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1579/casimir_string_solitaire.java](./Codeforces/1579/casimir_string_solitaire.java)\
 [./Codeforces/1579/ticks.cpp](./Codeforces/1579/ticks.cpp)\
 [./Codeforces/1592/gamer_hemose.cpp](./Codeforces/1592/gamer_hemose.cpp)\
+[./Codeforces/1619/D.py](./Codeforces/1619/D.py)\
 [./Codeforces/1638/InvGraph.java](./Codeforces/1638/InvGraph.java)\
 [./Codeforces/1638/OddSwapSort.java](./Codeforces/1638/OddSwapSort.java)\
 [./Codeforces/1638/Reverse.java](./Codeforces/1638/Reverse.java)\
@@ -371,12 +376,14 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1846/rudolph_tic_tac_toe.cpp](./Codeforces/1846/rudolph_tic_tac_toe.cpp)\
 [./Codeforces/1846/rudolph_xmas_tree.cpp](./Codeforces/1846/rudolph_xmas_tree.cpp)\
 [./Codeforces/1854/dualeasy.cpp](./Codeforces/1854/dualeasy.cpp)\
+[./Codeforces/1863/D.py](./Codeforces/1863/D.py)\
 [./Codeforces/1881/blockseq.py](./Codeforces/1881/blockseq.py)\
 [./Codeforces/1915/F.cpp](./Codeforces/1915/F.cpp)\
 [./Codeforces/1932/E.py](./Codeforces/1932/E.py)\
 [./Codeforces/1941/E.cpp](./Codeforces/1941/E.cpp)\
 [./Codeforces/1948/D.py](./Codeforces/1948/D.py)\
 [./Codeforces/1955/D.cpp](./Codeforces/1955/D.cpp)\
+[./Codeforces/1968/G1.py](./Codeforces/1968/G1.py)\
 [./Codeforces/1971/E.java](./Codeforces/1971/E.java)\
 [./Codeforces/1971/F.py](./Codeforces/1971/F.py)\
 [./Codeforces/1974/BeautifulTriple.java](./Codeforces/1974/BeautifulTriple.java)\
@@ -384,6 +391,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1974/phone_desktop.cpp](./Codeforces/1974/phone_desktop.cpp)\
 [./Codeforces/1980/gcd_seq.cpp](./Codeforces/1980/gcd_seq.cpp)\
 [./Codeforces/1981/B.py](./Codeforces/1981/B.py)\
+[./Codeforces/1982/B.py](./Codeforces/1982/B.py)\
 [./Codeforces/1983/array_div.py](./Codeforces/1983/array_div.py)\
 [./Codeforces/1983/corner_twist.cpp](./Codeforces/1983/corner_twist.cpp)\
 [./Codeforces/1983/have_your_cake.py](./Codeforces/1983/have_your_cake.py)\
@@ -510,6 +518,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2123/C.py](./Codeforces/2123/C.py)\
 [./Codeforces/2123/D.py](./Codeforces/2123/D.py)\
 [./Codeforces/2123/E.py](./Codeforces/2123/E.py)\
+[./Codeforces/2123/F.py](./Codeforces/2123/F.py)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -521,6 +530,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/349/cinema.py](./Codeforces/349/cinema.py)\
 [./Codeforces/371/k_period.cpp](./Codeforces/371/k_period.cpp)\
 [./Codeforces/441/antique.java](./Codeforces/441/antique.java)\
+[./Codeforces/459/pashmak_buses.py](./Codeforces/459/pashmak_buses.py)\
 [./Codeforces/459/pashmak_flower.cpp](./Codeforces/459/pashmak_flower.cpp)\
 [./Codeforces/461/B.cpp](./Codeforces/461/B.cpp)\
 [./Codeforces/463/caisa_pylons.py](./Codeforces/463/caisa_pylons.py)\
@@ -552,6 +562,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/702/cellular_network.cpp](./Codeforces/702/cellular_network.cpp)\
 [./Codeforces/705/spiderman.cpp](./Codeforces/705/spiderman.cpp)\
 [./Codeforces/706/hard_problem.cpp](./Codeforces/706/hard_problem.cpp)\
+[./Codeforces/71/C.py](./Codeforces/71/C.py)\
 [./Codeforces/711/udayland.java](./Codeforces/711/udayland.java)\
 [./Codeforces/735/urbanization.cpp](./Codeforces/735/urbanization.cpp)\
 [./Codeforces/755/poland-ball_forest.py](./Codeforces/755/poland-ball_forest.py)\
