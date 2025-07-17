@@ -12,7 +12,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 - `.kt`
 
 
-### Total Files: 1050
+### Total Files: 1059
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -180,6 +180,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1251/broken_keyboard.cpp](./Codeforces/1251/broken_keyboard.cpp)\
 [./Codeforces/1266/comp_prog.java](./Codeforces/1266/comp_prog.java)\
 [./Codeforces/1266/dice_tower.java](./Codeforces/1266/dice_tower.java)\
+[./Codeforces/1267/J.py](./Codeforces/1267/J.py)\
 [./Codeforces/1269/ModEq.java](./Codeforces/1269/ModEq.java)\
 [./Codeforces/1284/ascent.java](./Codeforces/1284/ascent.java)\
 [./Codeforces/1287/hyperset.py](./Codeforces/1287/hyperset.py)\
@@ -436,7 +437,8 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2009/freyafrog.py](./Codeforces/2009/freyafrog.py)\
 [./Codeforces/2009/minimize.py](./Codeforces/2009/minimize.py)\
 [./Codeforces/2009/osumania.py](./Codeforces/2009/osumania.py)\
-[./Codeforces/2014/robinhelps.py](./Codeforces/2014/robinhelps.py)\
+[./Codeforces/2014/A.py](./Codeforces/2014/A.py)\
+[./Codeforces/2014/E.cpp](./Codeforces/2014/E.cpp)\
 [./Codeforces/2019/maxplussize.py](./Codeforces/2019/maxplussize.py)\
 [./Codeforces/2022/B.py](./Codeforces/2022/B.py)\
 [./Codeforces/2027/A.py](./Codeforces/2027/A.py)\
@@ -519,6 +521,12 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/2123/D.py](./Codeforces/2123/D.py)\
 [./Codeforces/2123/E.py](./Codeforces/2123/E.py)\
 [./Codeforces/2123/F.py](./Codeforces/2123/F.py)\
+[./Codeforces/2126/A.py](./Codeforces/2126/A.py)\
+[./Codeforces/2126/B.py](./Codeforces/2126/B.py)\
+[./Codeforces/2126/C.py](./Codeforces/2126/C.py)\
+[./Codeforces/2126/D.py](./Codeforces/2126/D.py)\
+[./Codeforces/2126/E.py](./Codeforces/2126/E.py)\
+[./Codeforces/2126/F.cpp](./Codeforces/2126/F.cpp)\
 [./Codeforces/220/elephant_problem.java](./Codeforces/220/elephant_problem.java)\
 [./Codeforces/224/parallelepiped.java](./Codeforces/224/parallelepiped.java)\
 [./Codeforces/279/books.cpp](./Codeforces/279/books.cpp)\
@@ -590,6 +598,7 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/835/board.cpp](./Codeforces/835/board.cpp)\
 [./Codeforces/85/domino.cpp](./Codeforces/85/domino.cpp)\
 [./Codeforces/856/set_theory.cpp](./Codeforces/856/set_theory.cpp)\
+[./Codeforces/858/D.py](./Codeforces/858/D.py)\
 [./Codeforces/858/k_round.cpp](./Codeforces/858/k_round.cpp)\
 [./Codeforces/862/mahmoud_ehab_bipartiteness.cpp](./Codeforces/862/mahmoud_ehab_bipartiteness.cpp)\
 [./Codeforces/864/make_a_perm.py](./Codeforces/864/make_a_perm.py)\
