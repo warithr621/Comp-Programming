@@ -1,18 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-Note that the "Total Files" count below only includes programming files, i.e. those with the following extensions:
-- `.java`
-- `.cpp`
-- `.py`
-- `.php`
-- `.js`
-- `.go`
-- `.c`
-- `.kt`
-
-
-### Total Files: 1060
+### Total Files: 1048
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -127,7 +116,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1038/C.py](./Codeforces/1038/C.py)\
 [./Codeforces/1056/B.cpp](./Codeforces/1056/B.cpp)\
 [./Codeforces/1059/A.java](./Codeforces/1059/A.java)\
-[./Codeforces/1061/A.go](./Codeforces/1061/A.go)\
 [./Codeforces/1085/A.py](./Codeforces/1085/A.py)\
 [./Codeforces/1085/B.py](./Codeforces/1085/B.py)\
 [./Codeforces/1085/C.cpp](./Codeforces/1085/C.cpp)\
@@ -186,7 +174,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1294/C.cpp](./Codeforces/1294/C.cpp)\
 [./Codeforces/1299/A.py](./Codeforces/1299/A.py)\
 [./Codeforces/1305/C.py](./Codeforces/1305/C.py)\
-[./Codeforces/1312/B.go](./Codeforces/1312/B.go)\
 [./Codeforces/1315/C.py](./Codeforces/1315/C.py)\
 [./Codeforces/1320/A.java](./Codeforces/1320/A.java)\
 [./Codeforces/1324/A.cpp](./Codeforces/1324/A.cpp)\
@@ -243,7 +230,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1523/B.cpp](./Codeforces/1523/B.cpp)\
 [./Codeforces/1528/A.cpp](./Codeforces/1528/A.cpp)\
 [./Codeforces/1530/A.java](./Codeforces/1530/A.java)\
-[./Codeforces/1533/A.kt](./Codeforces/1533/A.kt)\
 [./Codeforces/1535/A.py](./Codeforces/1535/A.py)\
 [./Codeforces/1536/B.java](./Codeforces/1536/B.java)\
 [./Codeforces/1537/A.py](./Codeforces/1537/A.py)\
@@ -256,7 +242,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1547/A.java](./Codeforces/1547/A.java)\
 [./Codeforces/1547/B.java](./Codeforces/1547/B.java)\
 [./Codeforces/1547/C.java](./Codeforces/1547/C.java)\
-[./Codeforces/1547/D.php](./Codeforces/1547/D.php)\
 [./Codeforces/1549/A.py](./Codeforces/1549/A.py)\
 [./Codeforces/1549/B.cpp](./Codeforces/1549/B.cpp)\
 [./Codeforces/1550/A.java](./Codeforces/1550/A.java)\
@@ -267,7 +252,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1554/A.cpp](./Codeforces/1554/A.cpp)\
 [./Codeforces/1554/B.cpp](./Codeforces/1554/B.cpp)\
 [./Codeforces/1554/D.cpp](./Codeforces/1554/D.cpp)\
-[./Codeforces/1555/A.go](./Codeforces/1555/A.go)\
 [./Codeforces/1556/A.py](./Codeforces/1556/A.py)\
 [./Codeforces/1557/A.cpp](./Codeforces/1557/A.cpp)\
 [./Codeforces/1557/B.java](./Codeforces/1557/B.java)\
@@ -294,8 +278,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/1696/C.py](./Codeforces/1696/C.py)\
 [./Codeforces/1698/D.py](./Codeforces/1698/D.py)\
 [./Codeforces/1702/E.cpp](./Codeforces/1702/E.cpp)\
-[./Codeforces/1713/A.php](./Codeforces/1713/A.php)\
-[./Codeforces/1713/B.php](./Codeforces/1713/B.php)\
 [./Codeforces/1714/A.cpp](./Codeforces/1714/A.cpp)\
 [./Codeforces/1714/B.cpp](./Codeforces/1714/B.cpp)\
 [./Codeforces/1714/C.cpp](./Codeforces/1714/C.cpp)\
@@ -534,7 +516,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/312/B.java](./Codeforces/312/B.java)\
 [./Codeforces/313/C.cpp](./Codeforces/313/C.cpp)\
 [./Codeforces/32/B.java](./Codeforces/32/B.java)\
-[./Codeforces/334/A.go](./Codeforces/334/A.go)\
 [./Codeforces/349/A.py](./Codeforces/349/A.py)\
 [./Codeforces/371/A.cpp](./Codeforces/371/A.cpp)\
 [./Codeforces/441/A.java](./Codeforces/441/A.java)\
@@ -603,9 +584,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Codeforces/858/D.py](./Codeforces/858/D.py)\
 [./Codeforces/862/B.cpp](./Codeforces/862/B.cpp)\
 [./Codeforces/864/D.py](./Codeforces/864/D.py)\
-[./Codeforces/868/A.php](./Codeforces/868/A.php)\
-[./Codeforces/868/B.php](./Codeforces/868/B.php)\
-[./Codeforces/876/A.go](./Codeforces/876/A.go)\
 [./Codeforces/883/F.py](./Codeforces/883/F.py)\
 [./Codeforces/888/D.cpp](./Codeforces/888/D.cpp)\
 [./Codeforces/898/E.cpp](./Codeforces/898/E.cpp)\
@@ -978,7 +956,6 @@ Note that the "Total Files" count below only includes programming files, i.e. th
 [./Leetcode/Medium/50.java](./Leetcode/Medium/50.java)\
 [./Leetcode/Medium/515.java](./Leetcode/Medium/515.java)\
 [./Leetcode/Medium/525.java](./Leetcode/Medium/525.java)\
-[./Leetcode/Medium/53.go](./Leetcode/Medium/53.go)\
 [./Leetcode/Medium/539.java](./Leetcode/Medium/539.java)\
 [./Leetcode/Medium/54.java](./Leetcode/Medium/54.java)\
 [./Leetcode/Medium/55.cpp](./Leetcode/Medium/55.cpp)\
