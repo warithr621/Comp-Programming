@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1048
+### Total Files: 1058
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -116,6 +116,7 @@
 [./Codeforces/1038/C.py](./Codeforces/1038/C.py)\
 [./Codeforces/1056/B.cpp](./Codeforces/1056/B.cpp)\
 [./Codeforces/1059/A.java](./Codeforces/1059/A.java)\
+[./Codeforces/1083/A.cpp](./Codeforces/1083/A.cpp)\
 [./Codeforces/1085/A.py](./Codeforces/1085/A.py)\
 [./Codeforces/1085/B.py](./Codeforces/1085/B.py)\
 [./Codeforces/1085/C.cpp](./Codeforces/1085/C.cpp)\
@@ -189,6 +190,7 @@
 [./Codeforces/1359/C.py](./Codeforces/1359/C.py)\
 [./Codeforces/1360/D.cpp](./Codeforces/1360/D.cpp)\
 [./Codeforces/1363/A.cpp](./Codeforces/1363/A.cpp)\
+[./Codeforces/1363/E.cpp](./Codeforces/1363/E.cpp)\
 [./Codeforces/1364/B.py](./Codeforces/1364/B.py)\
 [./Codeforces/1365/A.cpp](./Codeforces/1365/A.cpp)\
 [./Codeforces/1365/B.cpp](./Codeforces/1365/B.cpp)\
@@ -216,6 +218,7 @@
 [./Codeforces/1428/A.java](./Codeforces/1428/A.java)\
 [./Codeforces/1428/B.java](./Codeforces/1428/B.java)\
 [./Codeforces/1428/C.java](./Codeforces/1428/C.java)\
+[./Codeforces/1430/B.py](./Codeforces/1430/B.py)\
 [./Codeforces/1433/B.py](./Codeforces/1433/B.py)\
 [./Codeforces/1437/D.cpp](./Codeforces/1437/D.cpp)\
 [./Codeforces/1450/B.cpp](./Codeforces/1450/B.cpp)\
@@ -337,6 +340,7 @@
 [./Codeforces/1779/A.py](./Codeforces/1779/A.py)\
 [./Codeforces/1779/B.py](./Codeforces/1779/B.py)\
 [./Codeforces/1797/C.java](./Codeforces/1797/C.java)\
+[./Codeforces/1804/B.py](./Codeforces/1804/B.py)\
 [./Codeforces/182/D.cpp](./Codeforces/182/D.cpp)\
 [./Codeforces/1826/A.cpp](./Codeforces/1826/A.cpp)\
 [./Codeforces/1826/D.cpp](./Codeforces/1826/D.cpp)\
@@ -445,6 +449,7 @@
 [./Codeforces/2072/F.py](./Codeforces/2072/F.py)\
 [./Codeforces/2075/A.py](./Codeforces/2075/A.py)\
 [./Codeforces/2075/B.py](./Codeforces/2075/B.py)\
+[./Codeforces/2081/A.py](./Codeforces/2081/A.py)\
 [./Codeforces/2084/A.py](./Codeforces/2084/A.py)\
 [./Codeforces/2084/B.py](./Codeforces/2084/B.py)\
 [./Codeforces/2085/C.py](./Codeforces/2085/C.py)\
@@ -504,6 +509,10 @@
 [./Codeforces/2123/D.py](./Codeforces/2123/D.py)\
 [./Codeforces/2123/E.py](./Codeforces/2123/E.py)\
 [./Codeforces/2123/F.py](./Codeforces/2123/F.py)\
+[./Codeforces/2125/A.py](./Codeforces/2125/A.py)\
+[./Codeforces/2125/B.py](./Codeforces/2125/B.py)\
+[./Codeforces/2125/C.py](./Codeforces/2125/C.py)\
+[./Codeforces/2125/D.py](./Codeforces/2125/D.py)\
 [./Codeforces/2126/A.py](./Codeforces/2126/A.py)\
 [./Codeforces/2126/B.py](./Codeforces/2126/B.py)\
 [./Codeforces/2126/C.py](./Codeforces/2126/C.py)\
@@ -511,6 +520,7 @@
 [./Codeforces/2126/E.py](./Codeforces/2126/E.py)\
 [./Codeforces/220/A.java](./Codeforces/220/A.java)\
 [./Codeforces/224/A.java](./Codeforces/224/A.java)\
+[./Codeforces/246/C.py](./Codeforces/246/C.py)\
 [./Codeforces/279/B.cpp](./Codeforces/279/B.cpp)\
 [./Codeforces/289/A.py](./Codeforces/289/A.py)\
 [./Codeforces/312/B.java](./Codeforces/312/B.java)\
