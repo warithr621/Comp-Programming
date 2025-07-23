@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1058
+### Total Files: 1037
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
@@ -29,6 +29,7 @@
 [./CSES/Graph-Algos/flight_routes_check.cpp](./CSES/Graph-Algos/flight_routes_check.cpp)\
 [./CSES/Graph-Algos/labyrinth.cpp](./CSES/Graph-Algos/labyrinth.cpp)\
 [./CSES/Graph-Algos/message_route.cpp](./CSES/Graph-Algos/message_route.cpp)\
+[./CSES/Graph-Algos/monsters.cpp](./CSES/Graph-Algos/monsters.cpp)\
 [./CSES/Graph-Algos/round_trip.cpp](./CSES/Graph-Algos/round_trip.cpp)\
 [./CSES/Graph-Algos/shortest_routes_i.cpp](./CSES/Graph-Algos/shortest_routes_i.cpp)\
 [./CSES/Graph-Algos/shortest_routes_ii.py](./CSES/Graph-Algos/shortest_routes_ii.py)\
@@ -69,7 +70,9 @@
 [./CSES/Mathematics/div_analysis.cpp](./CSES/Mathematics/div_analysis.cpp)\
 [./CSES/Mathematics/exp.cpp](./CSES/Mathematics/exp.cpp)\
 [./CSES/Mathematics/exp_ii.cpp](./CSES/Mathematics/exp_ii.cpp)\
+[./CSES/Mathematics/graph_paths_i.cpp](./CSES/Mathematics/graph_paths_i.cpp)\
 [./CSES/Mathematics/grundys_game.cpp](./CSES/Mathematics/grundys_game.cpp)\
+[./CSES/Mathematics/next_prime.cpp](./CSES/Mathematics/next_prime.cpp)\
 [./CSES/Mathematics/prime_multiples.cpp](./CSES/Mathematics/prime_multiples.cpp)\
 [./CSES/Mathematics/stick_game.cpp](./CSES/Mathematics/stick_game.cpp)\
 [./CSES/Mathematics/throwing_dice.cpp](./CSES/Mathematics/throwing_dice.cpp)\
@@ -79,7 +82,6 @@
 [./CSES/Range-Queries/range_xor_queries.py](./CSES/Range-Queries/range_xor_queries.py)\
 [./CSES/Range-Queries/srmq.cpp](./CSES/Range-Queries/srmq.cpp)\
 [./CSES/Range-Queries/static_range_sum_queries.cpp](./CSES/Range-Queries/static_range_sum_queries.cpp)\
-[./CSES/Sliding-Window/sliding_window_sum.cpp](./CSES/Sliding-Window/sliding_window_sum.cpp)\
 [./CSES/Sliding-Window/sliding_window_xor.cpp](./CSES/Sliding-Window/sliding_window_xor.cpp)\
 [./CSES/Sorting-and-Searching/MovieFest.java](./CSES/Sorting-and-Searching/MovieFest.java)\
 [./CSES/Sorting-and-Searching/RestCustomers.java](./CSES/Sorting-and-Searching/RestCustomers.java)\
@@ -88,11 +90,11 @@
 [./CSES/Sorting-and-Searching/collecting_nums.cpp](./CSES/Sorting-and-Searching/collecting_nums.cpp)\
 [./CSES/Sorting-and-Searching/concert_tickets.cpp](./CSES/Sorting-and-Searching/concert_tickets.cpp)\
 [./CSES/Sorting-and-Searching/distinct_numbers.cpp](./CSES/Sorting-and-Searching/distinct_numbers.cpp)\
+[./CSES/Sorting-and-Searching/factory_machines.cpp](./CSES/Sorting-and-Searching/factory_machines.cpp)\
 [./CSES/Sorting-and-Searching/ferris_wheel.cpp](./CSES/Sorting-and-Searching/ferris_wheel.cpp)\
 [./CSES/Sorting-and-Searching/josephus_problem_i.cpp](./CSES/Sorting-and-Searching/josephus_problem_i.cpp)\
 [./CSES/Sorting-and-Searching/max_subarr.cpp](./CSES/Sorting-and-Searching/max_subarr.cpp)\
 [./CSES/Sorting-and-Searching/miss_coin_sum.py](./CSES/Sorting-and-Searching/miss_coin_sum.py)\
-[./CSES/Sorting-and-Searching/monsters.cpp](./CSES/Sorting-and-Searching/monsters.cpp)\
 [./CSES/Sorting-and-Searching/movie_fest_ii.cpp](./CSES/Sorting-and-Searching/movie_fest_ii.cpp)\
 [./CSES/Sorting-and-Searching/nearest_smaller_vals.cpp](./CSES/Sorting-and-Searching/nearest_smaller_vals.cpp)\
 [./CSES/Sorting-and-Searching/playlist.cpp](./CSES/Sorting-and-Searching/playlist.cpp)\
@@ -105,6 +107,7 @@
 [./CSES/Sorting-and-Searching/sum_two_vals.cpp](./CSES/Sorting-and-Searching/sum_two_vals.cpp)\
 [./CSES/Sorting-and-Searching/task_deadline.cpp](./CSES/Sorting-and-Searching/task_deadline.cpp)\
 [./CSES/Sorting-and-Searching/towers.cpp](./CSES/Sorting-and-Searching/towers.cpp)\
+[./CSES/Sorting-and-Searching/traffic_lights.cpp](./CSES/Sorting-and-Searching/traffic_lights.cpp)\
 [./CSES/String-Algos/string_matching.cpp](./CSES/String-Algos/string_matching.cpp)\
 [./CSES/Tree-Algos/distq.cpp](./CSES/Tree-Algos/distq.cpp)\
 [./CSES/Tree-Algos/subord.cpp](./CSES/Tree-Algos/subord.cpp)\
@@ -437,6 +440,7 @@
 [./Codeforces/2047/C.cpp](./Codeforces/2047/C.cpp)\
 [./Codeforces/2048/A.py](./Codeforces/2048/A.py)\
 [./Codeforces/2048/B.py](./Codeforces/2048/B.py)\
+[./Codeforces/2049/C.py](./Codeforces/2049/C.py)\
 [./Codeforces/2050/A.cpp](./Codeforces/2050/A.cpp)\
 [./Codeforces/2050/B.cpp](./Codeforces/2050/B.cpp)\
 [./Codeforces/2050/C.cpp](./Codeforces/2050/C.cpp)\
@@ -618,6 +622,29 @@
 [./Codeforces/992/A.java](./Codeforces/992/A.java)\
 [./Codeforces/992/B.py](./Codeforces/992/B.py)\
 [./Codeforces/999/B.cpp](./Codeforces/999/B.cpp)\
+[./ICPC/NAQ19/A.py](./ICPC/NAQ19/A.py)\
+[./ICPC/NAQ19/C.cpp](./ICPC/NAQ19/C.cpp)\
+[./ICPC/NAQ19/D.py](./ICPC/NAQ19/D.py)\
+[./ICPC/NAQ21/C.java](./ICPC/NAQ21/C.java)\
+[./ICPC/NAQ21/E.java](./ICPC/NAQ21/E.java)\
+[./ICPC/NAQ21/G.java](./ICPC/NAQ21/G.java)\
+[./ICPC/NAQ21/H.java](./ICPC/NAQ21/H.java)\
+[./ICPC/NAQ21/K.java](./ICPC/NAQ21/K.java)\
+[./ICPC/NAQ21/M.java](./ICPC/NAQ21/M.java)\
+[./ICPC/NAQ22/C.cpp](./ICPC/NAQ22/C.cpp)\
+[./ICPC/NAQ22/D.cpp](./ICPC/NAQ22/D.cpp)\
+[./ICPC/NAQ22/F.cpp](./ICPC/NAQ22/F.cpp)\
+[./ICPC/NAQ22/K.cpp](./ICPC/NAQ22/K.cpp)\
+[./ICPC/NAQ23/A.java](./ICPC/NAQ23/A.java)\
+[./ICPC/NAQ23/F.cpp](./ICPC/NAQ23/F.cpp)\
+[./ICPC/NAQ23/G.cpp](./ICPC/NAQ23/G.cpp)\
+[./ICPC/NAQ23/H.cpp](./ICPC/NAQ23/H.cpp)\
+[./ICPC/NAQ23/L.cpp](./ICPC/NAQ23/L.cpp)\
+[./ICPC/NAQ24/B.cpp](./ICPC/NAQ24/B.cpp)\
+[./ICPC/NAQ24/C.cpp](./ICPC/NAQ24/C.cpp)\
+[./ICPC/NAQ24/E.cpp](./ICPC/NAQ24/E.cpp)\
+[./ICPC/NAQ24/F.cpp](./ICPC/NAQ24/F.cpp)\
+[./ICPC/NAQ24/I.cpp](./ICPC/NAQ24/I.cpp)\
 [./Leetcode/Easy/100.py](./Leetcode/Easy/100.py)\
 [./Leetcode/Easy/101.java](./Leetcode/Easy/101.java)\
 [./Leetcode/Easy/104.py](./Leetcode/Easy/104.py)\
@@ -1011,52 +1038,4 @@
 [./Leetcode/Medium/959.java](./Leetcode/Medium/959.java)\
 [./Leetcode/Medium/962.java](./Leetcode/Medium/962.java)\
 [./Leetcode/Medium/973.java](./Leetcode/Medium/973.java)\
-[./Leetcode/Medium/994.java](./Leetcode/Medium/994.java)\
-[./UniComps/ICPC/NAQ19/A.py](./UniComps/ICPC/NAQ19/A.py)\
-[./UniComps/ICPC/NAQ19/C.cpp](./UniComps/ICPC/NAQ19/C.cpp)\
-[./UniComps/ICPC/NAQ19/D.py](./UniComps/ICPC/NAQ19/D.py)\
-[./UniComps/ICPC/NAQ21/C.java](./UniComps/ICPC/NAQ21/C.java)\
-[./UniComps/ICPC/NAQ21/E.java](./UniComps/ICPC/NAQ21/E.java)\
-[./UniComps/ICPC/NAQ21/G.java](./UniComps/ICPC/NAQ21/G.java)\
-[./UniComps/ICPC/NAQ21/H.java](./UniComps/ICPC/NAQ21/H.java)\
-[./UniComps/ICPC/NAQ21/K.java](./UniComps/ICPC/NAQ21/K.java)\
-[./UniComps/ICPC/NAQ21/M.java](./UniComps/ICPC/NAQ21/M.java)\
-[./UniComps/ICPC/NAQ22/C.cpp](./UniComps/ICPC/NAQ22/C.cpp)\
-[./UniComps/ICPC/NAQ22/D.cpp](./UniComps/ICPC/NAQ22/D.cpp)\
-[./UniComps/ICPC/NAQ22/F.cpp](./UniComps/ICPC/NAQ22/F.cpp)\
-[./UniComps/ICPC/NAQ22/K.cpp](./UniComps/ICPC/NAQ22/K.cpp)\
-[./UniComps/ICPC/NAQ23/A.java](./UniComps/ICPC/NAQ23/A.java)\
-[./UniComps/ICPC/NAQ23/F.cpp](./UniComps/ICPC/NAQ23/F.cpp)\
-[./UniComps/ICPC/NAQ23/G.cpp](./UniComps/ICPC/NAQ23/G.cpp)\
-[./UniComps/ICPC/NAQ23/H.cpp](./UniComps/ICPC/NAQ23/H.cpp)\
-[./UniComps/ICPC/NAQ23/L.cpp](./UniComps/ICPC/NAQ23/L.cpp)\
-[./UniComps/ICPC/NAQ24/B.cpp](./UniComps/ICPC/NAQ24/B.cpp)\
-[./UniComps/ICPC/NAQ24/C.cpp](./UniComps/ICPC/NAQ24/C.cpp)\
-[./UniComps/ICPC/NAQ24/E.cpp](./UniComps/ICPC/NAQ24/E.cpp)\
-[./UniComps/ICPC/NAQ24/F.cpp](./UniComps/ICPC/NAQ24/F.cpp)\
-[./UniComps/ICPC/NAQ24/I.cpp](./UniComps/ICPC/NAQ24/I.cpp)\
-[./UniComps/UTPC/012925/C.cpp](./UniComps/UTPC/012925/C.cpp)\
-[./UniComps/UTPC/012925/G.cpp](./UniComps/UTPC/012925/G.cpp)\
-[./UniComps/UTPC/021225/A.py](./UniComps/UTPC/021225/A.py)\
-[./UniComps/UTPC/021225/B.py](./UniComps/UTPC/021225/B.py)\
-[./UniComps/UTPC/021225/C.cpp](./UniComps/UTPC/021225/C.cpp)\
-[./UniComps/UTPC/021225/G.cpp](./UniComps/UTPC/021225/G.cpp)\
-[./UniComps/UTPC/021225/J.py](./UniComps/UTPC/021225/J.py)\
-[./UniComps/UTPC/091324/A.py](./UniComps/UTPC/091324/A.py)\
-[./UniComps/UTPC/091324/B.py](./UniComps/UTPC/091324/B.py)\
-[./UniComps/UTPC/091324/C.cpp](./UniComps/UTPC/091324/C.cpp)\
-[./UniComps/UTPC/091324/D.cpp](./UniComps/UTPC/091324/D.cpp)\
-[./UniComps/UTPC/091324/G.java](./UniComps/UTPC/091324/G.java)\
-[./UniComps/UTPC/101124/A.py](./UniComps/UTPC/101124/A.py)\
-[./UniComps/UTPC/101124/B.py](./UniComps/UTPC/101124/B.py)\
-[./UniComps/UTPC/101124/C.cpp](./UniComps/UTPC/101124/C.cpp)\
-[./UniComps/UTPC/101124/D.cpp](./UniComps/UTPC/101124/D.cpp)\
-[./UniComps/UTPC/101124/E.py](./UniComps/UTPC/101124/E.py)\
-[./UniComps/UTPC/101124/F.cpp](./UniComps/UTPC/101124/F.cpp)\
-[./UniComps/UTPC/110824/A.py](./UniComps/UTPC/110824/A.py)\
-[./UniComps/UTPC/110824/B.py](./UniComps/UTPC/110824/B.py)\
-[./UniComps/UTPC/110824/C.cpp](./UniComps/UTPC/110824/C.cpp)\
-[./UniComps/UTPC/110824/D.cpp](./UniComps/UTPC/110824/D.cpp)\
-[./UniComps/UTPC/110824/E.py](./UniComps/UTPC/110824/E.py)\
-[./UniComps/UTPC/110824/F.cpp](./UniComps/UTPC/110824/F.cpp)\
-[./UniComps/UTPC/112024/D.cpp](./UniComps/UTPC/112024/D.cpp)
+[./Leetcode/Medium/994.java](./Leetcode/Medium/994.java)

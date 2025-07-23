@@ -1,1 +1,0 @@
-print("I am Darwinning!" if int(input()) % 2 == 0 else "I lost the game.")
