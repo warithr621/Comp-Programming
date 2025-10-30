@@ -11,10 +11,9 @@ class Solution {
         }
         int ans = 0;
         while (!pq.isEmpty()) {
-            int cycle = n+1;
             List<Integer> cur = new ArrayList<>();
             int cnt = 0;
-            while (cycle-- > 0 && !pq.isEmpty()) {
+            for (int i = 0; i <= n && !pq.isEmpty(); i++) {
                 int tmp = pq.poll();
                 if (tmp > 1) cur.add(tmp - 1);
                 ++cnt;
