@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1163
+### Total Files: 1200
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -121,6 +121,8 @@
 [./CSES/Tree-Algos/distq.cpp](./CSES/Tree-Algos/distq.cpp)\
 [./CSES/Tree-Algos/subord.cpp](./CSES/Tree-Algos/subord.cpp)\
 [./CSES/Tree-Algos/tree_diameter.cpp](./CSES/Tree-Algos/tree_diameter.cpp)\
+[./Codeforces/C.py](./Codeforces/C.py)\
+[./Codeforces/D.py](./Codeforces/D.py)\
 [./Codeforces/1020/B.java](./Codeforces/1020/B.java)\
 [./Codeforces/1025/B.py](./Codeforces/1025/B.py)\
 [./Codeforces/1038/A.cpp](./Codeforces/1038/A.cpp)\
@@ -177,6 +179,7 @@
 [./Codeforces/1203/F2.cpp](./Codeforces/1203/F2.cpp)\
 [./Codeforces/1204/A.java](./Codeforces/1204/A.java)\
 [./Codeforces/1208/A.cpp](./Codeforces/1208/A.cpp)\
+[./Codeforces/1213/E.py](./Codeforces/1213/E.py)\
 [./Codeforces/1215/C.java](./Codeforces/1215/C.java)\
 [./Codeforces/1225/D.py](./Codeforces/1225/D.py)\
 [./Codeforces/1227/A.py](./Codeforces/1227/A.py)\
@@ -207,6 +210,7 @@
 [./Codeforces/1324/D.cpp](./Codeforces/1324/D.cpp)\
 [./Codeforces/1326/A.py](./Codeforces/1326/A.py)\
 [./Codeforces/1327/C.cpp](./Codeforces/1327/C.cpp)\
+[./Codeforces/1327/D.java](./Codeforces/1327/D.java)\
 [./Codeforces/1333/B.cpp](./Codeforces/1333/B.cpp)\
 [./Codeforces/1335/C.java](./Codeforces/1335/C.java)\
 [./Codeforces/1339/C.cpp](./Codeforces/1339/C.cpp)\
@@ -257,6 +261,7 @@
 [./Codeforces/1462/E1.java](./Codeforces/1462/E1.java)\
 [./Codeforces/1465/A.cpp](./Codeforces/1465/A.cpp)\
 [./Codeforces/1466/D.cpp](./Codeforces/1466/D.cpp)\
+[./Codeforces/1486/C2.py](./Codeforces/1486/C2.py)\
 [./Codeforces/1501/A.cpp](./Codeforces/1501/A.cpp)\
 [./Codeforces/152/C.py](./Codeforces/152/C.py)\
 [./Codeforces/1523/B.cpp](./Codeforces/1523/B.cpp)\
@@ -408,6 +413,7 @@
 [./Codeforces/1881/E.py](./Codeforces/1881/E.py)\
 [./Codeforces/1912/K.cpp](./Codeforces/1912/K.cpp)\
 [./Codeforces/1915/F.cpp](./Codeforces/1915/F.cpp)\
+[./Codeforces/1921/E.py](./Codeforces/1921/E.py)\
 [./Codeforces/1923/C.py](./Codeforces/1923/C.py)\
 [./Codeforces/1932/E.py](./Codeforces/1932/E.py)\
 [./Codeforces/1941/E.cpp](./Codeforces/1941/E.cpp)\
@@ -739,6 +745,32 @@
 [./ICPC/NAQ25/J.py](./ICPC/NAQ25/J.py)\
 [./ICPC/NAQ25/K.py](./ICPC/NAQ25/K.py)\
 [./ICPC/NAQ25/L.py](./ICPC/NAQ25/L.py)\
+[./ICPC/SCUSA22/cut.py](./ICPC/SCUSA22/cut.py)\
+[./ICPC/SCUSA22/nucleotide.py](./ICPC/SCUSA22/nucleotide.py)\
+[./ICPC/SCUSA22/pea.py](./ICPC/SCUSA22/pea.py)\
+[./ICPC/SCUSA22/savings.py](./ICPC/SCUSA22/savings.py)\
+[./ICPC/SCUSA23/acappella.py](./ICPC/SCUSA23/acappella.py)\
+[./ICPC/SCUSA23/chaperone.py](./ICPC/SCUSA23/chaperone.py)\
+[./ICPC/SCUSA23/diverse.py](./ICPC/SCUSA23/diverse.py)\
+[./ICPC/SCUSA23/fourdie.py](./ICPC/SCUSA23/fourdie.py)\
+[./ICPC/SCUSA23/ordered.py](./ICPC/SCUSA23/ordered.py)\
+[./ICPC/SCUSA23/sevens.py](./ICPC/SCUSA23/sevens.py)\
+[./ICPC/SCUSA23/training.py](./ICPC/SCUSA23/training.py)\
+[./ICPC/SCUSA24/Elevated.java](./ICPC/SCUSA24/Elevated.java)\
+[./ICPC/SCUSA24/cards.cpp](./ICPC/SCUSA24/cards.cpp)\
+[./ICPC/SCUSA24/herb.cpp](./ICPC/SCUSA24/herb.cpp)\
+[./ICPC/SCUSA24/larger.py](./ICPC/SCUSA24/larger.py)\
+[./ICPC/SCUSA24/memories.cpp](./ICPC/SCUSA24/memories.cpp)\
+[./ICPC/SCUSA24/office.cpp](./ICPC/SCUSA24/office.cpp)\
+[./ICPC/SCUSA24/traffic.cpp](./ICPC/SCUSA24/traffic.cpp)\
+[./ICPC/SCUSA24/tri_square.cpp](./ICPC/SCUSA24/tri_square.cpp)\
+[./ICPC/SCUSA24/welcome.cpp](./ICPC/SCUSA24/welcome.cpp)\
+[./ICPC/SCUSA25/guid.cpp](./ICPC/SCUSA25/guid.cpp)\
+[./ICPC/SCUSA25/meeting.cpp](./ICPC/SCUSA25/meeting.cpp)\
+[./ICPC/SCUSA25/mushrooms.cpp](./ICPC/SCUSA25/mushrooms.cpp)\
+[./ICPC/SCUSA25/nines.cpp](./ICPC/SCUSA25/nines.cpp)\
+[./ICPC/SCUSA25/photo.cpp](./ICPC/SCUSA25/photo.cpp)\
+[./ICPC/SCUSA25/tree.py](./ICPC/SCUSA25/tree.py)\
 [./Leetcode/1696.java](./Leetcode/1696.java)\
 [./Leetcode/Easy/100.py](./Leetcode/Easy/100.py)\
 [./Leetcode/Easy/101.java](./Leetcode/Easy/101.java)\
@@ -805,6 +837,7 @@
 [./Leetcode/Easy/2236.java](./Leetcode/Easy/2236.java)\
 [./Leetcode/Easy/2239.java](./Leetcode/Easy/2239.java)\
 [./Leetcode/Easy/226.py](./Leetcode/Easy/226.py)\
+[./Leetcode/Easy/2273.java](./Leetcode/Easy/2273.java)\
 [./Leetcode/Easy/228.cpp](./Leetcode/Easy/228.cpp)\
 [./Leetcode/Easy/2418.cpp](./Leetcode/Easy/2418.cpp)\
 [./Leetcode/Easy/2460.java](./Leetcode/Easy/2460.java)\
@@ -857,6 +890,7 @@
 [./Leetcode/Easy/67.cpp](./Leetcode/Easy/67.cpp)\
 [./Leetcode/Easy/682.cpp](./Leetcode/Easy/682.cpp)\
 [./Leetcode/Easy/69.py](./Leetcode/Easy/69.py)\
+[./Leetcode/Easy/696.java](./Leetcode/Easy/696.java)\
 [./Leetcode/Easy/70.py](./Leetcode/Easy/70.py)\
 [./Leetcode/Easy/704.cpp](./Leetcode/Easy/704.cpp)\
 [./Leetcode/Easy/746.java](./Leetcode/Easy/746.java)\
@@ -1099,6 +1133,7 @@
 [./Leetcode/Medium/36.cpp](./Leetcode/Medium/36.cpp)\
 [./Leetcode/Medium/371.java](./Leetcode/Medium/371.java)\
 [./Leetcode/Medium/38.java](./Leetcode/Medium/38.java)\
+[./Leetcode/Medium/384.java](./Leetcode/Medium/384.java)\
 [./Leetcode/Medium/386.java](./Leetcode/Medium/386.java)\
 [./Leetcode/Medium/417.java](./Leetcode/Medium/417.java)\
 [./Leetcode/Medium/424.java](./Leetcode/Medium/424.java)\
@@ -1106,12 +1141,14 @@
 [./Leetcode/Medium/45.cpp](./Leetcode/Medium/45.cpp)\
 [./Leetcode/Medium/451.java](./Leetcode/Medium/451.java)\
 [./Leetcode/Medium/48.java](./Leetcode/Medium/48.java)\
+[./Leetcode/Medium/486.java](./Leetcode/Medium/486.java)\
 [./Leetcode/Medium/49.cpp](./Leetcode/Medium/49.cpp)\
 [./Leetcode/Medium/498.java](./Leetcode/Medium/498.java)\
 [./Leetcode/Medium/50.java](./Leetcode/Medium/50.java)\
 [./Leetcode/Medium/515.java](./Leetcode/Medium/515.java)\
 [./Leetcode/Medium/525.java](./Leetcode/Medium/525.java)\
 [./Leetcode/Medium/526.java](./Leetcode/Medium/526.java)\
+[./Leetcode/Medium/53.java](./Leetcode/Medium/53.java)\
 [./Leetcode/Medium/539.java](./Leetcode/Medium/539.java)\
 [./Leetcode/Medium/54.java](./Leetcode/Medium/54.java)\
 [./Leetcode/Medium/55.cpp](./Leetcode/Medium/55.cpp)\
@@ -1133,7 +1170,7 @@
 [./Leetcode/Medium/72.java](./Leetcode/Medium/72.java)\
 [./Leetcode/Medium/725.java](./Leetcode/Medium/725.java)\
 [./Leetcode/Medium/729.cpp](./Leetcode/Medium/729.cpp)\
-[./Leetcode/Medium/73.cpp](./Leetcode/Medium/73.cpp)\
+[./Leetcode/Medium/73.java](./Leetcode/Medium/73.java)\
 [./Leetcode/Medium/731.cpp](./Leetcode/Medium/731.cpp)\
 [./Leetcode/Medium/739.java](./Leetcode/Medium/739.java)\
 [./Leetcode/Medium/74.cpp](./Leetcode/Medium/74.cpp)\
