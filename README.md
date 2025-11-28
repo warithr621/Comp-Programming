@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1200
+### Total Files: 1214
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -10,6 +10,7 @@
 [./CSES/Bitwise/xor_pyramid_diagonal.py](./CSES/Bitwise/xor_pyramid_diagonal.py)\
 [./CSES/Bitwise/xor_pyramid_peak.cpp](./CSES/Bitwise/xor_pyramid_peak.cpp)\
 [./CSES/Counting-Problems/counting_seqs.py](./CSES/Counting-Problems/counting_seqs.py)\
+[./CSES/Dynamic-Programming/array_description.py](./CSES/Dynamic-Programming/array_description.py)\
 [./CSES/Dynamic-Programming/book_shop.cpp](./CSES/Dynamic-Programming/book_shop.cpp)\
 [./CSES/Dynamic-Programming/coin_combo_i.cpp](./CSES/Dynamic-Programming/coin_combo_i.cpp)\
 [./CSES/Dynamic-Programming/coin_combo_ii.cpp](./CSES/Dynamic-Programming/coin_combo_ii.cpp)\
@@ -20,6 +21,7 @@
 [./CSES/Dynamic-Programming/increasing_subsequence.cpp](./CSES/Dynamic-Programming/increasing_subsequence.cpp)\
 [./CSES/Dynamic-Programming/min_coins.cpp](./CSES/Dynamic-Programming/min_coins.cpp)\
 [./CSES/Dynamic-Programming/money_sums.cpp](./CSES/Dynamic-Programming/money_sums.cpp)\
+[./CSES/Dynamic-Programming/projects.py](./CSES/Dynamic-Programming/projects.py)\
 [./CSES/Dynamic-Programming/rect_cutting.cpp](./CSES/Dynamic-Programming/rect_cutting.cpp)\
 [./CSES/Dynamic-Programming/removal_game.cpp](./CSES/Dynamic-Programming/removal_game.cpp)\
 [./CSES/Dynamic-Programming/removing_digits.py](./CSES/Dynamic-Programming/removing_digits.py)\
@@ -41,7 +43,6 @@
 [./CSES/Interactive/hidden_integer.py](./CSES/Interactive/hidden_integer.py)\
 [./CSES/Introductory-Problems/AppleDiv.java](./CSES/Introductory-Problems/AppleDiv.java)\
 [./CSES/Introductory-Problems/DigitQueries.java](./CSES/Introductory-Problems/DigitQueries.java)\
-[./CSES/Introductory-Problems/MissNum.java](./CSES/Introductory-Problems/MissNum.java)\
 [./CSES/Introductory-Problems/bit_strings.cpp](./CSES/Introductory-Problems/bit_strings.cpp)\
 [./CSES/Introductory-Problems/chessboard_and_queens.cpp](./CSES/Introductory-Problems/chessboard_and_queens.cpp)\
 [./CSES/Introductory-Problems/coin_piles.cpp](./CSES/Introductory-Problems/coin_piles.cpp)\
@@ -50,6 +51,8 @@
 [./CSES/Introductory-Problems/grid_coloring_i.cpp](./CSES/Introductory-Problems/grid_coloring_i.cpp)\
 [./CSES/Introductory-Problems/increasing_arr.cpp](./CSES/Introductory-Problems/increasing_arr.cpp)\
 [./CSES/Introductory-Problems/knight_moves.cpp](./CSES/Introductory-Problems/knight_moves.cpp)\
+[./CSES/Introductory-Problems/mex_grid_construct.py](./CSES/Introductory-Problems/mex_grid_construct.py)\
+[./CSES/Introductory-Problems/missing_number.py](./CSES/Introductory-Problems/missing_number.py)\
 [./CSES/Introductory-Problems/num_spiral.cpp](./CSES/Introductory-Problems/num_spiral.cpp)\
 [./CSES/Introductory-Problems/palindrome_reorder.cpp](./CSES/Introductory-Problems/palindrome_reorder.cpp)\
 [./CSES/Introductory-Problems/perm.cpp](./CSES/Introductory-Problems/perm.cpp)\
@@ -131,6 +134,7 @@
 [./Codeforces/1056/B.cpp](./Codeforces/1056/B.cpp)\
 [./Codeforces/1059/A.java](./Codeforces/1059/A.java)\
 [./Codeforces/1068/B.py](./Codeforces/1068/B.py)\
+[./Codeforces/1082/B.py](./Codeforces/1082/B.py)\
 [./Codeforces/1082/C.py](./Codeforces/1082/C.py)\
 [./Codeforces/1082/E.py](./Codeforces/1082/E.py)\
 [./Codeforces/1083/A.cpp](./Codeforces/1083/A.cpp)\
@@ -302,6 +306,7 @@
 [./Codeforces/1619/D.py](./Codeforces/1619/D.py)\
 [./Codeforces/1622/C.py](./Codeforces/1622/C.py)\
 [./Codeforces/1624/D.py](./Codeforces/1624/D.py)\
+[./Codeforces/1628/D1.py](./Codeforces/1628/D1.py)\
 [./Codeforces/1638/A.java](./Codeforces/1638/A.java)\
 [./Codeforces/1638/B.java](./Codeforces/1638/B.java)\
 [./Codeforces/1638/C.java](./Codeforces/1638/C.java)\
@@ -332,6 +337,7 @@
 [./Codeforces/1730/A.py](./Codeforces/1730/A.py)\
 [./Codeforces/1731/A.cpp](./Codeforces/1731/A.cpp)\
 [./Codeforces/1731/B.py](./Codeforces/1731/B.py)\
+[./Codeforces/1731/E.py](./Codeforces/1731/E.py)\
 [./Codeforces/1733/A.py](./Codeforces/1733/A.py)\
 [./Codeforces/1734/A.py](./Codeforces/1734/A.py)\
 [./Codeforces/1734/B.py](./Codeforces/1734/B.py)\
@@ -602,7 +608,13 @@
 [./Codeforces/2131/C.py](./Codeforces/2131/C.py)\
 [./Codeforces/2131/E.py](./Codeforces/2131/E.py)\
 [./Codeforces/2132/B.py](./Codeforces/2132/B.py)\
+[./Codeforces/2132/C1.py](./Codeforces/2132/C1.py)\
 [./Codeforces/2152/A.py](./Codeforces/2152/A.py)\
+[./Codeforces/2169/C.py](./Codeforces/2169/C.py)\
+[./Codeforces/2170/A.py](./Codeforces/2170/A.py)\
+[./Codeforces/2170/B.py](./Codeforces/2170/B.py)\
+[./Codeforces/2170/C.py](./Codeforces/2170/C.py)\
+[./Codeforces/2170/E.py](./Codeforces/2170/E.py)\
 [./Codeforces/220/A.java](./Codeforces/220/A.java)\
 [./Codeforces/224/A.java](./Codeforces/224/A.java)\
 [./Codeforces/246/C.py](./Codeforces/246/C.py)\
@@ -774,6 +786,7 @@
 [./Leetcode/1696.java](./Leetcode/1696.java)\
 [./Leetcode/Easy/100.py](./Leetcode/Easy/100.py)\
 [./Leetcode/Easy/101.java](./Leetcode/Easy/101.java)\
+[./Leetcode/Easy/1018.cpp](./Leetcode/Easy/1018.cpp)\
 [./Leetcode/Easy/104.py](./Leetcode/Easy/104.py)\
 [./Leetcode/Easy/1046.java](./Leetcode/Easy/1046.java)\
 [./Leetcode/Easy/1047.cpp](./Leetcode/Easy/1047.cpp)\
@@ -1130,6 +1143,7 @@
 [./Leetcode/Medium/3412.java](./Leetcode/Medium/3412.java)\
 [./Leetcode/Medium/347.java](./Leetcode/Medium/347.java)\
 [./Leetcode/Medium/3479.cpp](./Leetcode/Medium/3479.cpp)\
+[./Leetcode/Medium/3542.java](./Leetcode/Medium/3542.java)\
 [./Leetcode/Medium/36.cpp](./Leetcode/Medium/36.cpp)\
 [./Leetcode/Medium/371.java](./Leetcode/Medium/371.java)\
 [./Leetcode/Medium/38.java](./Leetcode/Medium/38.java)\
