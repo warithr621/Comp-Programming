@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1214
+### Total Files: 1217
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -19,8 +19,10 @@
 [./CSES/Dynamic-Programming/edit_distance.cpp](./CSES/Dynamic-Programming/edit_distance.cpp)\
 [./CSES/Dynamic-Programming/grid_paths_dp.cpp](./CSES/Dynamic-Programming/grid_paths_dp.cpp)\
 [./CSES/Dynamic-Programming/increasing_subsequence.cpp](./CSES/Dynamic-Programming/increasing_subsequence.cpp)\
+[./CSES/Dynamic-Programming/lcs.cpp](./CSES/Dynamic-Programming/lcs.cpp)\
 [./CSES/Dynamic-Programming/min_coins.cpp](./CSES/Dynamic-Programming/min_coins.cpp)\
 [./CSES/Dynamic-Programming/money_sums.cpp](./CSES/Dynamic-Programming/money_sums.cpp)\
+[./CSES/Dynamic-Programming/mountain_range.cpp](./CSES/Dynamic-Programming/mountain_range.cpp)\
 [./CSES/Dynamic-Programming/projects.py](./CSES/Dynamic-Programming/projects.py)\
 [./CSES/Dynamic-Programming/rect_cutting.cpp](./CSES/Dynamic-Programming/rect_cutting.cpp)\
 [./CSES/Dynamic-Programming/removal_game.cpp](./CSES/Dynamic-Programming/removal_game.cpp)\
@@ -109,6 +111,7 @@
 [./CSES/Sorting-and-Searching/movie_fest_ii.cpp](./CSES/Sorting-and-Searching/movie_fest_ii.cpp)\
 [./CSES/Sorting-and-Searching/nearest_smaller_vals.cpp](./CSES/Sorting-and-Searching/nearest_smaller_vals.cpp)\
 [./CSES/Sorting-and-Searching/playlist.cpp](./CSES/Sorting-and-Searching/playlist.cpp)\
+[./CSES/Sorting-and-Searching/reading_books.cpp](./CSES/Sorting-and-Searching/reading_books.cpp)\
 [./CSES/Sorting-and-Searching/room_alloc.cpp](./CSES/Sorting-and-Searching/room_alloc.cpp)\
 [./CSES/Sorting-and-Searching/stick_len.cpp](./CSES/Sorting-and-Searching/stick_len.cpp)\
 [./CSES/Sorting-and-Searching/subarr_distinct_val.cpp](./CSES/Sorting-and-Searching/subarr_distinct_val.cpp)\
