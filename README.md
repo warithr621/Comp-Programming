@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1217
+### Total Files: 1242
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -18,6 +18,7 @@
 [./CSES/Dynamic-Programming/dice_combo.cpp](./CSES/Dynamic-Programming/dice_combo.cpp)\
 [./CSES/Dynamic-Programming/edit_distance.cpp](./CSES/Dynamic-Programming/edit_distance.cpp)\
 [./CSES/Dynamic-Programming/grid_paths_dp.cpp](./CSES/Dynamic-Programming/grid_paths_dp.cpp)\
+[./CSES/Dynamic-Programming/increasing_subseq_ii.cpp](./CSES/Dynamic-Programming/increasing_subseq_ii.cpp)\
 [./CSES/Dynamic-Programming/increasing_subsequence.cpp](./CSES/Dynamic-Programming/increasing_subsequence.cpp)\
 [./CSES/Dynamic-Programming/lcs.cpp](./CSES/Dynamic-Programming/lcs.cpp)\
 [./CSES/Dynamic-Programming/min_coins.cpp](./CSES/Dynamic-Programming/min_coins.cpp)\
@@ -30,15 +31,22 @@
 [./CSES/Dynamic-Programming/two_sets_ii.cpp](./CSES/Dynamic-Programming/two_sets_ii.cpp)\
 [./CSES/Geometry/PolygonArea.java](./CSES/Geometry/PolygonArea.java)\
 [./CSES/Geometry/ling_seg_int.cpp](./CSES/Geometry/ling_seg_int.cpp)\
+[./CSES/Geometry/point_in_poly.cpp](./CSES/Geometry/point_in_poly.cpp)\
 [./CSES/Geometry/point_location_test.cpp](./CSES/Geometry/point_location_test.cpp)\
+[./CSES/Geometry/poly_lattice_points.cpp](./CSES/Geometry/poly_lattice_points.cpp)\
 [./CSES/Graph-Algos/BuildingRoads.java](./CSES/Graph-Algos/BuildingRoads.java)\
 [./CSES/Graph-Algos/build_team.cpp](./CSES/Graph-Algos/build_team.cpp)\
 [./CSES/Graph-Algos/counting_rooms.cpp](./CSES/Graph-Algos/counting_rooms.cpp)\
+[./CSES/Graph-Algos/course_schedule.cpp](./CSES/Graph-Algos/course_schedule.cpp)\
 [./CSES/Graph-Algos/flight_discount.cpp](./CSES/Graph-Algos/flight_discount.cpp)\
 [./CSES/Graph-Algos/flight_routes_check.cpp](./CSES/Graph-Algos/flight_routes_check.cpp)\
+[./CSES/Graph-Algos/game_routes.cpp](./CSES/Graph-Algos/game_routes.cpp)\
+[./CSES/Graph-Algos/high_score.cpp](./CSES/Graph-Algos/high_score.cpp)\
 [./CSES/Graph-Algos/labyrinth.cpp](./CSES/Graph-Algos/labyrinth.cpp)\
 [./CSES/Graph-Algos/message_route.cpp](./CSES/Graph-Algos/message_route.cpp)\
 [./CSES/Graph-Algos/monsters.cpp](./CSES/Graph-Algos/monsters.cpp)\
+[./CSES/Graph-Algos/road_construct.cpp](./CSES/Graph-Algos/road_construct.cpp)\
+[./CSES/Graph-Algos/road_reparation.cpp](./CSES/Graph-Algos/road_reparation.cpp)\
 [./CSES/Graph-Algos/round_trip.cpp](./CSES/Graph-Algos/round_trip.cpp)\
 [./CSES/Graph-Algos/shortest_routes_i.cpp](./CSES/Graph-Algos/shortest_routes_i.cpp)\
 [./CSES/Graph-Algos/shortest_routes_ii.py](./CSES/Graph-Algos/shortest_routes_ii.py)\
@@ -69,39 +77,56 @@
 [./CSES/Mathematics/NimGameI.java](./CSES/Mathematics/NimGameI.java)\
 [./CSES/Mathematics/NimGameII.java](./CSES/Mathematics/NimGameII.java)\
 [./CSES/Mathematics/bin_coeff.cpp](./CSES/Mathematics/bin_coeff.cpp)\
+[./CSES/Mathematics/bracket_seq_ii.cpp](./CSES/Mathematics/bracket_seq_ii.cpp)\
 [./CSES/Mathematics/bracket_sequence_i.cpp](./CSES/Mathematics/bracket_sequence_i.cpp)\
 [./CSES/Mathematics/candy_lottery.cpp](./CSES/Mathematics/candy_lottery.cpp)\
 [./CSES/Mathematics/christmas_party.py](./CSES/Mathematics/christmas_party.py)\
 [./CSES/Mathematics/common_divisors.cpp](./CSES/Mathematics/common_divisors.cpp)\
 [./CSES/Mathematics/count_div.cpp](./CSES/Mathematics/count_div.cpp)\
+[./CSES/Mathematics/counting_coprime.cpp](./CSES/Mathematics/counting_coprime.cpp)\
 [./CSES/Mathematics/counting_grids.cpp](./CSES/Mathematics/counting_grids.cpp)\
+[./CSES/Mathematics/counting_necklaces.cpp](./CSES/Mathematics/counting_necklaces.cpp)\
 [./CSES/Mathematics/create_string_ii.cpp](./CSES/Mathematics/create_string_ii.cpp)\
+[./CSES/Mathematics/dice_prob.cpp](./CSES/Mathematics/dice_prob.cpp)\
 [./CSES/Mathematics/distrib_apples.cpp](./CSES/Mathematics/distrib_apples.cpp)\
 [./CSES/Mathematics/div_analysis.cpp](./CSES/Mathematics/div_analysis.cpp)\
 [./CSES/Mathematics/exp.cpp](./CSES/Mathematics/exp.cpp)\
 [./CSES/Mathematics/exp_ii.cpp](./CSES/Mathematics/exp_ii.cpp)\
 [./CSES/Mathematics/graph_paths_i.cpp](./CSES/Mathematics/graph_paths_i.cpp)\
 [./CSES/Mathematics/grundys_game.cpp](./CSES/Mathematics/grundys_game.cpp)\
+[./CSES/Mathematics/josephus_queries.cpp](./CSES/Mathematics/josephus_queries.cpp)\
 [./CSES/Mathematics/next_prime.cpp](./CSES/Mathematics/next_prime.cpp)\
 [./CSES/Mathematics/perm_order.py](./CSES/Mathematics/perm_order.py)\
+[./CSES/Mathematics/perm_rounds.cpp](./CSES/Mathematics/perm_rounds.cpp)\
 [./CSES/Mathematics/prime_multiples.cpp](./CSES/Mathematics/prime_multiples.cpp)\
 [./CSES/Mathematics/stick_game.cpp](./CSES/Mathematics/stick_game.cpp)\
+[./CSES/Mathematics/sum_div.cpp](./CSES/Mathematics/sum_div.cpp)\
+[./CSES/Mathematics/sys_lineq.cpp](./CSES/Mathematics/sys_lineq.cpp)\
 [./CSES/Mathematics/throwing_dice.cpp](./CSES/Mathematics/throwing_dice.cpp)\
 [./CSES/Range-Queries/dynamic_range_min_queries.cpp](./CSES/Range-Queries/dynamic_range_min_queries.cpp)\
 [./CSES/Range-Queries/dynamic_range_sum_queries.cpp](./CSES/Range-Queries/dynamic_range_sum_queries.cpp)\
 [./CSES/Range-Queries/forest_queries.cpp](./CSES/Range-Queries/forest_queries.cpp)\
+[./CSES/Range-Queries/hotel_queries.cpp](./CSES/Range-Queries/hotel_queries.cpp)\
+[./CSES/Range-Queries/list_removals.cpp](./CSES/Range-Queries/list_removals.cpp)\
+[./CSES/Range-Queries/pizzeria_quer.cpp](./CSES/Range-Queries/pizzeria_quer.cpp)\
+[./CSES/Range-Queries/prefix_sum_quer.cpp](./CSES/Range-Queries/prefix_sum_quer.cpp)\
+[./CSES/Range-Queries/range_upd_queries.cpp](./CSES/Range-Queries/range_upd_queries.cpp)\
 [./CSES/Range-Queries/range_xor_queries.py](./CSES/Range-Queries/range_xor_queries.py)\
+[./CSES/Range-Queries/salary_queries.cpp](./CSES/Range-Queries/salary_queries.cpp)\
 [./CSES/Range-Queries/srmq.cpp](./CSES/Range-Queries/srmq.cpp)\
 [./CSES/Range-Queries/static_range_sum_queries.cpp](./CSES/Range-Queries/static_range_sum_queries.cpp)\
+[./CSES/Range-Queries/vis_building_quer.cpp](./CSES/Range-Queries/vis_building_quer.cpp)\
 [./CSES/Sliding-Window/sliding_window_xor.cpp](./CSES/Sliding-Window/sliding_window_xor.cpp)\
 [./CSES/Sorting-and-Searching/MovieFest.java](./CSES/Sorting-and-Searching/MovieFest.java)\
 [./CSES/Sorting-and-Searching/RestCustomers.java](./CSES/Sorting-and-Searching/RestCustomers.java)\
 [./CSES/Sorting-and-Searching/apartments.cpp](./CSES/Sorting-and-Searching/apartments.cpp)\
 [./CSES/Sorting-and-Searching/arr_division.cpp](./CSES/Sorting-and-Searching/arr_division.cpp)\
 [./CSES/Sorting-and-Searching/collecting_nums.cpp](./CSES/Sorting-and-Searching/collecting_nums.cpp)\
+[./CSES/Sorting-and-Searching/collecting_nums_ii.cpp](./CSES/Sorting-and-Searching/collecting_nums_ii.cpp)\
 [./CSES/Sorting-and-Searching/concert_tickets.cpp](./CSES/Sorting-and-Searching/concert_tickets.cpp)\
 [./CSES/Sorting-and-Searching/distinct_numbers.cpp](./CSES/Sorting-and-Searching/distinct_numbers.cpp)\
 [./CSES/Sorting-and-Searching/distinct_val_subarr.cpp](./CSES/Sorting-and-Searching/distinct_val_subarr.cpp)\
+[./CSES/Sorting-and-Searching/distinct_value_subseq.cpp](./CSES/Sorting-and-Searching/distinct_value_subseq.cpp)\
 [./CSES/Sorting-and-Searching/factory_machines.cpp](./CSES/Sorting-and-Searching/factory_machines.cpp)\
 [./CSES/Sorting-and-Searching/ferris_wheel.cpp](./CSES/Sorting-and-Searching/ferris_wheel.cpp)\
 [./CSES/Sorting-and-Searching/josephus_problem_i.cpp](./CSES/Sorting-and-Searching/josephus_problem_i.cpp)\
