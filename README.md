@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1254
+### Total Files: 1257
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -648,6 +648,9 @@
 [./Codeforces/220/A.java](./Codeforces/220/A.java)\
 [./Codeforces/2200/E.py](./Codeforces/2200/E.py)\
 [./Codeforces/2205/D.py](./Codeforces/2205/D.py)\
+[./Codeforces/2224/A.py](./Codeforces/2224/A.py)\
+[./Codeforces/2224/B.py](./Codeforces/2224/B.py)\
+[./Codeforces/2224/C.py](./Codeforces/2224/C.py)\
 [./Codeforces/224/A.java](./Codeforces/224/A.java)\
 [./Codeforces/246/C.py](./Codeforces/246/C.py)\
 [./Codeforces/279/B.cpp](./Codeforces/279/B.cpp)\
