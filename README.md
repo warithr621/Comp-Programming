@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1267
+### Total Files: 1284
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -657,8 +657,24 @@
 [./Codeforces/2224/A.py](./Codeforces/2224/A.py)\
 [./Codeforces/2224/B.py](./Codeforces/2224/B.py)\
 [./Codeforces/2224/C.py](./Codeforces/2224/C.py)\
+[./Codeforces/2230/A.py](./Codeforces/2230/A.py)\
+[./Codeforces/2230/B.py](./Codeforces/2230/B.py)\
+[./Codeforces/2230/C.py](./Codeforces/2230/C.py)\
+[./Codeforces/2230/D.py](./Codeforces/2230/D.py)\
+[./Codeforces/2234/A.py](./Codeforces/2234/A.py)\
+[./Codeforces/2234/B.py](./Codeforces/2234/B.py)\
+[./Codeforces/2234/C.py](./Codeforces/2234/C.py)\
+[./Codeforces/2234/D.py](./Codeforces/2234/D.py)\
+[./Codeforces/2234/F.py](./Codeforces/2234/F.py)\
+[./Codeforces/2236/A.py](./Codeforces/2236/A.py)\
+[./Codeforces/2236/B.py](./Codeforces/2236/B.py)\
+[./Codeforces/2236/C.py](./Codeforces/2236/C.py)\
+[./Codeforces/2236/D.py](./Codeforces/2236/D.py)\
+[./Codeforces/2236/E.py](./Codeforces/2236/E.py)\
+[./Codeforces/2236/F1.py](./Codeforces/2236/F1.py)\
 [./Codeforces/224/A.java](./Codeforces/224/A.java)\
 [./Codeforces/246/C.py](./Codeforces/246/C.py)\
+[./Codeforces/272/D.py](./Codeforces/272/D.py)\
 [./Codeforces/279/B.cpp](./Codeforces/279/B.cpp)\
 [./Codeforces/289/A.py](./Codeforces/289/A.py)\
 [./Codeforces/312/B.java](./Codeforces/312/B.java)\
@@ -666,6 +682,7 @@
 [./Codeforces/32/B.java](./Codeforces/32/B.java)\
 [./Codeforces/320/B.py](./Codeforces/320/B.py)\
 [./Codeforces/349/A.py](./Codeforces/349/A.py)\
+[./Codeforces/351/A.py](./Codeforces/351/A.py)\
 [./Codeforces/371/A.cpp](./Codeforces/371/A.cpp)\
 [./Codeforces/436/C.py](./Codeforces/436/C.py)\
 [./Codeforces/441/A.java](./Codeforces/441/A.java)\
