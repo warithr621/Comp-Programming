@@ -669,7 +669,7 @@
 [./Codeforces/2236/A.py](./Codeforces/2236/A.py)\
 [./Codeforces/2236/B.py](./Codeforces/2236/B.py)\
 [./Codeforces/2236/C.py](./Codeforces/2236/C.py)\
-[./Codeforces/2236/D.py](./Codeforces/2236/D.py)\
+[./Codeforces/2236/D.cpp](./Codeforces/2236/D.cpp)\
 [./Codeforces/2236/E.py](./Codeforces/2236/E.py)\
 [./Codeforces/2236/F1.py](./Codeforces/2236/F1.py)\
 [./Codeforces/224/A.java](./Codeforces/224/A.java)\
