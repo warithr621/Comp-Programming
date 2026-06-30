@@ -11,7 +11,9 @@ public:
             for (string w : wordDict) {
                 int len = w.size();
                 if (i - len < 0) continue;
-                if (dp[i-len] && s.substr(i-len, len) == w) dp[i] = true;
+                if (dp[i-len] && s.compare(i-len, len, w) == 0) {
+                    dp[i] = true;
+                }
             }
         }
         return dp[n];

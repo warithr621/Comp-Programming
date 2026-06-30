@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1284
+### Total Files: 1297
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
@@ -673,6 +673,12 @@
 [./Codeforces/2236/E.py](./Codeforces/2236/E.py)\
 [./Codeforces/2236/F1.py](./Codeforces/2236/F1.py)\
 [./Codeforces/224/A.java](./Codeforces/224/A.java)\
+[./Codeforces/2241/A.py](./Codeforces/2241/A.py)\
+[./Codeforces/2241/B.py](./Codeforces/2241/B.py)\
+[./Codeforces/2241/C.py](./Codeforces/2241/C.py)\
+[./Codeforces/2241/D.py](./Codeforces/2241/D.py)\
+[./Codeforces/2241/E.cpp](./Codeforces/2241/E.cpp)\
+[./Codeforces/2241/G.cpp](./Codeforces/2241/G.cpp)\
 [./Codeforces/246/C.py](./Codeforces/246/C.py)\
 [./Codeforces/272/D.py](./Codeforces/272/D.py)\
 [./Codeforces/279/B.cpp](./Codeforces/279/B.cpp)\
@@ -1044,7 +1050,9 @@
 [./Leetcode/Medium/1291.java](./Leetcode/Medium/1291.java)\
 [./Leetcode/Medium/1310.java](./Leetcode/Medium/1310.java)\
 [./Leetcode/Medium/1334.java](./Leetcode/Medium/1334.java)\
+[./Leetcode/Medium/1344.cpp](./Leetcode/Medium/1344.cpp)\
 [./Leetcode/Medium/1352.java](./Leetcode/Medium/1352.java)\
+[./Leetcode/Medium/1358.java](./Leetcode/Medium/1358.java)\
 [./Leetcode/Medium/1367.java](./Leetcode/Medium/1367.java)\
 [./Leetcode/Medium/137.java](./Leetcode/Medium/137.java)\
 [./Leetcode/Medium/1371.java](./Leetcode/Medium/1371.java)\
@@ -1094,6 +1102,7 @@
 [./Leetcode/Medium/1792.java](./Leetcode/Medium/1792.java)\
 [./Leetcode/Medium/1813.java](./Leetcode/Medium/1813.java)\
 [./Leetcode/Medium/1823.java](./Leetcode/Medium/1823.java)\
+[./Leetcode/Medium/1846.cpp](./Leetcode/Medium/1846.cpp)\
 [./Leetcode/Medium/189.cpp](./Leetcode/Medium/189.cpp)\
 [./Leetcode/Medium/1894.java](./Leetcode/Medium/1894.java)\
 [./Leetcode/Medium/19.java](./Leetcode/Medium/19.java)\
@@ -1184,6 +1193,7 @@
 [./Leetcode/Medium/3.java](./Leetcode/Medium/3.java)\
 [./Leetcode/Medium/300.java](./Leetcode/Medium/300.java)\
 [./Leetcode/Medium/3016.cpp](./Leetcode/Medium/3016.cpp)\
+[./Leetcode/Medium/3020.java](./Leetcode/Medium/3020.java)\
 [./Leetcode/Medium/3043.java](./Leetcode/Medium/3043.java)\
 [./Leetcode/Medium/3066.java](./Leetcode/Medium/3066.java)\
 [./Leetcode/Medium/307.cpp](./Leetcode/Medium/307.cpp)\
@@ -1201,6 +1211,7 @@
 [./Leetcode/Medium/3228.java](./Leetcode/Medium/3228.java)\
 [./Leetcode/Medium/323.java](./Leetcode/Medium/323.java)\
 [./Leetcode/Medium/324.java](./Leetcode/Medium/324.java)\
+[./Leetcode/Medium/3291.cpp](./Leetcode/Medium/3291.cpp)\
 [./Leetcode/Medium/33.java](./Leetcode/Medium/33.java)\
 [./Leetcode/Medium/3335.java](./Leetcode/Medium/3335.java)\
 [./Leetcode/Medium/3341.java](./Leetcode/Medium/3341.java)\
@@ -1263,12 +1274,14 @@
 [./Leetcode/Medium/769.java](./Leetcode/Medium/769.java)\
 [./Leetcode/Medium/77.java](./Leetcode/Medium/77.java)\
 [./Leetcode/Medium/78.java](./Leetcode/Medium/78.java)\
+[./Leetcode/Medium/79.java](./Leetcode/Medium/79.java)\
 [./Leetcode/Medium/80.cpp](./Leetcode/Medium/80.cpp)\
 [./Leetcode/Medium/802.c](./Leetcode/Medium/802.c)\
 [./Leetcode/Medium/837.java](./Leetcode/Medium/837.java)\
 [./Leetcode/Medium/840.java](./Leetcode/Medium/840.java)\
 [./Leetcode/Medium/846.java](./Leetcode/Medium/846.java)\
 [./Leetcode/Medium/853.java](./Leetcode/Medium/853.java)\
+[./Leetcode/Medium/856.cpp](./Leetcode/Medium/856.cpp)\
 [./Leetcode/Medium/874.java](./Leetcode/Medium/874.java)\
 [./Leetcode/Medium/875.cpp](./Leetcode/Medium/875.cpp)\
 [./Leetcode/Medium/89.py](./Leetcode/Medium/89.py)\
