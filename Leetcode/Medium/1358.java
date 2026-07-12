@@ -11,7 +11,7 @@ class Solution {
             else if (ch == 'b') b = i;
             else if (ch == 'c') c = i;
             int amt = Math.min(a, Math.min(b,c));
-            if (amt != -1) ans += amt + 1;
+            ans += amt + 1;
         }
         return ans;
     }
