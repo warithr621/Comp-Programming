@@ -3,33 +3,38 @@
 class Solution {
 
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        int n = wordList.size();
         Set<String> dict = new HashSet<>();
         for (String s : wordList) {
             dict.add(s);
         }
-        Queue<Object[]> q = new LinkedList<>();
-        q.add(new Object[]{beginWord, 1});
-        Set<String> seen = new HashSet<>();
-        while (!q.isEmpty()) {
-            Object[] info = q.poll();
-            String word = (String) info[0];
-            int dist = (Integer) info[1];
-            if (word.equals(endWord)) return dist;
-            seen.add(word);
-            char[] letters = word.toCharArray();
-            for (int i = 0; i < letters.length; i++) {
-                char original = letters[i];
-                for (char j = 'a'; j <= 'z'; j++) {
-                    if (j == original) continue;
-                    letters[i] = j;
-                    String destination = new String(letters);
-                    if (!seen.contains(destination) && dict.contains(destination)) {
-                        q.add(new Object[]{destination, dist + 1});
-                    }
-                }
-                letters[i] = original;
+        if (!dict.contains(endWord)) return 0;
+        Set<String> begin = new HashSet<>(), end = new HashSet<>();
+        begin.add(beginWord); end.add(endWord);
+        dict.remove(beginWord); dict.remove(endWord);
+        int dist = 1;
+        while (!begin.isEmpty() && !end.isEmpty()) {
+            if (begin.size() > end.size()) {
+                Set<String> temp = begin;
+                begin = end;
+                end = temp;
             }
+            Set<String> next = new HashSet<>();
+            for (String word : begin) {
+                char[] letters = word.toCharArray();
+                for (int i = 0; i < letters.length; i++) {
+                    char original = letters[i];
+                    for (char c = 'a'; c <= 'z'; c++) {
+                        if (c == original) continue;
+                        letters[i] = c;
+                        String destination = new String(letters);
+                        if (end.contains(destination)) return dist + 1;
+                        if (dict.remove(destination)) next.add(destination);
+                    }
+                    letters[i] = original;
+                }
+            }
+            begin = next;
+            dist++;
         }
         return 0;
     }

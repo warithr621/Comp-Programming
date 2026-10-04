@@ -1,12 +1,16 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1315
+### Total Files: 1372
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
+[./CSES/Additional-Problems/square_subsets.cpp](./CSES/Additional-Problems/square_subsets.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
 [./CSES/Advanced-Techniques/HammingDistance.java](./CSES/Advanced-Techniques/HammingDistance.java)\
 [./CSES/Advanced-Techniques/meet_in_middle.cpp](./CSES/Advanced-Techniques/meet_in_middle.cpp)\
 [./CSES/Bitwise/counting_bits.py](./CSES/Bitwise/counting_bits.py)\
+[./CSES/Bitwise/max_xor_subarr.cpp](./CSES/Bitwise/max_xor_subarr.cpp)\
+[./CSES/Bitwise/max_xor_subset.cpp](./CSES/Bitwise/max_xor_subset.cpp)\
+[./CSES/Bitwise/num_subset_xors.cpp](./CSES/Bitwise/num_subset_xors.cpp)\
 [./CSES/Bitwise/xor_pyramid_diagonal.py](./CSES/Bitwise/xor_pyramid_diagonal.py)\
 [./CSES/Bitwise/xor_pyramid_peak.cpp](./CSES/Bitwise/xor_pyramid_peak.cpp)\
 [./CSES/Counting-Problems/counting_seqs.py](./CSES/Counting-Problems/counting_seqs.py)\
@@ -15,6 +19,7 @@
 [./CSES/Dynamic-Programming/coin_combo_i.cpp](./CSES/Dynamic-Programming/coin_combo_i.cpp)\
 [./CSES/Dynamic-Programming/coin_combo_ii.cpp](./CSES/Dynamic-Programming/coin_combo_ii.cpp)\
 [./CSES/Dynamic-Programming/count_towers.py](./CSES/Dynamic-Programming/count_towers.py)\
+[./CSES/Dynamic-Programming/counting_tilings.cpp](./CSES/Dynamic-Programming/counting_tilings.cpp)\
 [./CSES/Dynamic-Programming/dice_combo.cpp](./CSES/Dynamic-Programming/dice_combo.cpp)\
 [./CSES/Dynamic-Programming/edit_distance.cpp](./CSES/Dynamic-Programming/edit_distance.cpp)\
 [./CSES/Dynamic-Programming/grid_paths_dp.cpp](./CSES/Dynamic-Programming/grid_paths_dp.cpp)\
@@ -30,7 +35,9 @@
 [./CSES/Dynamic-Programming/removing_digits.py](./CSES/Dynamic-Programming/removing_digits.py)\
 [./CSES/Dynamic-Programming/two_sets_ii.cpp](./CSES/Dynamic-Programming/two_sets_ii.cpp)\
 [./CSES/Geometry/PolygonArea.java](./CSES/Geometry/PolygonArea.java)\
+[./CSES/Geometry/all_manhattan_distances.cpp](./CSES/Geometry/all_manhattan_distances.cpp)\
 [./CSES/Geometry/ling_seg_int.cpp](./CSES/Geometry/ling_seg_int.cpp)\
+[./CSES/Geometry/max_manhattan.py](./CSES/Geometry/max_manhattan.py)\
 [./CSES/Geometry/point_in_poly.cpp](./CSES/Geometry/point_in_poly.cpp)\
 [./CSES/Geometry/point_location_test.cpp](./CSES/Geometry/point_location_test.cpp)\
 [./CSES/Geometry/poly_lattice_points.cpp](./CSES/Geometry/poly_lattice_points.cpp)\
@@ -41,6 +48,7 @@
 [./CSES/Graph-Algos/flight_discount.cpp](./CSES/Graph-Algos/flight_discount.cpp)\
 [./CSES/Graph-Algos/flight_routes_check.cpp](./CSES/Graph-Algos/flight_routes_check.cpp)\
 [./CSES/Graph-Algos/game_routes.cpp](./CSES/Graph-Algos/game_routes.cpp)\
+[./CSES/Graph-Algos/giant_pizza.cpp](./CSES/Graph-Algos/giant_pizza.cpp)\
 [./CSES/Graph-Algos/high_score.cpp](./CSES/Graph-Algos/high_score.cpp)\
 [./CSES/Graph-Algos/labyrinth.cpp](./CSES/Graph-Algos/labyrinth.cpp)\
 [./CSES/Graph-Algos/message_route.cpp](./CSES/Graph-Algos/message_route.cpp)\
@@ -50,7 +58,9 @@
 [./CSES/Graph-Algos/round_trip.cpp](./CSES/Graph-Algos/round_trip.cpp)\
 [./CSES/Graph-Algos/shortest_routes_i.cpp](./CSES/Graph-Algos/shortest_routes_i.cpp)\
 [./CSES/Graph-Algos/shortest_routes_ii.py](./CSES/Graph-Algos/shortest_routes_ii.py)\
+[./CSES/Interactive/colored_chairs.cpp](./CSES/Interactive/colored_chairs.cpp)\
 [./CSES/Interactive/hidden_integer.py](./CSES/Interactive/hidden_integer.py)\
+[./CSES/Interactive/hidden_perm.cpp](./CSES/Interactive/hidden_perm.cpp)\
 [./CSES/Introductory-Problems/AppleDiv.java](./CSES/Introductory-Problems/AppleDiv.java)\
 [./CSES/Introductory-Problems/DigitQueries.java](./CSES/Introductory-Problems/DigitQueries.java)\
 [./CSES/Introductory-Problems/bit_strings.cpp](./CSES/Introductory-Problems/bit_strings.cpp)\
@@ -110,6 +120,7 @@
 [./CSES/Range-Queries/list_removals.cpp](./CSES/Range-Queries/list_removals.cpp)\
 [./CSES/Range-Queries/pizzeria_quer.cpp](./CSES/Range-Queries/pizzeria_quer.cpp)\
 [./CSES/Range-Queries/prefix_sum_quer.cpp](./CSES/Range-Queries/prefix_sum_quer.cpp)\
+[./CSES/Range-Queries/range_interval_queries.cpp](./CSES/Range-Queries/range_interval_queries.cpp)\
 [./CSES/Range-Queries/range_upd_queries.cpp](./CSES/Range-Queries/range_upd_queries.cpp)\
 [./CSES/Range-Queries/range_xor_queries.py](./CSES/Range-Queries/range_xor_queries.py)\
 [./CSES/Range-Queries/salary_queries.cpp](./CSES/Range-Queries/salary_queries.cpp)\
@@ -132,6 +143,7 @@
 [./CSES/Sorting-and-Searching/josephus_problem_i.cpp](./CSES/Sorting-and-Searching/josephus_problem_i.cpp)\
 [./CSES/Sorting-and-Searching/josephus_problem_ii.cpp](./CSES/Sorting-and-Searching/josephus_problem_ii.cpp)\
 [./CSES/Sorting-and-Searching/max_subarr.cpp](./CSES/Sorting-and-Searching/max_subarr.cpp)\
+[./CSES/Sorting-and-Searching/max_subarr_sum_ii.cpp](./CSES/Sorting-and-Searching/max_subarr_sum_ii.cpp)\
 [./CSES/Sorting-and-Searching/miss_coin_sum.py](./CSES/Sorting-and-Searching/miss_coin_sum.py)\
 [./CSES/Sorting-and-Searching/movie_fest_ii.cpp](./CSES/Sorting-and-Searching/movie_fest_ii.cpp)\
 [./CSES/Sorting-and-Searching/nearest_smaller_vals.cpp](./CSES/Sorting-and-Searching/nearest_smaller_vals.cpp)\
@@ -148,10 +160,14 @@
 [./CSES/Sorting-and-Searching/task_deadline.cpp](./CSES/Sorting-and-Searching/task_deadline.cpp)\
 [./CSES/Sorting-and-Searching/towers.cpp](./CSES/Sorting-and-Searching/towers.cpp)\
 [./CSES/Sorting-and-Searching/traffic_lights.cpp](./CSES/Sorting-and-Searching/traffic_lights.cpp)\
+[./CSES/String-Algos/finding_borders.cpp](./CSES/String-Algos/finding_borders.cpp)\
+[./CSES/String-Algos/longest_palindrome.cpp](./CSES/String-Algos/longest_palindrome.cpp)\
 [./CSES/String-Algos/string_matching.cpp](./CSES/String-Algos/string_matching.cpp)\
 [./CSES/Tree-Algos/distq.cpp](./CSES/Tree-Algos/distq.cpp)\
 [./CSES/Tree-Algos/subord.cpp](./CSES/Tree-Algos/subord.cpp)\
+[./CSES/Tree-Algos/subtree_queries.cpp](./CSES/Tree-Algos/subtree_queries.cpp)\
 [./CSES/Tree-Algos/tree_diameter.cpp](./CSES/Tree-Algos/tree_diameter.cpp)\
+[./CSES/Tree-Algos/tree_dist_i.cpp](./CSES/Tree-Algos/tree_dist_i.cpp)\
 [./Codeforces/C.py](./Codeforces/C.py)\
 [./Codeforces/D.py](./Codeforces/D.py)\
 [./Codeforces/1020/B.java](./Codeforces/1020/B.java)\
@@ -679,10 +695,12 @@
 [./Codeforces/2241/D.py](./Codeforces/2241/D.py)\
 [./Codeforces/2241/E.cpp](./Codeforces/2241/E.cpp)\
 [./Codeforces/2241/G.cpp](./Codeforces/2241/G.cpp)\
+[./Codeforces/2244/C.py](./Codeforces/2244/C.py)\
 [./Codeforces/2246/A.cpp](./Codeforces/2246/A.cpp)\
 [./Codeforces/2246/B.cpp](./Codeforces/2246/B.cpp)\
 [./Codeforces/2246/C.cpp](./Codeforces/2246/C.cpp)\
 [./Codeforces/2246/D.cpp](./Codeforces/2246/D.cpp)\
+[./Codeforces/2250/A.py](./Codeforces/2250/A.py)\
 [./Codeforces/246/C.py](./Codeforces/246/C.py)\
 [./Codeforces/272/D.py](./Codeforces/272/D.py)\
 [./Codeforces/279/B.cpp](./Codeforces/279/B.cpp)\
@@ -829,6 +847,18 @@
 [./ICPC/NAQ25/J.py](./ICPC/NAQ25/J.py)\
 [./ICPC/NAQ25/K.py](./ICPC/NAQ25/K.py)\
 [./ICPC/NAQ25/L.py](./ICPC/NAQ25/L.py)\
+[./ICPC/NAQ26/A.cpp](./ICPC/NAQ26/A.cpp)\
+[./ICPC/NAQ26/B.cpp](./ICPC/NAQ26/B.cpp)\
+[./ICPC/NAQ26/C.cpp](./ICPC/NAQ26/C.cpp)\
+[./ICPC/NAQ26/E.cpp](./ICPC/NAQ26/E.cpp)\
+[./ICPC/NAQ26/F.cpp](./ICPC/NAQ26/F.cpp)\
+[./ICPC/NAQ26/G.java](./ICPC/NAQ26/G.java)\
+[./ICPC/NAQ26/H.cpp](./ICPC/NAQ26/H.cpp)\
+[./ICPC/NAQ26/I.cpp](./ICPC/NAQ26/I.cpp)\
+[./ICPC/NAQ26/J.cpp](./ICPC/NAQ26/J.cpp)\
+[./ICPC/NAQ26/K.cpp](./ICPC/NAQ26/K.cpp)\
+[./ICPC/NAQ26/L.cpp](./ICPC/NAQ26/L.cpp)\
+[./ICPC/NAQ26/M.cpp](./ICPC/NAQ26/M.cpp)\
 [./ICPC/SCUSA22/cut.py](./ICPC/SCUSA22/cut.py)\
 [./ICPC/SCUSA22/nucleotide.py](./ICPC/SCUSA22/nucleotide.py)\
 [./ICPC/SCUSA22/pea.py](./ICPC/SCUSA22/pea.py)\
@@ -870,6 +900,7 @@
 [./Leetcode/Easy/1207.java](./Leetcode/Easy/1207.java)\
 [./Leetcode/Easy/121.cpp](./Leetcode/Easy/121.cpp)\
 [./Leetcode/Easy/125.java](./Leetcode/Easy/125.java)\
+[./Leetcode/Easy/1260.cpp](./Leetcode/Easy/1260.cpp)\
 [./Leetcode/Easy/13.py](./Leetcode/Easy/13.py)\
 [./Leetcode/Easy/1323.py](./Leetcode/Easy/1323.py)\
 [./Leetcode/Easy/1331.java](./Leetcode/Easy/1331.java)\
@@ -882,6 +913,7 @@
 [./Leetcode/Easy/145.java](./Leetcode/Easy/145.java)\
 [./Leetcode/Easy/1455.java](./Leetcode/Easy/1455.java)\
 [./Leetcode/Easy/1460.cpp](./Leetcode/Easy/1460.cpp)\
+[./Leetcode/Easy/1464.java](./Leetcode/Easy/1464.java)\
 [./Leetcode/Easy/1475.java](./Leetcode/Easy/1475.java)\
 [./Leetcode/Easy/1518.java](./Leetcode/Easy/1518.java)\
 [./Leetcode/Easy/1534.java](./Leetcode/Easy/1534.java)\
@@ -903,6 +935,7 @@
 [./Leetcode/Easy/1957.java](./Leetcode/Easy/1957.java)\
 [./Leetcode/Easy/1967.py](./Leetcode/Easy/1967.py)\
 [./Leetcode/Easy/1971.java](./Leetcode/Easy/1971.java)\
+[./Leetcode/Easy/1979.java](./Leetcode/Easy/1979.java)\
 [./Leetcode/Easy/20.java](./Leetcode/Easy/20.java)\
 [./Leetcode/Easy/202.java](./Leetcode/Easy/202.java)\
 [./Leetcode/Easy/2022.java](./Leetcode/Easy/2022.java)\
@@ -941,11 +974,13 @@
 [./Leetcode/Easy/290.java](./Leetcode/Easy/290.java)\
 [./Leetcode/Easy/2900.java](./Leetcode/Easy/2900.java)\
 [./Leetcode/Easy/2942.java](./Leetcode/Easy/2942.java)\
+[./Leetcode/Easy/2996.cpp](./Leetcode/Easy/2996.cpp)\
 [./Leetcode/Easy/3005.py](./Leetcode/Easy/3005.py)\
 [./Leetcode/Easy/303.cpp](./Leetcode/Easy/303.cpp)\
 [./Leetcode/Easy/3042.java](./Leetcode/Easy/3042.java)\
 [./Leetcode/Easy/3046.java](./Leetcode/Easy/3046.java)\
 [./Leetcode/Easy/3069.cpp](./Leetcode/Easy/3069.cpp)\
+[./Leetcode/Easy/3090.java](./Leetcode/Easy/3090.java)\
 [./Leetcode/Easy/3105.java](./Leetcode/Easy/3105.java)\
 [./Leetcode/Easy/3151.c](./Leetcode/Easy/3151.c)\
 [./Leetcode/Easy/3158.java](./Leetcode/Easy/3158.java)\
@@ -965,6 +1000,7 @@
 [./Leetcode/Easy/3754.java](./Leetcode/Easy/3754.java)\
 [./Leetcode/Easy/383.java](./Leetcode/Easy/383.java)\
 [./Leetcode/Easy/387.java](./Leetcode/Easy/387.java)\
+[./Leetcode/Easy/3875.java](./Leetcode/Easy/3875.java)\
 [./Leetcode/Easy/392.java](./Leetcode/Easy/392.java)\
 [./Leetcode/Easy/509.java](./Leetcode/Easy/509.java)\
 [./Leetcode/Easy/530.java](./Leetcode/Easy/530.java)\
@@ -972,6 +1008,7 @@
 [./Leetcode/Easy/572.java](./Leetcode/Easy/572.java)\
 [./Leetcode/Easy/58.java](./Leetcode/Easy/58.java)\
 [./Leetcode/Easy/590.java](./Leetcode/Easy/590.java)\
+[./Leetcode/Easy/628.java](./Leetcode/Easy/628.java)\
 [./Leetcode/Easy/643.java](./Leetcode/Easy/643.java)\
 [./Leetcode/Easy/66.java](./Leetcode/Easy/66.java)\
 [./Leetcode/Easy/67.cpp](./Leetcode/Easy/67.cpp)\
@@ -1001,17 +1038,23 @@
 [./Leetcode/Hard/1368.java](./Leetcode/Hard/1368.java)\
 [./Leetcode/Hard/1402.cpp](./Leetcode/Hard/1402.cpp)\
 [./Leetcode/Hard/1526.java](./Leetcode/Hard/1526.java)\
+[./Leetcode/Hard/1563.java](./Leetcode/Hard/1563.java)\
 [./Leetcode/Hard/1639.java](./Leetcode/Hard/1639.java)\
 [./Leetcode/Hard/174.java](./Leetcode/Hard/174.java)\
+[./Leetcode/Hard/1851.java](./Leetcode/Hard/1851.java)\
 [./Leetcode/Hard/2045.java](./Leetcode/Hard/2045.java)\
+[./Leetcode/Hard/2050.java](./Leetcode/Hard/2050.java)\
 [./Leetcode/Hard/2097.java](./Leetcode/Hard/2097.java)\
 [./Leetcode/Hard/2127.java](./Leetcode/Hard/2127.java)\
 [./Leetcode/Hard/214.java](./Leetcode/Hard/214.java)\
+[./Leetcode/Hard/2213.java](./Leetcode/Hard/2213.java)\
 [./Leetcode/Hard/23.java](./Leetcode/Hard/23.java)\
 [./Leetcode/Hard/2338.java](./Leetcode/Hard/2338.java)\
+[./Leetcode/Hard/239.java](./Leetcode/Hard/239.java)\
 [./Leetcode/Hard/2392.java](./Leetcode/Hard/2392.java)\
 [./Leetcode/Hard/2416.java](./Leetcode/Hard/2416.java)\
 [./Leetcode/Hard/2444.py](./Leetcode/Hard/2444.py)\
+[./Leetcode/Hard/2484.java](./Leetcode/Hard/2484.java)\
 [./Leetcode/Hard/2493.java](./Leetcode/Hard/2493.java)\
 [./Leetcode/Hard/2577.java](./Leetcode/Hard/2577.java)\
 [./Leetcode/Hard/2642.java](./Leetcode/Hard/2642.java)\
@@ -1019,10 +1062,14 @@
 [./Leetcode/Hard/2751.java](./Leetcode/Hard/2751.java)\
 [./Leetcode/Hard/2872.java](./Leetcode/Hard/2872.java)\
 [./Leetcode/Hard/2940.java](./Leetcode/Hard/2940.java)\
+[./Leetcode/Hard/295.java](./Leetcode/Hard/295.java)\
 [./Leetcode/Hard/3108.java](./Leetcode/Hard/3108.java)\
+[./Leetcode/Hard/312.java](./Leetcode/Hard/312.java)\
 [./Leetcode/Hard/32.java](./Leetcode/Hard/32.java)\
 [./Leetcode/Hard/3229.py](./Leetcode/Hard/3229.py)\
+[./Leetcode/Hard/3312.java](./Leetcode/Hard/3312.java)\
 [./Leetcode/Hard/3337.java](./Leetcode/Hard/3337.java)\
+[./Leetcode/Hard/3518.java](./Leetcode/Hard/3518.java)\
 [./Leetcode/Hard/3534.cpp](./Leetcode/Hard/3534.cpp)\
 [./Leetcode/Hard/354.java](./Leetcode/Hard/354.java)\
 [./Leetcode/Hard/3620.java](./Leetcode/Hard/3620.java)\
@@ -1032,6 +1079,7 @@
 [./Leetcode/Hard/420.java](./Leetcode/Hard/420.java)\
 [./Leetcode/Hard/440.java](./Leetcode/Hard/440.java)\
 [./Leetcode/Hard/60.cpp](./Leetcode/Hard/60.cpp)\
+[./Leetcode/Hard/630.java](./Leetcode/Hard/630.java)\
 [./Leetcode/Hard/65.py](./Leetcode/Hard/65.py)\
 [./Leetcode/Hard/689.java](./Leetcode/Hard/689.java)\
 [./Leetcode/Hard/726.py](./Leetcode/Hard/726.py)\
@@ -1044,6 +1092,7 @@
 [./Leetcode/Medium/102.java](./Leetcode/Medium/102.java)\
 [./Leetcode/Medium/1052.java](./Leetcode/Medium/1052.java)\
 [./Leetcode/Medium/1079.java](./Leetcode/Medium/1079.java)\
+[./Leetcode/Medium/1081.cpp](./Leetcode/Medium/1081.cpp)\
 [./Leetcode/Medium/11.cpp](./Leetcode/Medium/11.cpp)\
 [./Leetcode/Medium/1105.java](./Leetcode/Medium/1105.java)\
 [./Leetcode/Medium/1110.java](./Leetcode/Medium/1110.java)\
@@ -1067,6 +1116,7 @@
 [./Leetcode/Medium/1367.java](./Leetcode/Medium/1367.java)\
 [./Leetcode/Medium/137.java](./Leetcode/Medium/137.java)\
 [./Leetcode/Medium/1371.java](./Leetcode/Medium/1371.java)\
+[./Leetcode/Medium/1375.java](./Leetcode/Medium/1375.java)\
 [./Leetcode/Medium/138.java](./Leetcode/Medium/138.java)\
 [./Leetcode/Medium/1382.java](./Leetcode/Medium/1382.java)\
 [./Leetcode/Medium/139.cpp](./Leetcode/Medium/139.cpp)\
@@ -1106,12 +1156,14 @@
 [./Leetcode/Medium/1718.java](./Leetcode/Medium/1718.java)\
 [./Leetcode/Medium/172.java](./Leetcode/Medium/172.java)\
 [./Leetcode/Medium/1726.java](./Leetcode/Medium/1726.java)\
+[./Leetcode/Medium/1759.java](./Leetcode/Medium/1759.java)\
 [./Leetcode/Medium/1760.java](./Leetcode/Medium/1760.java)\
 [./Leetcode/Medium/1765.java](./Leetcode/Medium/1765.java)\
 [./Leetcode/Medium/1769.java](./Leetcode/Medium/1769.java)\
 [./Leetcode/Medium/1780.java](./Leetcode/Medium/1780.java)\
 [./Leetcode/Medium/179.java](./Leetcode/Medium/179.java)\
 [./Leetcode/Medium/1792.java](./Leetcode/Medium/1792.java)\
+[./Leetcode/Medium/1801.java](./Leetcode/Medium/1801.java)\
 [./Leetcode/Medium/1813.java](./Leetcode/Medium/1813.java)\
 [./Leetcode/Medium/1823.java](./Leetcode/Medium/1823.java)\
 [./Leetcode/Medium/1846.cpp](./Leetcode/Medium/1846.cpp)\
@@ -1139,6 +1191,7 @@
 [./Leetcode/Medium/2058.java](./Leetcode/Medium/2058.java)\
 [./Leetcode/Medium/207.java](./Leetcode/Medium/207.java)\
 [./Leetcode/Medium/209.java](./Leetcode/Medium/209.java)\
+[./Leetcode/Medium/2091.java](./Leetcode/Medium/2091.java)\
 [./Leetcode/Medium/2096.java](./Leetcode/Medium/2096.java)\
 [./Leetcode/Medium/210.java](./Leetcode/Medium/210.java)\
 [./Leetcode/Medium/2109.java](./Leetcode/Medium/2109.java)\
@@ -1203,6 +1256,7 @@
 [./Leetcode/Medium/2929.java](./Leetcode/Medium/2929.java)\
 [./Leetcode/Medium/2938.java](./Leetcode/Medium/2938.java)\
 [./Leetcode/Medium/2948.java](./Leetcode/Medium/2948.java)\
+[./Leetcode/Medium/2958.java](./Leetcode/Medium/2958.java)\
 [./Leetcode/Medium/2976.java](./Leetcode/Medium/2976.java)\
 [./Leetcode/Medium/2981.java](./Leetcode/Medium/2981.java)\
 [./Leetcode/Medium/3.java](./Leetcode/Medium/3.java)\
@@ -1239,6 +1293,8 @@
 [./Leetcode/Medium/3434.java](./Leetcode/Medium/3434.java)\
 [./Leetcode/Medium/347.java](./Leetcode/Medium/347.java)\
 [./Leetcode/Medium/3479.cpp](./Leetcode/Medium/3479.cpp)\
+[./Leetcode/Medium/3499.java](./Leetcode/Medium/3499.java)\
+[./Leetcode/Medium/3517.java](./Leetcode/Medium/3517.java)\
 [./Leetcode/Medium/3542.java](./Leetcode/Medium/3542.java)\
 [./Leetcode/Medium/36.cpp](./Leetcode/Medium/36.cpp)\
 [./Leetcode/Medium/371.java](./Leetcode/Medium/371.java)\
@@ -1266,6 +1322,7 @@
 [./Leetcode/Medium/56.java](./Leetcode/Medium/56.java)\
 [./Leetcode/Medium/560.java](./Leetcode/Medium/560.java)\
 [./Leetcode/Medium/567.java](./Leetcode/Medium/567.java)\
+[./Leetcode/Medium/57.py](./Leetcode/Medium/57.py)\
 [./Leetcode/Medium/592.java](./Leetcode/Medium/592.java)\
 [./Leetcode/Medium/611.java](./Leetcode/Medium/611.java)\
 [./Leetcode/Medium/62.java](./Leetcode/Medium/62.java)\
