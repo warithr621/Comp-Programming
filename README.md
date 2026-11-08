@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1426
+### Total Files: 1437
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/square_subsets.cpp](./CSES/Additional-Problems/square_subsets.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
@@ -813,6 +813,9 @@
 [./Codeforces/992/A.java](./Codeforces/992/A.java)\
 [./Codeforces/992/B.py](./Codeforces/992/B.py)\
 [./Codeforces/999/B.cpp](./Codeforces/999/B.cpp)\
+[./ICPC/ECNA20/C.cpp](./ICPC/ECNA20/C.cpp)\
+[./ICPC/ECNA20/E.cpp](./ICPC/ECNA20/E.cpp)\
+[./ICPC/ECNA20/G.cpp](./ICPC/ECNA20/G.cpp)\
 [./ICPC/ECNA22/B.cpp](./ICPC/ECNA22/B.cpp)\
 [./ICPC/ECNA22/C.cpp](./ICPC/ECNA22/C.cpp)\
 [./ICPC/ECNA22/D.cpp](./ICPC/ECNA22/D.cpp)\
@@ -917,6 +920,14 @@
 [./ICPC/SCUSA25/nines.cpp](./ICPC/SCUSA25/nines.cpp)\
 [./ICPC/SCUSA25/photo.cpp](./ICPC/SCUSA25/photo.cpp)\
 [./ICPC/SCUSA25/tree.py](./ICPC/SCUSA25/tree.py)\
+[./ICPC/SCUSA26/B.py](./ICPC/SCUSA26/B.py)\
+[./ICPC/SCUSA26/D.cpp](./ICPC/SCUSA26/D.cpp)\
+[./ICPC/SCUSA26/E.cpp](./ICPC/SCUSA26/E.cpp)\
+[./ICPC/SCUSA26/G.cpp](./ICPC/SCUSA26/G.cpp)\
+[./ICPC/SCUSA26/J.cpp](./ICPC/SCUSA26/J.cpp)\
+[./ICPC/SCUSA26/K.cpp](./ICPC/SCUSA26/K.cpp)\
+[./ICPC/SCUSA26/L.cpp](./ICPC/SCUSA26/L.cpp)\
+[./ICPC/SCUSA26/M.cpp](./ICPC/SCUSA26/M.cpp)\
 [./ICPC/SWERC25/C.cpp](./ICPC/SWERC25/C.cpp)\
 [./ICPC/SWERC25/D.cpp](./ICPC/SWERC25/D.cpp)\
 [./ICPC/SWERC25/E.cpp](./ICPC/SWERC25/E.cpp)\
