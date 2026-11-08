@@ -1,7 +1,7 @@
 # Warith's Competitive Programming Repo
 ## Credit to [eyangch](https://github.com/eyangch/competitive-programming) for the script behind making this README
 
-### Total Files: 1372
+### Total Files: 1426
 [./CSES/Additional-Problems/mult_table.cpp](./CSES/Additional-Problems/mult_table.cpp)\
 [./CSES/Additional-Problems/square_subsets.cpp](./CSES/Additional-Problems/square_subsets.cpp)\
 [./CSES/Additional-Problems/swap_game.cpp](./CSES/Additional-Problems/swap_game.cpp)\
@@ -813,6 +813,15 @@
 [./Codeforces/992/A.java](./Codeforces/992/A.java)\
 [./Codeforces/992/B.py](./Codeforces/992/B.py)\
 [./Codeforces/999/B.cpp](./Codeforces/999/B.cpp)\
+[./ICPC/ECNA22/B.cpp](./ICPC/ECNA22/B.cpp)\
+[./ICPC/ECNA22/C.cpp](./ICPC/ECNA22/C.cpp)\
+[./ICPC/ECNA22/D.cpp](./ICPC/ECNA22/D.cpp)\
+[./ICPC/ECNA22/F.cpp](./ICPC/ECNA22/F.cpp)\
+[./ICPC/ECNA22/G.cpp](./ICPC/ECNA22/G.cpp)\
+[./ICPC/ECNA22/I.cpp](./ICPC/ECNA22/I.cpp)\
+[./ICPC/ECNA22/J.cpp](./ICPC/ECNA22/J.cpp)\
+[./ICPC/ECNA22/K.py](./ICPC/ECNA22/K.py)\
+[./ICPC/ECNA22/L.cpp](./ICPC/ECNA22/L.cpp)\
 [./ICPC/NAQ19/A.py](./ICPC/NAQ19/A.py)\
 [./ICPC/NAQ19/C.cpp](./ICPC/NAQ19/C.cpp)\
 [./ICPC/NAQ19/D.py](./ICPC/NAQ19/D.py)\
@@ -859,6 +868,29 @@
 [./ICPC/NAQ26/K.cpp](./ICPC/NAQ26/K.cpp)\
 [./ICPC/NAQ26/L.cpp](./ICPC/NAQ26/L.cpp)\
 [./ICPC/NAQ26/M.cpp](./ICPC/NAQ26/M.cpp)\
+[./ICPC/NWERC25/D.cpp](./ICPC/NWERC25/D.cpp)\
+[./ICPC/NWERC25/E.cpp](./ICPC/NWERC25/E.cpp)\
+[./ICPC/NWERC25/F.cpp](./ICPC/NWERC25/F.cpp)\
+[./ICPC/NWERC25/J.cpp](./ICPC/NWERC25/J.cpp)\
+[./ICPC/NWERC25/K.cpp](./ICPC/NWERC25/K.cpp)\
+[./ICPC/NWERC25/L.cpp](./ICPC/NWERC25/L.cpp)\
+[./ICPC/PNW24/B.cpp](./ICPC/PNW24/B.cpp)\
+[./ICPC/PNW24/C.cpp](./ICPC/PNW24/C.cpp)\
+[./ICPC/PNW24/D.cpp](./ICPC/PNW24/D.cpp)\
+[./ICPC/PNW24/F.cpp](./ICPC/PNW24/F.cpp)\
+[./ICPC/PNW24/I.cpp](./ICPC/PNW24/I.cpp)\
+[./ICPC/PNW24/K.cpp](./ICPC/PNW24/K.cpp)\
+[./ICPC/PNW24/L.cpp](./ICPC/PNW24/L.cpp)\
+[./ICPC/PNW24/N.cpp](./ICPC/PNW24/N.cpp)\
+[./ICPC/PNW24/P.cpp](./ICPC/PNW24/P.cpp)\
+[./ICPC/PNW24/Q.cpp](./ICPC/PNW24/Q.cpp)\
+[./ICPC/PNW24/R.cpp](./ICPC/PNW24/R.cpp)\
+[./ICPC/RMC25/A.cpp](./ICPC/RMC25/A.cpp)\
+[./ICPC/RMC25/C.cpp](./ICPC/RMC25/C.cpp)\
+[./ICPC/RMC25/G.cpp](./ICPC/RMC25/G.cpp)\
+[./ICPC/RMC25/H.cpp](./ICPC/RMC25/H.cpp)\
+[./ICPC/RMC25/I.cpp](./ICPC/RMC25/I.cpp)\
+[./ICPC/RMC25/L.cpp](./ICPC/RMC25/L.cpp)\
 [./ICPC/SCUSA22/cut.py](./ICPC/SCUSA22/cut.py)\
 [./ICPC/SCUSA22/nucleotide.py](./ICPC/SCUSA22/nucleotide.py)\
 [./ICPC/SCUSA22/pea.py](./ICPC/SCUSA22/pea.py)\
@@ -885,6 +917,27 @@
 [./ICPC/SCUSA25/nines.cpp](./ICPC/SCUSA25/nines.cpp)\
 [./ICPC/SCUSA25/photo.cpp](./ICPC/SCUSA25/photo.cpp)\
 [./ICPC/SCUSA25/tree.py](./ICPC/SCUSA25/tree.py)\
+[./ICPC/SWERC25/C.cpp](./ICPC/SWERC25/C.cpp)\
+[./ICPC/SWERC25/D.cpp](./ICPC/SWERC25/D.cpp)\
+[./ICPC/SWERC25/E.cpp](./ICPC/SWERC25/E.cpp)\
+[./ICPC/SWERC25/F.cpp](./ICPC/SWERC25/F.cpp)\
+[./ICPC/Tryout25/A.py](./ICPC/Tryout25/A.py)\
+[./ICPC/Tryout25/B.cpp](./ICPC/Tryout25/B.cpp)\
+[./ICPC/Tryout25/F.cpp](./ICPC/Tryout25/F.cpp)\
+[./ICPC/Tryout26/A.cpp](./ICPC/Tryout26/A.cpp)\
+[./ICPC/Tryout26/B.cpp](./ICPC/Tryout26/B.cpp)\
+[./ICPC/Tryout26/C.cpp](./ICPC/Tryout26/C.cpp)\
+[./ICPC/Tryout26/D.cpp](./ICPC/Tryout26/D.cpp)\
+[./ICPC/UKIEPC25/B.cpp](./ICPC/UKIEPC25/B.cpp)\
+[./ICPC/UKIEPC25/C.cpp](./ICPC/UKIEPC25/C.cpp)\
+[./ICPC/UKIEPC25/E.cpp](./ICPC/UKIEPC25/E.cpp)\
+[./ICPC/UKIEPC25/F.cpp](./ICPC/UKIEPC25/F.cpp)\
+[./ICPC/UKIEPC25/G.cpp](./ICPC/UKIEPC25/G.cpp)\
+[./ICPC/UKIEPC25/I.cpp](./ICPC/UKIEPC25/I.cpp)\
+[./ICPC/UKIEPC25/J.cpp](./ICPC/UKIEPC25/J.cpp)\
+[./ICPC/UKIEPC25/L.cpp](./ICPC/UKIEPC25/L.cpp)\
+[./ICPC/UKIEPC25/M.cpp](./ICPC/UKIEPC25/M.cpp)\
+[./ICPC/UKIEPC25/cpp](./ICPC/UKIEPC25/cpp)\
 [./Leetcode/1696.java](./Leetcode/1696.java)\
 [./Leetcode/Easy/100.py](./Leetcode/Easy/100.py)\
 [./Leetcode/Easy/101.java](./Leetcode/Easy/101.java)\
@@ -1029,6 +1082,7 @@
 [./Leetcode/Easy/977.java](./Leetcode/Easy/977.java)\
 [./Leetcode/Hard/1092.java](./Leetcode/Hard/1092.java)\
 [./Leetcode/Hard/1106.java](./Leetcode/Hard/1106.java)\
+[./Leetcode/Hard/124.py](./Leetcode/Hard/124.py)\
 [./Leetcode/Hard/1255.cpp](./Leetcode/Hard/1255.cpp)\
 [./Leetcode/Hard/127.java](./Leetcode/Hard/127.java)\
 [./Leetcode/Hard/1284.java](./Leetcode/Hard/1284.java)\
@@ -1304,7 +1358,7 @@
 [./Leetcode/Medium/386.java](./Leetcode/Medium/386.java)\
 [./Leetcode/Medium/417.java](./Leetcode/Medium/417.java)\
 [./Leetcode/Medium/424.java](./Leetcode/Medium/424.java)\
-[./Leetcode/Medium/43.java](./Leetcode/Medium/43.java)\
+[./Leetcode/Medium/43.py](./Leetcode/Medium/43.py)\
 [./Leetcode/Medium/45.cpp](./Leetcode/Medium/45.cpp)\
 [./Leetcode/Medium/451.java](./Leetcode/Medium/451.java)\
 [./Leetcode/Medium/48.java](./Leetcode/Medium/48.java)\
